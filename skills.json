@@ -1,0 +1,344 @@
+{
+  "count": 20,
+  "skills": [
+    {
+      "slug": "seo-cluster-builder",
+      "kind": "skill",
+      "title": "SEO Cluster Builder",
+      "description": "One seed keyword into a full hub-and-spoke content map with an internal-link matrix.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Cursor"
+      ],
+      "category": "SEO",
+      "url": "https://godofskills.com/skills/seo-cluster-builder",
+      "rawUrl": "https://godofskills.com/r/skills/seo-cluster-builder.md"
+    },
+    {
+      "slug": "cold-email-that-books",
+      "kind": "prompt",
+      "title": "Cold Email That Books",
+      "description": "A 6-step chain that writes cold emails from a prospect's LinkedIn: hook, proof, one ask.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "category": "Sales",
+      "url": "https://godofskills.com/prompts/cold-email-that-books",
+      "rawUrl": "https://godofskills.com/r/prompts/cold-email-that-books.md"
+    },
+    {
+      "slug": "changelog-writer",
+      "kind": "skill",
+      "title": "Changelog Writer",
+      "description": "Reads merged PRs and drafts a human changelog grouped by feature / fix / chore.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Copilot"
+      ],
+      "category": "Engineering",
+      "url": "https://godofskills.com/skills/changelog-writer",
+      "rawUrl": "https://godofskills.com/r/skills/changelog-writer.md"
+    },
+    {
+      "slug": "landing-page-teardown",
+      "kind": "prompt",
+      "title": "Landing Page Teardown",
+      "description": "Paste a URL, get a conversion audit: hierarchy, hook, objections, CTA — scored 0–100.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/prompts/landing-page-teardown",
+      "rawUrl": "https://godofskills.com/r/prompts/landing-page-teardown.md"
+    },
+    {
+      "slug": "founder-crm-notion",
+      "kind": "template",
+      "title": "Founder CRM (Notion)",
+      "description": "A ready Notion CRM wired for AI enrichment — drop a name, the linked prompt fills the row.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "category": "Ops",
+      "url": "https://godofskills.com/templates/founder-crm-notion",
+      "rawUrl": "https://godofskills.com/r/templates/founder-crm-notion.md"
+    },
+    {
+      "slug": "brand-voice-codifier",
+      "kind": "skill",
+      "title": "Brand Voice Codifier",
+      "description": "Feed it 10 posts, it writes a reusable voice guide every future prompt can load.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "Cursor"
+      ],
+      "category": "Writing",
+      "url": "https://godofskills.com/skills/brand-voice-codifier",
+      "rawUrl": "https://godofskills.com/r/skills/brand-voice-codifier.md"
+    },
+    {
+      "slug": "seo-content-brief",
+      "kind": "skill",
+      "title": "SEO Content Brief Builder",
+      "description": "Competitive briefs with per-section word counts, entities to cover, and a title/meta set.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Claude"
+      ],
+      "category": "SEO",
+      "url": "https://godofskills.com/skills/seo-content-brief",
+      "rawUrl": "https://godofskills.com/r/skills/seo-content-brief.md"
+    },
+    {
+      "slug": "meeting-notes-to-actions",
+      "kind": "prompt",
+      "title": "Meeting Notes → Actions",
+      "description": "Paste a transcript, get owners, decisions, and dated action items — nothing invented.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "ChatGPT",
+        "Gemini"
+      ],
+      "category": "Ops",
+      "url": "https://godofskills.com/prompts/meeting-notes-to-actions",
+      "rawUrl": "https://godofskills.com/r/prompts/meeting-notes-to-actions.md"
+    },
+    {
+      "slug": "ai-dslr-photography",
+      "kind": "style-guide",
+      "title": "AI Photography: The DSLR Style Guide",
+      "description": "The camera, lens, film-stock and lighting vocabulary that turns flat AI images into photographs that look real.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Midjourney",
+        "GPT Image",
+        "Flux",
+        "Nano Banana",
+        "Stable Diffusion"
+      ],
+      "category": "Image style guides",
+      "url": "https://godofskills.com/ai-dslr-photography",
+      "rawUrl": "https://godofskills.com/r/guides/ai-dslr-photography.md"
+    },
+    {
+      "slug": "ai-art-styles",
+      "kind": "style-guide",
+      "title": "AI Art Styles: The Reference",
+      "description": "One subject rendered across 20 art movements, each with the exact prompt, so you can see what every style actually does.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Midjourney",
+        "GPT Image",
+        "Flux",
+        "Nano Banana",
+        "Stable Diffusion"
+      ],
+      "category": "Image style guides",
+      "url": "https://godofskills.com/ai-art-styles",
+      "rawUrl": "https://godofskills.com/r/guides/ai-art-styles.md"
+    },
+    {
+      "slug": "ai-product-photography",
+      "kind": "style-guide",
+      "title": "AI Product Photography: Setups & Mockups",
+      "description": "One product across 16 studio setups, surfaces and lighting, each with the prompt, so you can shoot any product without a studio.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Midjourney",
+        "GPT Image",
+        "Flux",
+        "Nano Banana",
+        "Stable Diffusion"
+      ],
+      "category": "Image style guides",
+      "url": "https://godofskills.com/ai-product-photography",
+      "rawUrl": "https://godofskills.com/r/guides/ai-product-photography.md"
+    },
+    {
+      "slug": "ai-anime-styles",
+      "kind": "style-guide",
+      "title": "AI Anime & Illustration Styles",
+      "description": "One character across 16 anime and manga sub-styles, each with the prompt, from Ghibli to webtoon to noir manga.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Midjourney",
+        "GPT Image",
+        "Flux",
+        "Nano Banana",
+        "Stable Diffusion"
+      ],
+      "category": "Image style guides",
+      "url": "https://godofskills.com/ai-anime-styles",
+      "rawUrl": "https://godofskills.com/r/guides/ai-anime-styles.md"
+    },
+    {
+      "slug": "ai-food-photography",
+      "kind": "style-guide",
+      "title": "AI Food Photography",
+      "description": "12 food-photography styles, from dark-and-moody to bright-and-airy to flat-lay, each with the prompt.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Midjourney",
+        "GPT Image",
+        "Flux",
+        "Nano Banana",
+        "Stable Diffusion"
+      ],
+      "category": "Image style guides",
+      "url": "https://godofskills.com/ai-food-photography",
+      "rawUrl": "https://godofskills.com/r/guides/ai-food-photography.md"
+    },
+    {
+      "slug": "ai-interior-design",
+      "kind": "style-guide",
+      "title": "AI Interior Design Styles",
+      "description": "One living room across 14 interior-design styles, each with the prompt, from Scandinavian to japandi to maximalist.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Midjourney",
+        "GPT Image",
+        "Flux",
+        "Nano Banana",
+        "Stable Diffusion"
+      ],
+      "category": "Image style guides",
+      "url": "https://godofskills.com/ai-interior-design",
+      "rawUrl": "https://godofskills.com/r/guides/ai-interior-design.md"
+    },
+    {
+      "slug": "ai-portrait-styles",
+      "kind": "style-guide",
+      "title": "AI Portrait Styles",
+      "description": "16 kinds of portrait, from corporate headshot to editorial to cinematic, each with the prompt.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Midjourney",
+        "GPT Image",
+        "Flux",
+        "Nano Banana",
+        "Stable Diffusion"
+      ],
+      "category": "Image style guides",
+      "url": "https://godofskills.com/ai-portrait-styles",
+      "rawUrl": "https://godofskills.com/r/guides/ai-portrait-styles.md"
+    },
+    {
+      "slug": "ai-fashion-photography",
+      "kind": "style-guide",
+      "title": "AI Fashion Photography",
+      "description": "One model across 14 fashion-photography styles, from runway to streetwear to haute couture, each with the prompt.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Midjourney",
+        "GPT Image",
+        "Flux",
+        "Nano Banana",
+        "Stable Diffusion"
+      ],
+      "category": "Image style guides",
+      "url": "https://godofskills.com/ai-fashion-photography",
+      "rawUrl": "https://godofskills.com/r/guides/ai-fashion-photography.md"
+    },
+    {
+      "slug": "ai-film-stock-emulation",
+      "kind": "style-guide",
+      "title": "AI Film Stock Emulation",
+      "description": "One portrait across 14 film stocks, so you can see exactly what each film's colour does, each with the prompt.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Midjourney",
+        "GPT Image",
+        "Flux",
+        "Nano Banana",
+        "Stable Diffusion"
+      ],
+      "category": "Image style guides",
+      "url": "https://godofskills.com/ai-film-stock-emulation",
+      "rawUrl": "https://godofskills.com/r/guides/ai-film-stock-emulation.md"
+    },
+    {
+      "slug": "ai-image-controls-compared",
+      "kind": "style-guide",
+      "title": "AI Image Controls, Compared",
+      "description": "The same handful of dials (aspect ratio, style strength, seed, reference images) mapped across every major image model.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Midjourney",
+        "GPT Image",
+        "Flux",
+        "Nano Banana",
+        "Stable Diffusion"
+      ],
+      "category": "Image style guides",
+      "url": "https://godofskills.com/ai-image-controls-compared",
+      "rawUrl": "https://godofskills.com/r/guides/ai-image-controls-compared.md"
+    },
+    {
+      "slug": "ai-consistent-characters",
+      "kind": "style-guide",
+      "title": "Consistent Characters Across AI Images",
+      "description": "How to keep the same character across multiple AI images, using today's methods, not the obsolete Midjourney trick.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Midjourney",
+        "GPT Image",
+        "Flux",
+        "Nano Banana",
+        "Stable Diffusion"
+      ],
+      "category": "Image style guides",
+      "url": "https://godofskills.com/ai-consistent-characters",
+      "rawUrl": "https://godofskills.com/r/guides/ai-consistent-characters.md"
+    },
+    {
+      "slug": "ai-blending-reference-images",
+      "kind": "style-guide",
+      "title": "Blending & Reference Images",
+      "description": "How to combine two images or ideas into one, using multi-image reference input, the modern replacement for photobashing.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Midjourney",
+        "GPT Image",
+        "Flux",
+        "Nano Banana",
+        "Stable Diffusion"
+      ],
+      "category": "Image style guides",
+      "url": "https://godofskills.com/ai-blending-reference-images",
+      "rawUrl": "https://godofskills.com/r/guides/ai-blending-reference-images.md"
+    }
+  ]
+}
