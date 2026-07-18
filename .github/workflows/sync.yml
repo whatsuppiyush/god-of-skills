@@ -1,0 +1,49 @@
+name: Sync from godofskills.com
+
+# Keeps this repo mirroring the website. Regenerates the department tree from the
+# live registry and pushes any changes. Runs nightly + on demand. Until the site
+# is deployed at https://godofskills.com the fetch is skipped gracefully (no-op).
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily 03:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Regenerate from the live site
+        id: gen
+        run: |
+          if node .github/scripts/build-skills-repo.mjs https://godofskills.com .; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Site not reachable yet (not deployed?). Skipping this run."
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push if changed
+        if: steps.gen.outputs.ok == 'true'
+        run: |
+          git config user.name "god-of-skills-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "Sync from godofskills.com [skip ci]"
+            git push
+          else
+            echo "No changes — already in sync."
+          fi
