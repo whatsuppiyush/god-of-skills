@@ -1,124 +1,75 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page not found</title>
-    <style>
-      :root {
-        --colorRgbFacetsTeal600: 2 128 125;
-        --colorTealAction: var(--colorRgbFacetsTeal600);
-        --colorRgbFacetsNeutralLight200: 233 235 237;
-        --colorHr: var(--colorRgbFacetsNeutralLight200);
-        --colorRgbFacetsNeutralLight700: 53 58 62;
-        --colorGrayDarkest: var(--colorRgbFacetsNeutralLight700);
-        --colorGrayLighter: var(--colorRgbFacetsNeutralLight200);
-        --colorText: var(--colorGrayDarkest);
-        --effectShadowLightShallow: 0 1px 10px 0 rgb(53 58 62 / 6%),
-          0 2px 4px 0 rgb(53 58 62 / 8%);
-        --colorRgbFacetsNeutralDark900: 6 11 16;
-      }
-      body {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-          Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
-          "Segoe UI Emoji", "Segoe UI Symbol";
-        background: white;
-        overflow: hidden;
-        margin: 0;
-        padding: 0;
-        line-height: 1.5;
-        color: rgb(var(--colorText));
-      }
+---
+name: ai-consistent-characters
+description: How to keep the same character across multiple AI images, using today's methods, not the obsolete Midjourney trick.
+---
 
-      @media (prefers-color-scheme: dark) {
-        body {
-          background: rgb(var(--colorRgbFacetsNeutralDark900));
-        }
-      }
 
-      h1 {
-        margin: 0;
-        font-size: 1.375rem;
-        line-height: 1;
-      }
+# Consistent Characters Across AI Images
 
-      h1 + p {
-        margin-top: 8px;
-      }
+Keeping one character looking the same across many images is the single most-asked problem in AI image generation, and the answer changed. The old Midjourney `--cref` trick is fading; today the reliable methods are reference images, image-to-image, and the strong character consistency in newer models like Nano Banana. This guide is the working playbook: the methods that actually hold a character together, in order of reliability, plus the details that make or break it.
 
-      .main {
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        width: 100vw;
-      }
+Works in: Midjourney, GPT Image, Flux, Nano Banana, Stable Diffusion.
 
-      .card {
-        position: relative;
-        width: 75%;
-        max-width: 364px;
-        padding: 24px;
-        background: white;
-        border-radius: 8px;
-        box-shadow: var(--effectShadowLightShallow);
-        border: 1px solid rgb(var(--colorGrayLighter));
-      }
+## How to use this skill
 
-      a {
-        margin: 0;
-        font-weight: 600;
-        color: rgb(var(--colorTealAction));
-        text-decoration-skip-ink: all;
-        text-decoration-thickness: 1px;
-        text-underline-offset: 2px;
-        text-decoration-color: rgb(var(--colorTealAction) / 0.5);
-        transition: text-decoration-color 0.15s ease-in-out;
-      }
+When the user asks for an image prompt in this style, compose one using the formulas and vocabulary below. Fill each slot with a concrete choice, then return the finished prompt. Prefer naming a real camera/lens, a light, and a colour or film treatment, which is what makes the output read as a real photograph rather than an AI render.
 
-      a:hover,
-      a:focus-visible {
-        text-decoration-color: rgb(var(--colorTealAction));
-      }
+## Formulas
 
-      p:last-of-type {
-        margin-bottom: 0;
-      }
+**The consistency recipe**
+```
+a fixed, detailed character description (reused verbatim) + a reference image + one changed thing (pose / scene / outfit)
+```
+Lock the description and the reference; change only one variable per image. That is how you get the same person in a new situation instead of a new person.
 
-      hr {
-        border: 0;
-        height: 1px;
-        background: rgb(var(--colorHr));
-        margin-top: 16px;
-        margin-bottom: 16px;
-      }
+## Worked prompt examples
 
-      .your-site {
-        font-size: 0.875rem;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="main">
-      <div class="card">
-        <h1>Page not found</h1>
-        <p>
-          Looks like you’ve followed a broken link or entered a URL that doesn’t
-          exist on this site.
-        </p>
-        <hr />
-        <p class="your-site">
-          If this is your site, and you weren’t expecting a 404 for this path,
-          please visit Netlify’s
-          <a
-            href="https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125?utm_source=404page&utm_campaign=community_tracking"
-            >“page not found” support guide</a
-          >
-          for troubleshooting tips.
-        </p>
-      </div>
-    </div>
-  </body>
-</html>
+_The reusable character sheet_
+```
+Character: a woman, late 20s, warm brown skin, short black curly hair, round gold glasses, small scar above left eyebrow, green utility jacket. [Reuse this block verbatim, then add the scene.] ...standing in a rainy market at night.
+```
+
+_Base reference_
+```
+Character sheet: a woman, late 20s, short black curly hair, round gold glasses, green utility jacket, neutral standing pose, plain background, consistent illustration style
+```
+
+_New scene, same character_
+```
+The same character (reuse the description + reference image), now sitting at a cafe table, warm light, same face, hair, glasses and jacket
+```
+
+_New pose, same character_
+```
+The same character (reuse the description + reference image), now walking through a rainy street at night, dynamic pose, same face, hair, glasses and jacket
+```
+
+## Vocabulary
+
+### The methods, most reliable first
+
+**Reference images (most reliable)**
+- **How**: Generate one clean reference of the character, then attach it and ask for new poses/scenes. GPT Image and Nano Banana are strong at this; Midjourney uses image prompts + --cref; Stable Diffusion uses IP-Adapter / ControlNet.
+- **When**: Any time you need more than one image of the same character. This is the default in 2026.
+- **Catch**: Large changes (very different angle or lighting) still drift. Change one thing at a time.
+
+**A fixed character description**
+- **How**: Write a specific, detailed description (age, hair, distinctive features, clothing) and reuse it verbatim in every prompt.
+- **When**: Always, alongside a reference. It is the cheap half of the recipe.
+- **Catch**: Vague words drift. Name specific, repeatable features (a scar, a particular jacket), not moods.
+
+**Image-to-image / inpainting**
+- **How**: Take an existing image of the character and edit it (new background, new outfit) rather than generating from scratch.
+- **When**: Small changes to an image you already like.
+- **Catch**: Drifts if you push the change strength too high; keep edits modest.
+
+**Seed locking (Midjourney / Stable Diffusion)**
+- **How**: Fix the seed so the starting point is the same across generations.
+- **When**: A helper on models that expose a seed; weakest method on its own.
+- **Catch**: A same seed does not guarantee the same face if the prompt changes much. Use with a reference.
+
+
+---
+
+From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
+Source: https://godofskills.com/ai-consistent-characters?ref=claude-skill

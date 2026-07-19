@@ -1,124 +1,77 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page not found</title>
-    <style>
-      :root {
-        --colorRgbFacetsTeal600: 2 128 125;
-        --colorTealAction: var(--colorRgbFacetsTeal600);
-        --colorRgbFacetsNeutralLight200: 233 235 237;
-        --colorHr: var(--colorRgbFacetsNeutralLight200);
-        --colorRgbFacetsNeutralLight700: 53 58 62;
-        --colorGrayDarkest: var(--colorRgbFacetsNeutralLight700);
-        --colorGrayLighter: var(--colorRgbFacetsNeutralLight200);
-        --colorText: var(--colorGrayDarkest);
-        --effectShadowLightShallow: 0 1px 10px 0 rgb(53 58 62 / 6%),
-          0 2px 4px 0 rgb(53 58 62 / 8%);
-        --colorRgbFacetsNeutralDark900: 6 11 16;
-      }
-      body {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-          Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
-          "Segoe UI Emoji", "Segoe UI Symbol";
-        background: white;
-        overflow: hidden;
-        margin: 0;
-        padding: 0;
-        line-height: 1.5;
-        color: rgb(var(--colorText));
-      }
+---
+name: ai-anime-styles
+description: One character across 16 anime and manga sub-styles, each with the prompt, from Ghibli to webtoon to noir manga.
+---
 
-      @media (prefers-color-scheme: dark) {
-        body {
-          background: rgb(var(--colorRgbFacetsNeutralDark900));
-        }
-      }
 
-      h1 {
-        margin: 0;
-        font-size: 1.375rem;
-        line-height: 1;
-      }
+# AI Anime & Illustration Styles
 
-      h1 + p {
-        margin-top: 8px;
-      }
+"Anime style" is not one look, it is dozens. This guide holds one character across 16 anime and manga sub-styles, so the difference you see is the style, not the subject. Ghibli's soft watercolour worlds, shonen's high-energy lines, seinen's mature realism, webtoon's clean digital colour, noir manga's ink and screentone. Copy a prompt, swap in your character, and you have the look. Model-agnostic across Midjourney, GPT Image, Flux and Nano Banana.
 
-      .main {
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        width: 100vw;
-      }
+Works in: Midjourney, GPT Image, Flux, Nano Banana, Stable Diffusion.
 
-      .card {
-        position: relative;
-        width: 75%;
-        max-width: 364px;
-        padding: 24px;
-        background: white;
-        border-radius: 8px;
-        box-shadow: var(--effectShadowLightShallow);
-        border: 1px solid rgb(var(--colorGrayLighter));
-      }
+## How to use this skill
 
-      a {
-        margin: 0;
-        font-weight: 600;
-        color: rgb(var(--colorTealAction));
-        text-decoration-skip-ink: all;
-        text-decoration-thickness: 1px;
-        text-underline-offset: 2px;
-        text-decoration-color: rgb(var(--colorTealAction) / 0.5);
-        transition: text-decoration-color 0.15s ease-in-out;
-      }
+When the user asks for an image prompt in this style, compose one using the formulas and vocabulary below. Fill each slot with a concrete choice, then return the finished prompt. Prefer naming a real camera/lens, a light, and a colour or film treatment, which is what makes the output read as a real photograph rather than an AI render.
 
-      a:hover,
-      a:focus-visible {
-        text-decoration-color: rgb(var(--colorTealAction));
-      }
+## Formulas
 
-      p:last-of-type {
-        margin-bottom: 0;
-      }
+**The anime formula**
+```
+[character + action], in the [anime sub-style] style, [two signature traits], [studio or era, optional]
+```
+The signature traits stop the model averaging. For shoujo: 'sparkling eyes, soft pastels'. For seinen: 'realistic proportions, muted tones'. For manga: 'black and white, screentone shading'.
 
-      hr {
-        border: 0;
-        height: 1px;
-        background: rgb(var(--colorHr));
-        margin-top: 16px;
-        margin-bottom: 16px;
-      }
+## Worked prompt examples
 
-      .your-site {
-        font-size: 0.875rem;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="main">
-      <div class="card">
-        <h1>Page not found</h1>
-        <p>
-          Looks like you’ve followed a broken link or entered a URL that doesn’t
-          exist on this site.
-        </p>
-        <hr />
-        <p class="your-site">
-          If this is your site, and you weren’t expecting a 404 for this path,
-          please visit Netlify’s
-          <a
-            href="https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125?utm_source=404page&utm_campaign=community_tracking"
-            >“page not found” support guide</a
-          >
-          for troubleshooting tips.
-        </p>
-      </div>
-    </div>
-  </body>
-</html>
+_Naming the studio_
+```
+A young woman with windswept hair, anime character, upper body, in the Studio Ghibli style, soft painterly watercolour backgrounds, gentle warm colours, hand-drawn
+```
+
+_Modern cel-shaded_
+```
+A young woman with windswept hair, anime character, upper body, in a modern cel-shaded anime style, clean flat shading, crisp lineart, vibrant
+```
+
+_Noir manga_
+```
+A young woman with windswept hair, anime character, upper body, as black-and-white manga, bold ink, screentone shading, dramatic
+```
+
+_Webtoon / manhwa_
+```
+A young woman with windswept hair, anime character, upper body, in a Korean webtoon manhwa style, clean digital colouring, soft gradients
+```
+
+## Vocabulary
+
+### 16 anime styles, one character
+
+**Classic anime**
+- **Studio Ghibli**: Soft painterly backgrounds, gentle colours, hand-drawn warmth.
+- **Shonen**: Bold dynamic lines, high energy, saturated colour. Action anime.
+- **Seinen**: Realistic proportions, mature muted tones, detailed.
+- **Shoujo**: Delicate, sparkling eyes, soft pastels, floral accents.
+- **1990s retro**: Grainy film look, muted palette, VHS nostalgia.
+- **Slice-of-life**: Warm pastel colours, cozy, gentle light. Everyday calm.
+
+**Manga & ink**
+- **Noir manga**: Black and white, bold ink, screentone shading, dramatic.
+- **Sumi-e ink**: Minimal black brush ink, expressive strokes, negative space.
+- **Dark fantasy**: Dramatic shadows, intricate detail, ominous mood. Berserk-like.
+- **Chibi**: Super-deformed, big head, tiny body, very cute.
+
+**Modern digital**
+- **Cel-shaded**: Clean flat shading, crisp lineart, vibrant. Modern default.
+- **Modern digital**: Glossy rendering, detailed lighting, painterly polish.
+- **Watercolour**: Soft washes, delicate edges, gentle illustration.
+- **Webtoon**: Clean digital colour, soft gradients. Korean manhwa.
+- **Vaporwave anime**: Pink-and-teal 80s city-pop palette, retro glow.
+- **Mecha / sci-fi**: Hard mechanical detail, dynamic angles, sci-fi mood.
+
+
+---
+
+From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
+Source: https://godofskills.com/ai-anime-styles?ref=claude-skill

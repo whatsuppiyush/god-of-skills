@@ -1,124 +1,77 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page not found</title>
-    <style>
-      :root {
-        --colorRgbFacetsTeal600: 2 128 125;
-        --colorTealAction: var(--colorRgbFacetsTeal600);
-        --colorRgbFacetsNeutralLight200: 233 235 237;
-        --colorHr: var(--colorRgbFacetsNeutralLight200);
-        --colorRgbFacetsNeutralLight700: 53 58 62;
-        --colorGrayDarkest: var(--colorRgbFacetsNeutralLight700);
-        --colorGrayLighter: var(--colorRgbFacetsNeutralLight200);
-        --colorText: var(--colorGrayDarkest);
-        --effectShadowLightShallow: 0 1px 10px 0 rgb(53 58 62 / 6%),
-          0 2px 4px 0 rgb(53 58 62 / 8%);
-        --colorRgbFacetsNeutralDark900: 6 11 16;
-      }
-      body {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-          Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
-          "Segoe UI Emoji", "Segoe UI Symbol";
-        background: white;
-        overflow: hidden;
-        margin: 0;
-        padding: 0;
-        line-height: 1.5;
-        color: rgb(var(--colorText));
-      }
+---
+name: ai-portrait-styles
+description: 16 kinds of portrait, from corporate headshot to editorial to cinematic, each with the prompt.
+---
 
-      @media (prefers-color-scheme: dark) {
-        body {
-          background: rgb(var(--colorRgbFacetsNeutralDark900));
-        }
-      }
 
-      h1 {
-        margin: 0;
-        font-size: 1.375rem;
-        line-height: 1;
-      }
+# AI Portrait Styles
 
-      h1 + p {
-        margin-top: 8px;
-      }
+"Portrait" covers everything from a clean LinkedIn headshot to a moody neon-lit editorial. This guide is the 16 kinds of portrait, so you can pick the one that fits the job, not just the model's best guess. It is the companion to the DSLR photography guide: that one teaches the camera and lens craft, this one is the styles you point it at. Copy a prompt, swap in your subject, done. Works across Midjourney, GPT Image, Flux and Nano Banana.
 
-      .main {
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        width: 100vw;
-      }
+Works in: Midjourney, GPT Image, Flux, Nano Banana, Stable Diffusion.
 
-      .card {
-        position: relative;
-        width: 75%;
-        max-width: 364px;
-        padding: 24px;
-        background: white;
-        border-radius: 8px;
-        box-shadow: var(--effectShadowLightShallow);
-        border: 1px solid rgb(var(--colorGrayLighter));
-      }
+## How to use this skill
 
-      a {
-        margin: 0;
-        font-weight: 600;
-        color: rgb(var(--colorTealAction));
-        text-decoration-skip-ink: all;
-        text-decoration-thickness: 1px;
-        text-underline-offset: 2px;
-        text-decoration-color: rgb(var(--colorTealAction) / 0.5);
-        transition: text-decoration-color 0.15s ease-in-out;
-      }
+When the user asks for an image prompt in this style, compose one using the formulas and vocabulary below. Fill each slot with a concrete choice, then return the finished prompt. Prefer naming a real camera/lens, a light, and a colour or film treatment, which is what makes the output read as a real photograph rather than an AI render.
 
-      a:hover,
-      a:focus-visible {
-        text-decoration-color: rgb(var(--colorTealAction));
-      }
+## Formulas
 
-      p:last-of-type {
-        margin-bottom: 0;
-      }
+**The portrait formula**
+```
+[subject], [portrait style], [lighting], [background], [mood], sharp focus, natural skin texture
+```
+'Natural skin texture' fights the plastic AI-skin look on any portrait. The style word (corporate / editorial / beauty / cinematic) sets everything else.
 
-      hr {
-        border: 0;
-        height: 1px;
-        background: rgb(var(--colorHr));
-        margin-top: 16px;
-        margin-bottom: 16px;
-      }
+## Worked prompt examples
 
-      .your-site {
-        font-size: 0.875rem;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="main">
-      <div class="card">
-        <h1>Page not found</h1>
-        <p>
-          Looks like you’ve followed a broken link or entered a URL that doesn’t
-          exist on this site.
-        </p>
-        <hr />
-        <p class="your-site">
-          If this is your site, and you weren’t expecting a 404 for this path,
-          please visit Netlify’s
-          <a
-            href="https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125?utm_source=404page&utm_campaign=community_tracking"
-            >“page not found” support guide</a
-          >
-          for troubleshooting tips.
-        </p>
-      </div>
-    </div>
-  </body>
-</html>
+_The professional headshot_
+```
+A portrait of a woman with dark hair, clean corporate headshot, neutral grey background, soft even lighting, friendly, sharp focus, natural skin texture
+```
+
+_Black & white_
+```
+A portrait of a woman with dark hair, black and white portrait, dramatic contrast, timeless
+```
+
+_Neon night_
+```
+A portrait of a woman with dark hair, neon night portrait, coloured city light, moody, urban, cinematic
+```
+
+_Golden hour_
+```
+A portrait of a woman with dark hair, golden hour portrait, warm backlight, natural, dreamy
+```
+
+## Vocabulary
+
+### 16 portrait styles, one subject
+
+**Professional & clean**
+- **Corporate headshot**: Neutral background, soft even light. LinkedIn, team pages.
+- **High-key beauty**: Bright, white, minimal shadow. Beauty and skincare.
+- **Beauty close-up**: Flawless skin, soft glowing light, tight crop.
+- **Environmental**: Subject in their real context. Storytelling, about-pages.
+- **Candid lifestyle**: Natural, unposed, often laughing. Warm and human.
+
+**Dramatic & moody**
+- **Editorial**: Dramatic, styled, magazine. Fashion and features.
+- **Low-key**: Deep shadow, single light. Intense and moody.
+- **Black & white**: High-contrast monochrome. Timeless and structural.
+- **Rembrandt**: Painterly triangle of light under one eye. Classic.
+- **Silhouette**: Backlit against a bright window. Minimal and moody.
+- **Cinematic**: Film still, teal-and-orange, shallow focus. Movie-like.
+
+**Creative & mood**
+- **Golden hour**: Warm backlight, soft glow. Flattering and dreamy.
+- **Neon night**: Coloured city light, dark, urban, cinematic.
+- **Coloured gel**: Bold coloured studio gels. Creative and graphic.
+- **Vintage film**: Grain, faded warm tones, 1970s nostalgia.
+- **Macro eyes**: Extreme close-up on the eyes. Intense detail.
+
+
+---
+
+From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
+Source: https://godofskills.com/ai-portrait-styles?ref=claude-skill

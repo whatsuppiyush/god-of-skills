@@ -1,124 +1,75 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page not found</title>
-    <style>
-      :root {
-        --colorRgbFacetsTeal600: 2 128 125;
-        --colorTealAction: var(--colorRgbFacetsTeal600);
-        --colorRgbFacetsNeutralLight200: 233 235 237;
-        --colorHr: var(--colorRgbFacetsNeutralLight200);
-        --colorRgbFacetsNeutralLight700: 53 58 62;
-        --colorGrayDarkest: var(--colorRgbFacetsNeutralLight700);
-        --colorGrayLighter: var(--colorRgbFacetsNeutralLight200);
-        --colorText: var(--colorGrayDarkest);
-        --effectShadowLightShallow: 0 1px 10px 0 rgb(53 58 62 / 6%),
-          0 2px 4px 0 rgb(53 58 62 / 8%);
-        --colorRgbFacetsNeutralDark900: 6 11 16;
-      }
-      body {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-          Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
-          "Segoe UI Emoji", "Segoe UI Symbol";
-        background: white;
-        overflow: hidden;
-        margin: 0;
-        padding: 0;
-        line-height: 1.5;
-        color: rgb(var(--colorText));
-      }
+---
+name: ai-fashion-photography
+description: One model across 14 fashion-photography styles, from runway to streetwear to haute couture, each with the prompt.
+---
 
-      @media (prefers-color-scheme: dark) {
-        body {
-          background: rgb(var(--colorRgbFacetsNeutralDark900));
-        }
-      }
 
-      h1 {
-        margin: 0;
-        font-size: 1.375rem;
-        line-height: 1;
-      }
+# AI Fashion Photography
 
-      h1 + p {
-        margin-top: 8px;
-      }
+Fashion photography has as many looks as fashion itself. This guide holds one model across 14 fashion-photography styles, so the difference you see is the treatment, from a clean minimalist lookbook to a dramatic editorial to gritty street style. Copy a prompt, describe your own garment, and you have the shot. Works across Midjourney, GPT Image, Flux and Nano Banana.
 
-      .main {
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        width: 100vw;
-      }
+Works in: Midjourney, GPT Image, Flux, Nano Banana, Stable Diffusion.
 
-      .card {
-        position: relative;
-        width: 75%;
-        max-width: 364px;
-        padding: 24px;
-        background: white;
-        border-radius: 8px;
-        box-shadow: var(--effectShadowLightShallow);
-        border: 1px solid rgb(var(--colorGrayLighter));
-      }
+## How to use this skill
 
-      a {
-        margin: 0;
-        font-weight: 600;
-        color: rgb(var(--colorTealAction));
-        text-decoration-skip-ink: all;
-        text-decoration-thickness: 1px;
-        text-underline-offset: 2px;
-        text-decoration-color: rgb(var(--colorTealAction) / 0.5);
-        transition: text-decoration-color 0.15s ease-in-out;
-      }
+When the user asks for an image prompt in this style, compose one using the formulas and vocabulary below. Fill each slot with a concrete choice, then return the finished prompt. Prefer naming a real camera/lens, a light, and a colour or film treatment, which is what makes the output read as a real photograph rather than an AI render.
 
-      a:hover,
-      a:focus-visible {
-        text-decoration-color: rgb(var(--colorTealAction));
-      }
+## Formulas
 
-      p:last-of-type {
-        margin-bottom: 0;
-      }
+**The fashion formula**
+```
+[model + garment], fashion photography, [style], [setting], [lighting], [mood], sharp focus
+```
+Describe the garment in detail (fabric, cut, colour) since it is the subject. The style word (editorial / streetwear / couture) sets everything around it.
 
-      hr {
-        border: 0;
-        height: 1px;
-        background: rgb(var(--colorHr));
-        margin-top: 16px;
-        margin-bottom: 16px;
-      }
+## Worked prompt examples
 
-      .your-site {
-        font-size: 0.875rem;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="main">
-      <div class="card">
-        <h1>Page not found</h1>
-        <p>
-          Looks like you’ve followed a broken link or entered a URL that doesn’t
-          exist on this site.
-        </p>
-        <hr />
-        <p class="your-site">
-          If this is your site, and you weren’t expecting a 404 for this path,
-          please visit Netlify’s
-          <a
-            href="https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125?utm_source=404page&utm_campaign=community_tracking"
-            >“page not found” support guide</a
-          >
-          for troubleshooting tips.
-        </p>
-      </div>
-    </div>
-  </body>
-</html>
+_Editorial vs street_
+```
+A fashion model wearing a stylish outfit, fashion photography, full body, high-fashion editorial, dramatic studio light, magazine, striking pose
+```
+
+_Streetwear_
+```
+A fashion model in streetwear, urban street style photography, candid, city background, natural light
+```
+
+_Runway_
+```
+A fashion model walking a runway, fashion show photography, dramatic runway lighting, motion
+```
+
+_Minimalist lookbook_
+```
+A fashion model in a minimalist outfit, clean lookbook photography, neutral background, soft light
+```
+
+## Vocabulary
+
+### 14 fashion styles, one model
+
+**Studio & editorial**
+- **Editorial**: Dramatic studio light, styled, magazine. High fashion.
+- **Minimalist lookbook**: Neutral background, soft light. E-commerce clean.
+- **Luxury studio**: Glossy, elegant, high-end lighting. Premium brands.
+- **Haute couture**: Opulent gown, dramatic, luxurious. Runway couture.
+- **Runway**: Motion and show lighting. New collections.
+
+**Street & real**
+- **Streetwear**: Urban, candid, city background. Casual brands.
+- **Street candid**: Natural daylight, walking, unposed. Authentic.
+- **Urban grunge**: Gritty, moody, textured. Edgy, alternative.
+- **Athleisure**: Clean bright studio, dynamic. Sportswear.
+- **Beach summer**: Bright natural light, breezy, vibrant. Summer lines.
+
+**Mood & era**
+- **Avant-garde**: Experimental, artistic, dramatic. Concept fashion.
+- **Vintage 70s**: Warm faded film tones, retro. Nostalgic brands.
+- **Noir dramatic**: Black and white, hard shadows. Timeless drama.
+- **Pastel soft**: Dreamy, gentle light, romantic. Soft brands.
+
+
+---
+
+From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
+Source: https://godofskills.com/ai-fashion-photography?ref=claude-skill

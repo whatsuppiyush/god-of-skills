@@ -1,124 +1,94 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page not found</title>
-    <style>
-      :root {
-        --colorRgbFacetsTeal600: 2 128 125;
-        --colorTealAction: var(--colorRgbFacetsTeal600);
-        --colorRgbFacetsNeutralLight200: 233 235 237;
-        --colorHr: var(--colorRgbFacetsNeutralLight200);
-        --colorRgbFacetsNeutralLight700: 53 58 62;
-        --colorGrayDarkest: var(--colorRgbFacetsNeutralLight700);
-        --colorGrayLighter: var(--colorRgbFacetsNeutralLight200);
-        --colorText: var(--colorGrayDarkest);
-        --effectShadowLightShallow: 0 1px 10px 0 rgb(53 58 62 / 6%),
-          0 2px 4px 0 rgb(53 58 62 / 8%);
-        --colorRgbFacetsNeutralDark900: 6 11 16;
-      }
-      body {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-          Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
-          "Segoe UI Emoji", "Segoe UI Symbol";
-        background: white;
-        overflow: hidden;
-        margin: 0;
-        padding: 0;
-        line-height: 1.5;
-        color: rgb(var(--colorText));
-      }
+---
+name: ai-product-photography
+description: One product across 16 studio setups, surfaces and lighting, each with the prompt, so you can shoot any product without a studio.
+---
 
-      @media (prefers-color-scheme: dark) {
-        body {
-          background: rgb(var(--colorRgbFacetsNeutralDark900));
-        }
-      }
 
-      h1 {
-        margin: 0;
-        font-size: 1.375rem;
-        line-height: 1;
-      }
+# AI Product Photography: Setups & Mockups
 
-      h1 + p {
-        margin-top: 8px;
-      }
+You do not need a studio, a lightbox or a product to get a clean product shot any more. This guide holds one product (a frosted-glass perfume bottle) across 16 setups, surfaces and lighting styles, so you can see exactly what each one does. Copy a prompt, swap in your own product, and you have an e-commerce hero, a lifestyle shot or a luxury ad. Everything is model-agnostic: the same setup words work on Midjourney, GPT Image, Flux and Nano Banana.
 
-      .main {
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        width: 100vw;
-      }
+Works in: Midjourney, GPT Image, Flux, Nano Banana, Stable Diffusion.
 
-      .card {
-        position: relative;
-        width: 75%;
-        max-width: 364px;
-        padding: 24px;
-        background: white;
-        border-radius: 8px;
-        box-shadow: var(--effectShadowLightShallow);
-        border: 1px solid rgb(var(--colorGrayLighter));
-      }
+## How to use this skill
 
-      a {
-        margin: 0;
-        font-weight: 600;
-        color: rgb(var(--colorTealAction));
-        text-decoration-skip-ink: all;
-        text-decoration-thickness: 1px;
-        text-underline-offset: 2px;
-        text-decoration-color: rgb(var(--colorTealAction) / 0.5);
-        transition: text-decoration-color 0.15s ease-in-out;
-      }
+When the user asks for an image prompt in this style, compose one using the formulas and vocabulary below. Fill each slot with a concrete choice, then return the finished prompt. Prefer naming a real camera/lens, a light, and a colour or film treatment, which is what makes the output read as a real photograph rather than an AI render.
 
-      a:hover,
-      a:focus-visible {
-        text-decoration-color: rgb(var(--colorTealAction));
-      }
+## Formulas
 
-      p:last-of-type {
-        margin-bottom: 0;
-      }
+**The product formula**
+```
+[product], product photography, on [surface], [background], [lighting], [mood], sharp focus
+```
+Add 'e-commerce' for clean catalogue shots, 'luxury advertisement' for dramatic ones, or a real setting for lifestyle. 'Sharp focus' and a named surface are what separate it from a flat render.
 
-      hr {
-        border: 0;
-        height: 1px;
-        background: rgb(var(--colorHr));
-        margin-top: 16px;
-        margin-bottom: 16px;
-      }
+## Worked prompt examples
 
-      .your-site {
-        font-size: 0.875rem;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="main">
-      <div class="card">
-        <h1>Page not found</h1>
-        <p>
-          Looks like you’ve followed a broken link or entered a URL that doesn’t
-          exist on this site.
-        </p>
-        <hr />
-        <p class="your-site">
-          If this is your site, and you weren’t expecting a 404 for this path,
-          please visit Netlify’s
-          <a
-            href="https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125?utm_source=404page&utm_campaign=community_tracking"
-            >“page not found” support guide</a
-          >
-          for troubleshooting tips.
-        </p>
-      </div>
-    </div>
-  </body>
-</html>
+_Clean e-commerce hero_
+```
+A minimalist frosted-glass perfume bottle, product photography, on a pure white seamless studio background, soft even lighting, sharp focus, clean e-commerce catalogue shot
+```
+
+_Marble & daylight_
+```
+A minimalist frosted-glass perfume bottle, product photography, on a white marble surface, soft daylight, elegant, minimalist
+```
+
+_Neon luxury_
+```
+A minimalist frosted-glass perfume bottle, product photography, lit by coloured neon, dark moody reflective background, luxury
+```
+
+_Natural lifestyle_
+```
+A minimalist frosted-glass perfume bottle, product photography, on a mossy rock in a forest, natural dappled light, organic
+```
+
+## Vocabulary
+
+### 16 product setups, one bottle
+
+**Studio & catalogue**
+- **On white seamless**: The e-commerce default: soft, even, shadowless, accurate colour.
+- **Floating**: Product suspended with a minimal shadow. Clean and modern.
+- **On a gradient**: Smooth colour backdrop. Adds mood while staying minimal.
+- **On a podium**: Stone podium with soft shadows. Clean product-render look.
+- **On concrete**: Raw concrete and hard light. Industrial, minimalist, unisex.
+
+**Lifestyle & natural**
+- **On marble**: Soft daylight on white marble. Premium and editorial.
+- **On wood**: Rustic wood and warm natural light. Homely, artisan.
+- **In nature**: On a mossy rock with dappled light. Organic, clean-brand.
+- **On sand**: Rippled sand, warm desert light. Summer, fragrance, travel.
+- **With flowers**: Fresh flowers and petals, soft romantic light. Beauty, gifting.
+- **With foliage**: Tropical monstera leaves, soft green light. Botanical, natural.
+
+**Luxury & dramatic**
+- **Water splash**: Frozen high-speed splash. Energy, freshness, hero shot.
+- **Neon lit**: Coloured neon on a dark background. Modern luxury ad.
+- **On black reflection**: Glossy black surface, dramatic reflection. High-end.
+- **On ice**: Frost and vapour, cold blue light. Refreshing, crisp.
+- **On a gold pedestal**: Warm rim light on gold. Opulent, prestige.
+- **On silk**: Flowing silk folds, soft light. Soft luxury, lingerie, beauty.
+
+### Lighting and finishing touches
+
+**Product lighting**
+- **Soft even light**: Shadowless, accurate colour. The catalogue default.
+- **Hard side light**: Strong shadow and highlight. Shows texture and shape.
+- **Rim / edge light**: A bright outline that separates the product from a dark background.
+- **Gradient light**: A soft falloff across the product for a premium feel.
+- **Backlight / glow**: Light through translucent products (glass, drinks) for luminosity.
+
+**Finishing words**
+- **Sharp focus, high detail**: Keeps the product crisp; fights soft AI mush.
+- **Studio product photography**: Anchors the whole frame as a shot, not an illustration.
+- **Soft reflection**: A subtle mirror under the product grounds it on the surface.
+- **Depth of field**: Blurred background isolates a lifestyle product.
+- **Water droplets / condensation**: Freshness cue for drinks, skincare, cold products.
+
+
+---
+
+From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
+Source: https://godofskills.com/ai-product-photography?ref=claude-skill

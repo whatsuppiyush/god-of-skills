@@ -1,124 +1,103 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page not found</title>
-    <style>
-      :root {
-        --colorRgbFacetsTeal600: 2 128 125;
-        --colorTealAction: var(--colorRgbFacetsTeal600);
-        --colorRgbFacetsNeutralLight200: 233 235 237;
-        --colorHr: var(--colorRgbFacetsNeutralLight200);
-        --colorRgbFacetsNeutralLight700: 53 58 62;
-        --colorGrayDarkest: var(--colorRgbFacetsNeutralLight700);
-        --colorGrayLighter: var(--colorRgbFacetsNeutralLight200);
-        --colorText: var(--colorGrayDarkest);
-        --effectShadowLightShallow: 0 1px 10px 0 rgb(53 58 62 / 6%),
-          0 2px 4px 0 rgb(53 58 62 / 8%);
-        --colorRgbFacetsNeutralDark900: 6 11 16;
-      }
-      body {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-          Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
-          "Segoe UI Emoji", "Segoe UI Symbol";
-        background: white;
-        overflow: hidden;
-        margin: 0;
-        padding: 0;
-        line-height: 1.5;
-        color: rgb(var(--colorText));
-      }
+---
+name: ai-art-styles
+description: One subject rendered across 20 art movements, each with the exact prompt, so you can see what every style actually does.
+---
 
-      @media (prefers-color-scheme: dark) {
-        body {
-          background: rgb(var(--colorRgbFacetsNeutralDark900));
-        }
-      }
 
-      h1 {
-        margin: 0;
-        font-size: 1.375rem;
-        line-height: 1;
-      }
+# AI Art Styles: The Reference
 
-      h1 + p {
-        margin-top: 8px;
-      }
+The fastest way to change an AI image is to name an art style, but most people only know a handful. This is the reference: one constant subject (a red fox) rendered across 20 art movements and mediums, so the only thing that changes card to card is the style itself. Copy any prompt, swap the fox for your subject, and you have the look. The movements are model-agnostic and evergreen: the same words work on Midjourney, GPT Image, Flux and more.
 
-      .main {
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        width: 100vw;
-      }
+Works in: Midjourney, GPT Image, Flux, Nano Banana, Stable Diffusion.
 
-      .card {
-        position: relative;
-        width: 75%;
-        max-width: 364px;
-        padding: 24px;
-        background: white;
-        border-radius: 8px;
-        box-shadow: var(--effectShadowLightShallow);
-        border: 1px solid rgb(var(--colorGrayLighter));
-      }
+## How to use this skill
 
-      a {
-        margin: 0;
-        font-weight: 600;
-        color: rgb(var(--colorTealAction));
-        text-decoration-skip-ink: all;
-        text-decoration-thickness: 1px;
-        text-underline-offset: 2px;
-        text-decoration-color: rgb(var(--colorTealAction) / 0.5);
-        transition: text-decoration-color 0.15s ease-in-out;
-      }
+When the user asks for an image prompt in this style, compose one using the formulas and vocabulary below. Fill each slot with a concrete choice, then return the finished prompt. Prefer naming a real camera/lens, a light, and a colour or film treatment, which is what makes the output read as a real photograph rather than an AI render.
 
-      a:hover,
-      a:focus-visible {
-        text-decoration-color: rgb(var(--colorTealAction));
-      }
+## Formulas
 
-      p:last-of-type {
-        margin-bottom: 0;
-      }
+**The art-style formula**
+```
+[subject], in the [art movement] style, [two or three signature traits], [artist, optional]
+```
+The signature traits are what stop the model from giving you a generic version. For Art Deco, that is 'geometric, gold and black, symmetrical'. For watercolour, 'soft washes, bleeding edges, paper texture'.
 
-      hr {
-        border: 0;
-        height: 1px;
-        background: rgb(var(--colorHr));
-        margin-top: 16px;
-        margin-bottom: 16px;
-      }
+## Worked prompt examples
 
-      .your-site {
-        font-size: 0.875rem;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="main">
-      <div class="card">
-        <h1>Page not found</h1>
-        <p>
-          Looks like you’ve followed a broken link or entered a URL that doesn’t
-          exist on this site.
-        </p>
-        <hr />
-        <p class="your-site">
-          If this is your site, and you weren’t expecting a 404 for this path,
-          please visit Netlify’s
-          <a
-            href="https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125?utm_source=404page&utm_campaign=community_tracking"
-            >“page not found” support guide</a
-          >
-          for troubleshooting tips.
-        </p>
-      </div>
-    </div>
-  </body>
-</html>
+_Naming the artist_
+```
+A red fox sitting, full body, centered, plain neutral background, in the ukiyo-e Japanese woodblock print style, flat colours, bold black outlines, in the style of Hokusai
+```
+
+_Ukiyo-e woodblock_
+```
+A red fox sitting, full body, centered, plain neutral background, in the ukiyo-e Japanese woodblock print style, flat colours, bold black outlines, Hokusai
+```
+
+_Art Deco_
+```
+A red fox sitting, full body, centered, plain neutral background, in the Art Deco style, geometric gold and black, symmetrical, elegant 1920s poster
+```
+
+_Cyberpunk neon_
+```
+A red fox sitting, full body, centered, plain neutral background, in a cyberpunk style, neon lights, dark rain-soaked city, holographic glow
+```
+
+## Vocabulary
+
+### 20 art styles, one fox
+
+**Classic painting**
+- **Impressionism**: Loose, visible brushstrokes and dappled light. Monet, Renoir.
+- **Oil painting**: Rich impasto and old-master chiaroscuro. Weighty and timeless.
+- **Watercolour**: Soft transparent washes, bleeding edges, visible paper.
+- **Cubism**: Fragmented geometric planes and multiple viewpoints at once. Picasso.
+- **Surrealism**: Dreamlike, uncanny, impossible juxtapositions. Dali.
+- **Charcoal sketch**: Expressive graphite and smudge on rough paper, monochrome.
+
+**Graphic & print**
+- **Art Deco**: Geometric, symmetrical, gold-and-black 1920s luxury.
+- **Art Nouveau**: Flowing organic lines and floral borders. Mucha.
+- **Ukiyo-e**: Japanese woodblock: flat colour, bold outlines. Hokusai.
+- **Bauhaus**: Primary colours, geometric shapes, clean modernist rigour.
+- **Pop Art**: Bold flat colour and Ben-Day dots. Warhol, Lichtenstein.
+- **Stained glass**: Bold lead lines around luminous panes of coloured glass.
+- **Comic book**: Bold ink outlines, halftone shading, dynamic energy.
+- **Line art**: A single continuous minimal black line on white.
+
+**Modern & digital**
+- **Minimalism**: Simple flat shapes and a tight, limited palette.
+- **Pixel art**: 16-bit sprite with a limited retro-game palette.
+- **Low poly**: Faceted geometric mesh with flat shading. 3D render.
+- **Vaporwave**: Pink-and-teal 80s nostalgia, neon grids, glitch.
+- **Cyberpunk**: Neon on a dark, wet, high-tech city.
+- **Psychedelic**: Swirling vivid colour and ornate 1960s-poster detail.
+
+### Mediums, eras and finishes
+
+**Medium**
+- **Gouache**: Opaque, matte, poster-like paint.
+- **Ink wash**: Monochrome brush-and-ink gradients.
+- **Linocut / woodcut**: Carved, high-contrast relief print.
+- **Risograph**: Grainy spot-colour print with offset misregistration.
+- **Marker illustration**: Bold, streaky Copic-marker fashion sketch.
+- **3D clay render**: Soft matte claymation look.
+
+**Era / decade**
+- **Victorian etching**: Fine cross-hatched engraving.
+- **1950s advertising**: Mid-century mascot illustration.
+- **1980s airbrush**: Glossy, gradient, sci-fi paperback.
+- **1990s CD-ROM 3D**: Early-render nostalgia.
+
+**Finish**
+- **Halftone**: Dot-pattern print shading.
+- **Grain / film noise**: Analogue texture over the whole frame.
+- **Gold foil**: Metallic accents catching light.
+- **Screen print**: Flat spot colours, slight registration offset.
+
+
+---
+
+From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
+Source: https://godofskills.com/ai-art-styles?ref=claude-skill

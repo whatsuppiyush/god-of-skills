@@ -1,124 +1,77 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page not found</title>
-    <style>
-      :root {
-        --colorRgbFacetsTeal600: 2 128 125;
-        --colorTealAction: var(--colorRgbFacetsTeal600);
-        --colorRgbFacetsNeutralLight200: 233 235 237;
-        --colorHr: var(--colorRgbFacetsNeutralLight200);
-        --colorRgbFacetsNeutralLight700: 53 58 62;
-        --colorGrayDarkest: var(--colorRgbFacetsNeutralLight700);
-        --colorGrayLighter: var(--colorRgbFacetsNeutralLight200);
-        --colorText: var(--colorGrayDarkest);
-        --effectShadowLightShallow: 0 1px 10px 0 rgb(53 58 62 / 6%),
-          0 2px 4px 0 rgb(53 58 62 / 8%);
-        --colorRgbFacetsNeutralDark900: 6 11 16;
-      }
-      body {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-          Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
-          "Segoe UI Emoji", "Segoe UI Symbol";
-        background: white;
-        overflow: hidden;
-        margin: 0;
-        padding: 0;
-        line-height: 1.5;
-        color: rgb(var(--colorText));
-      }
+---
+name: ai-film-stock-emulation
+description: One portrait across 14 film stocks, so you can see exactly what each film's colour does, each with the prompt.
+---
 
-      @media (prefers-color-scheme: dark) {
-        body {
-          background: rgb(var(--colorRgbFacetsNeutralDark900));
-        }
-      }
 
-      h1 {
-        margin: 0;
-        font-size: 1.375rem;
-        line-height: 1;
-      }
+# AI Film Stock Emulation
 
-      h1 + p {
-        margin-top: 8px;
-      }
+Naming a film stock is the fastest way to set a whole colour palette in one word. But most people only know 'Portra'. This guide holds one portrait across 14 film stocks, so you can see exactly what each film's colour science does, warm Kodak skin tones, punchy Fuji saturation, gritty black-and-white, neon-haloed CineStill night. Copy a prompt, add the stock name to anything, and you have the look. It goes deeper than the film-stock section of the DSLR guide. Works across Midjourney, GPT Image, Flux and Nano Banana.
 
-      .main {
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        width: 100vw;
-      }
+Works in: Midjourney, GPT Image, Flux, Nano Banana, Stable Diffusion.
 
-      .card {
-        position: relative;
-        width: 75%;
-        max-width: 364px;
-        padding: 24px;
-        background: white;
-        border-radius: 8px;
-        box-shadow: var(--effectShadowLightShallow);
-        border: 1px solid rgb(var(--colorGrayLighter));
-      }
+## How to use this skill
 
-      a {
-        margin: 0;
-        font-weight: 600;
-        color: rgb(var(--colorTealAction));
-        text-decoration-skip-ink: all;
-        text-decoration-thickness: 1px;
-        text-underline-offset: 2px;
-        text-decoration-color: rgb(var(--colorTealAction) / 0.5);
-        transition: text-decoration-color 0.15s ease-in-out;
-      }
+When the user asks for an image prompt in this style, compose one using the formulas and vocabulary below. Fill each slot with a concrete choice, then return the finished prompt. Prefer naming a real camera/lens, a light, and a colour or film treatment, which is what makes the output read as a real photograph rather than an AI render.
 
-      a:hover,
-      a:focus-visible {
-        text-decoration-color: rgb(var(--colorTealAction));
-      }
+## Formulas
 
-      p:last-of-type {
-        margin-bottom: 0;
-      }
+**The film-stock formula**
+```
+[your scene], shot on [film stock], [one or two of its traits]
+```
+Add a trait or two to commit the model: 'shot on Kodak Portra 400, warm skin tones, fine grain'. The stock name does most of the work; the traits sharpen it.
 
-      hr {
-        border: 0;
-        height: 1px;
-        background: rgb(var(--colorHr));
-        margin-top: 16px;
-        margin-bottom: 16px;
-      }
+## Worked prompt examples
 
-      .your-site {
-        font-size: 0.875rem;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="main">
-      <div class="card">
-        <h1>Page not found</h1>
-        <p>
-          Looks like you’ve followed a broken link or entered a URL that doesn’t
-          exist on this site.
-        </p>
-        <hr />
-        <p class="your-site">
-          If this is your site, and you weren’t expecting a 404 for this path,
-          please visit Netlify’s
-          <a
-            href="https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125?utm_source=404page&utm_campaign=community_tracking"
-            >“page not found” support guide</a
-          >
-          for troubleshooting tips.
-        </p>
-      </div>
-    </div>
-  </body>
-</html>
+_Warm vs punchy_
+```
+A portrait of a woman by a bright window, natural light, shot on Kodak Portra 400 film, warm soft skin tones, fine grain
+```
+
+_CineStill 800T_
+```
+A portrait of a woman by a bright window, natural light, shot on CineStill 800T film, tungsten night tones, neon halation, cinematic
+```
+
+_Kodak Tri-X 400_
+```
+A portrait of a woman by a bright window, natural light, shot on Kodak Tri-X 400 black and white film, rich grain, classic contrast
+```
+
+_Fuji Velvia_
+```
+A portrait of a woman by a bright window, natural light, shot on Fujifilm Velvia film, ultra-saturated punchy colours, vivid
+```
+
+## Vocabulary
+
+### 14 film stocks, one portrait
+
+**Kodak colour**
+- **Kodak Portra 400**: Warm, forgiving skin tones, fine grain. The portrait default.
+- **Kodak Portra 800**: Warmer and grainier. Nostalgic, low light.
+- **Kodak Gold 200**: Sunny, warm, nostalgic. Everyday and cheerful.
+- **Kodak Ektar 100**: Saturated, fine grain, punchy. Vivid landscapes.
+
+**Black & white**
+- **Kodak Tri-X 400**: Rich grain, classic contrast. Documentary timeless.
+- **Ilford HP5**: Classic grain, documentary. Slightly softer than Tri-X.
+
+**Fuji & cinema**
+- **CineStill 800T**: Tungsten night balance, neon halation. Cinematic.
+- **CineStill 50D**: Clean, fine grain, daylight. Crisp cinematic.
+- **Fuji Superia**: Cool green cast, everyday. Casual and nostalgic.
+- **Fuji Velvia**: Ultra-saturated, punchy. Bold and graphic.
+
+**Retro & experimental**
+- **Agfa Vista**: Cool, retro, muted. Understated European look.
+- **Lomography**: Vignette, colour shifts, lo-fi. Playful and unpredictable.
+- **Polaroid**: Soft, faded, white border. Instant nostalgia.
+- **Expired film**: Colour shifts, light leaks, unpredictable. Vintage decay.
+
+
+---
+
+From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
+Source: https://godofskills.com/ai-film-stock-emulation?ref=claude-skill

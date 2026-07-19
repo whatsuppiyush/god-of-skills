@@ -1,124 +1,73 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page not found</title>
-    <style>
-      :root {
-        --colorRgbFacetsTeal600: 2 128 125;
-        --colorTealAction: var(--colorRgbFacetsTeal600);
-        --colorRgbFacetsNeutralLight200: 233 235 237;
-        --colorHr: var(--colorRgbFacetsNeutralLight200);
-        --colorRgbFacetsNeutralLight700: 53 58 62;
-        --colorGrayDarkest: var(--colorRgbFacetsNeutralLight700);
-        --colorGrayLighter: var(--colorRgbFacetsNeutralLight200);
-        --colorText: var(--colorGrayDarkest);
-        --effectShadowLightShallow: 0 1px 10px 0 rgb(53 58 62 / 6%),
-          0 2px 4px 0 rgb(53 58 62 / 8%);
-        --colorRgbFacetsNeutralDark900: 6 11 16;
-      }
-      body {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-          Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
-          "Segoe UI Emoji", "Segoe UI Symbol";
-        background: white;
-        overflow: hidden;
-        margin: 0;
-        padding: 0;
-        line-height: 1.5;
-        color: rgb(var(--colorText));
-      }
+---
+name: ai-food-photography
+description: 12 food-photography styles, from dark-and-moody to bright-and-airy to flat-lay, each with the prompt.
+---
 
-      @media (prefers-color-scheme: dark) {
-        body {
-          background: rgb(var(--colorRgbFacetsNeutralDark900));
-        }
-      }
 
-      h1 {
-        margin: 0;
-        font-size: 1.375rem;
-        line-height: 1;
-      }
+# AI Food Photography
 
-      h1 + p {
-        margin-top: 8px;
-      }
+Food photography is a genre with its own rules: it is mostly about light, styling and angle. This guide covers the 12 approaches that actually sell food, from the dark-and-moody restaurant look to the bright-and-airy brunch look to the overhead flat-lay. Copy a prompt, swap in your dish, and you have a menu hero, a delivery-app thumbnail or a recipe-blog shot. Model-agnostic across Midjourney, GPT Image, Flux and Nano Banana.
 
-      .main {
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        width: 100vw;
-      }
+Works in: Midjourney, GPT Image, Flux, Nano Banana, Stable Diffusion.
 
-      .card {
-        position: relative;
-        width: 75%;
-        max-width: 364px;
-        padding: 24px;
-        background: white;
-        border-radius: 8px;
-        box-shadow: var(--effectShadowLightShallow);
-        border: 1px solid rgb(var(--colorGrayLighter));
-      }
+## How to use this skill
 
-      a {
-        margin: 0;
-        font-weight: 600;
-        color: rgb(var(--colorTealAction));
-        text-decoration-skip-ink: all;
-        text-decoration-thickness: 1px;
-        text-underline-offset: 2px;
-        text-decoration-color: rgb(var(--colorTealAction) / 0.5);
-        transition: text-decoration-color 0.15s ease-in-out;
-      }
+When the user asks for an image prompt in this style, compose one using the formulas and vocabulary below. Fill each slot with a concrete choice, then return the finished prompt. Prefer naming a real camera/lens, a light, and a colour or film treatment, which is what makes the output read as a real photograph rather than an AI render.
 
-      a:hover,
-      a:focus-visible {
-        text-decoration-color: rgb(var(--colorTealAction));
-      }
+## Formulas
 
-      p:last-of-type {
-        margin-bottom: 0;
-      }
+**The food formula**
+```
+[dish], food photography, [lighting style], [angle], [freshness cue], appetising, sharp focus
+```
+The lighting style does most of the work: 'dark moody side light' vs 'bright airy natural light'. The freshness cue (steam, splash, condensation) is what makes it look real rather than plastic.
 
-      hr {
-        border: 0;
-        height: 1px;
-        background: rgb(var(--colorHr));
-        margin-top: 16px;
-        margin-bottom: 16px;
-      }
+## Worked prompt examples
 
-      .your-site {
-        font-size: 0.875rem;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="main">
-      <div class="card">
-        <h1>Page not found</h1>
-        <p>
-          Looks like you’ve followed a broken link or entered a URL that doesn’t
-          exist on this site.
-        </p>
-        <hr />
-        <p class="your-site">
-          If this is your site, and you weren’t expecting a 404 for this path,
-          please visit Netlify’s
-          <a
-            href="https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125?utm_source=404page&utm_campaign=community_tracking"
-            >“page not found” support guide</a
-          >
-          for troubleshooting tips.
-        </p>
-      </div>
-    </div>
-  </body>
-</html>
+_The restaurant look_
+```
+A rustic bowl of pasta, food photography, dark moody dramatic side light, deep shadows, rustic table, steam, appetising, sharp focus
+```
+
+_Dark & moody_
+```
+A rustic bowl of pasta, dark moody food photography, dramatic single side light, deep shadows, rustic table
+```
+
+_Bright & airy_
+```
+A stack of pancakes with berries and syrup, bright and airy food photography, soft natural window light, white marble
+```
+
+_Overhead flat-lay_
+```
+A colourful grain bowl, overhead flat-lay food photography, styled ingredients around it, soft even light
+```
+
+## Vocabulary
+
+### 12 food-photography styles
+
+**The three core looks**
+- **Dark & moody**: Hard side light, deep shadows. Premium, restaurant, cookbook.
+- **Bright & airy**: Soft window light, white surface. Fresh, healthy, brunch.
+- **Overhead flat-lay**: Shot from directly above with props. Social, recipe blog.
+
+**Setting & mood**
+- **Rustic**: Wood table, warm light. Homely and artisan.
+- **Fine dining**: Minimal elegant plating on white. Upscale menu.
+- **Marble editorial**: White marble, soft daylight. Magazine editorial.
+- **Street food**: Market bokeh at night, candid, vibrant.
+- **Pastel & cute**: Soft pastels, playful styling. Cafe, dessert, kids.
+- **Dark luxury**: Gold accents, dramatic rim light. High-end.
+
+**Appetite cues**
+- **Steam / hot**: Visible steam signals a hot, fresh-cooked dish.
+- **Splash / fresh**: A water splash on ingredients reads as fresh and vibrant.
+- **Macro texture**: Extreme close-up on texture and detail. Very appetising.
+
+
+---
+
+From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
+Source: https://godofskills.com/ai-food-photography?ref=claude-skill

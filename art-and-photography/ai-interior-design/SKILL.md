@@ -1,124 +1,75 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page not found</title>
-    <style>
-      :root {
-        --colorRgbFacetsTeal600: 2 128 125;
-        --colorTealAction: var(--colorRgbFacetsTeal600);
-        --colorRgbFacetsNeutralLight200: 233 235 237;
-        --colorHr: var(--colorRgbFacetsNeutralLight200);
-        --colorRgbFacetsNeutralLight700: 53 58 62;
-        --colorGrayDarkest: var(--colorRgbFacetsNeutralLight700);
-        --colorGrayLighter: var(--colorRgbFacetsNeutralLight200);
-        --colorText: var(--colorGrayDarkest);
-        --effectShadowLightShallow: 0 1px 10px 0 rgb(53 58 62 / 6%),
-          0 2px 4px 0 rgb(53 58 62 / 8%);
-        --colorRgbFacetsNeutralDark900: 6 11 16;
-      }
-      body {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-          Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
-          "Segoe UI Emoji", "Segoe UI Symbol";
-        background: white;
-        overflow: hidden;
-        margin: 0;
-        padding: 0;
-        line-height: 1.5;
-        color: rgb(var(--colorText));
-      }
+---
+name: ai-interior-design
+description: One living room across 14 interior-design styles, each with the prompt, from Scandinavian to japandi to maximalist.
+---
 
-      @media (prefers-color-scheme: dark) {
-        body {
-          background: rgb(var(--colorRgbFacetsNeutralDark900));
-        }
-      }
 
-      h1 {
-        margin: 0;
-        font-size: 1.375rem;
-        line-height: 1;
-      }
+# AI Interior Design Styles
 
-      h1 + p {
-        margin-top: 8px;
-      }
+Whether you are staging a listing, building a moodboard or just picturing a redesign, naming the interior-design style is what gets you a coherent room instead of a generic one. This guide holds one living room across 14 named styles, so the difference you see is the style alone. Copy a prompt, change the room or the palette, and you have your reference. Works across Midjourney, GPT Image, Flux and Nano Banana.
 
-      .main {
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        width: 100vw;
-      }
+Works in: Midjourney, GPT Image, Flux, Nano Banana, Stable Diffusion.
 
-      .card {
-        position: relative;
-        width: 75%;
-        max-width: 364px;
-        padding: 24px;
-        background: white;
-        border-radius: 8px;
-        box-shadow: var(--effectShadowLightShallow);
-        border: 1px solid rgb(var(--colorGrayLighter));
-      }
+## How to use this skill
 
-      a {
-        margin: 0;
-        font-weight: 600;
-        color: rgb(var(--colorTealAction));
-        text-decoration-skip-ink: all;
-        text-decoration-thickness: 1px;
-        text-underline-offset: 2px;
-        text-decoration-color: rgb(var(--colorTealAction) / 0.5);
-        transition: text-decoration-color 0.15s ease-in-out;
-      }
+When the user asks for an image prompt in this style, compose one using the formulas and vocabulary below. Fill each slot with a concrete choice, then return the finished prompt. Prefer naming a real camera/lens, a light, and a colour or film treatment, which is what makes the output read as a real photograph rather than an AI render.
 
-      a:hover,
-      a:focus-visible {
-        text-decoration-color: rgb(var(--colorTealAction));
-      }
+## Formulas
 
-      p:last-of-type {
-        margin-bottom: 0;
-      }
+**The interior formula**
+```
+[room], interior design, [style] style, [signature materials], [light], wide angle, architectural photography
+```
+The signature materials are what stop a generic room. For industrial: 'exposed brick, concrete, black metal'. For coastal: 'white and blue, linen, rattan, driftwood'.
 
-      hr {
-        border: 0;
-        height: 1px;
-        background: rgb(var(--colorHr));
-        margin-top: 16px;
-        margin-bottom: 16px;
-      }
+## Worked prompt examples
 
-      .your-site {
-        font-size: 0.875rem;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="main">
-      <div class="card">
-        <h1>Page not found</h1>
-        <p>
-          Looks like you’ve followed a broken link or entered a URL that doesn’t
-          exist on this site.
-        </p>
-        <hr />
-        <p class="your-site">
-          If this is your site, and you weren’t expecting a 404 for this path,
-          please visit Netlify’s
-          <a
-            href="https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125?utm_source=404page&utm_campaign=community_tracking"
-            >“page not found” support guide</a
-          >
-          for troubleshooting tips.
-        </p>
-      </div>
-    </div>
-  </body>
-</html>
+_Naming the materials_
+```
+A living room interior, interior design photography, wide angle, natural light, Japandi style, light wood, muted earth tones, low furniture, minimal, calm, architectural photography
+```
+
+_Industrial_
+```
+A living room interior, interior design photography, wide angle, natural light, industrial style, exposed brick, concrete floor, black metal, leather, warehouse windows
+```
+
+_Bohemian_
+```
+A living room interior, interior design photography, wide angle, natural light, bohemian style, layered textiles, rattan, hanging plants, warm earthy tones, eclectic
+```
+
+_Modern luxury_
+```
+A living room interior, interior design photography, wide angle, natural light, modern luxury style, marble, brass accents, velvet, statement lighting, high-end, elegant
+```
+
+## Vocabulary
+
+### 14 interior styles, one room
+
+**Light & minimal**
+- **Scandinavian**: Light wood, white walls, cozy textiles. Bright and calm.
+- **Japandi**: Japanese-Scandinavian calm: light wood, muted earth tones, low furniture.
+- **Minimalist**: Clean lines, neutral palette, almost empty. Serene.
+- **Coastal**: White and blue, linen, rattan, driftwood. Airy, beachy.
+- **Mid-century modern**: Warm wood, tapered legs, retro 1960s palette.
+
+**Warm & cozy**
+- **Bohemian**: Layered textiles, rattan, plants, warm earthy tones. Eclectic.
+- **Farmhouse**: Shiplap, warm wood, vintage, homely and rustic.
+- **Cozy hygge**: Soft throws, candles, warm low light. Intimate.
+- **Rustic**: Reclaimed wood, stone, exposed beams, warm and natural.
+
+**Bold & luxe**
+- **Industrial**: Exposed brick, concrete, black metal, leather. Loft.
+- **Modern luxury**: Marble, brass, velvet, statement lighting. High-end.
+- **Art Deco**: Geometric, gold, rich jewel tones, glamorous 1920s.
+- **Maximalist**: Bold colour, pattern clash, gallery walls, more is more.
+- **Brutalist**: Raw concrete, monolithic forms, sparse, dramatic.
+
+
+---
+
+From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
+Source: https://godofskills.com/ai-interior-design?ref=claude-skill
