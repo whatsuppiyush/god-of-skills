@@ -1,6 +1,465 @@
 {
-  "count": 20,
+  "count": 47,
   "skills": [
+    {
+      "slug": "paid-acquisition",
+      "kind": "skill",
+      "title": "Paid acquisition",
+      "description": "Run profitable paid advertising end to end: strategy, creative, targeting, testing, and measurement across Meta/Facebook, Google, TikTok, YouTube…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Ads",
+      "url": "https://godofskills.com/skills/paid-acquisition",
+      "rawUrl": "https://godofskills.com/r/skills/paid-acquisition.md"
+    },
+    {
+      "slug": "acquire-first-users",
+      "kind": "skill",
+      "title": "Acquire first users: the playbook",
+      "description": "The ordered playbook for getting from zero to your first ~1000 users.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Growth OS",
+      "url": "https://godofskills.com/skills/acquire-first-users",
+      "rawUrl": "https://godofskills.com/r/skills/acquire-first-users.md"
+    },
+    {
+      "slug": "fix-a-leaky-funnel",
+      "kind": "skill",
+      "title": "Fix a leaky funnel",
+      "description": "Diagnose WHERE a growth funnel leaks, then route to the exact discipline that plugs it, instead of guessing.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Growth OS",
+      "url": "https://godofskills.com/skills/fix-a-leaky-funnel",
+      "rawUrl": "https://godofskills.com/r/skills/fix-a-leaky-funnel.md"
+    },
+    {
+      "slug": "growth-os",
+      "kind": "skill",
+      "title": "Growth OS: the router",
+      "description": "The master router for growth work: arrive with a goal (\"grow traffic\", \"get first users\", \"raise conversion\", \"fix churn\", \"price better\", \"launch\"…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Growth OS",
+      "url": "https://godofskills.com/skills/growth-os",
+      "rawUrl": "https://godofskills.com/r/skills/growth-os.md"
+    },
+    {
+      "slug": "improve-conversion",
+      "kind": "skill",
+      "title": "Improve conversion",
+      "description": "Raise the conversion rate of a specific page or flow by running four disciplines in the right order: structure, words, persuasion, then proof.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Growth OS",
+      "url": "https://godofskills.com/skills/improve-conversion",
+      "rawUrl": "https://godofskills.com/r/skills/improve-conversion.md"
+    },
+    {
+      "slug": "launch-a-product",
+      "kind": "skill",
+      "title": "Launch a product: the playbook",
+      "description": "The ordered playbook for launching a product or running a go-to-market push.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Growth OS",
+      "url": "https://godofskills.com/skills/launch-a-product",
+      "rawUrl": "https://godofskills.com/r/skills/launch-a-product.md"
+    },
+    {
+      "slug": "pricing-and-monetization-review",
+      "kind": "skill",
+      "title": "Pricing and monetization review",
+      "description": "Audit and fix how you charge and how you present it, in one ordered pass: model and tiers first, then display psychology, then the pricing page, then…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Growth OS",
+      "url": "https://godofskills.com/skills/pricing-and-monetization-review",
+      "rawUrl": "https://godofskills.com/r/skills/pricing-and-monetization-review.md"
+    },
+    {
+      "slug": "brand",
+      "kind": "skill",
+      "title": "Brand",
+      "description": "Build a distinctive, defensible brand: mission and story, a codified voice, positioning against an enemy, a scored name, warmth/competence perception…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/skills/brand",
+      "rawUrl": "https://godofskills.com/r/skills/brand.md"
+    },
+    {
+      "slug": "conversion-cro",
+      "kind": "skill",
+      "title": "Conversion Rate Optimization (CRO)",
+      "description": "Conversion rate optimization for landing pages, product pages, and checkout flows.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/skills/conversion-cro",
+      "rawUrl": "https://godofskills.com/r/skills/conversion-cro.md"
+    },
+    {
+      "slug": "ecommerce",
+      "kind": "skill",
+      "title": "Ecommerce and DTC Growth",
+      "description": "Ecommerce and DTC store growth: store conversion, cart recovery, average order value, promotions, marketplace listings, and shipping.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/skills/ecommerce",
+      "rawUrl": "https://godofskills.com/r/skills/ecommerce.md"
+    },
+    {
+      "slug": "email-marketing",
+      "kind": "skill",
+      "title": "Email Marketing",
+      "description": "The playbook for owned-email marketing to an opted-in list: deliverability, list growth, writing and creative, sequences, segmentation, and the KPIs that…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/skills/email-marketing",
+      "rawUrl": "https://godofskills.com/r/skills/email-marketing.md"
+    },
+    {
+      "slug": "influencer-creator",
+      "kind": "skill",
+      "title": "Influencer & Creator Marketing",
+      "description": "Find, vet, pay, brief, and scale creators, influencers, and affiliates to produce authentic third-party content that sells.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/skills/influencer-creator",
+      "rawUrl": "https://godofskills.com/r/skills/influencer-creator.md"
+    },
+    {
+      "slug": "launch-gtm",
+      "kind": "skill",
+      "title": "Launch and Go-to-Market",
+      "description": "Plan and run a product launch or go-to-market push: pick your first-users channel, run a Product Hunt launch, earn press, manufacture scarcity for a…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/skills/launch-gtm",
+      "rawUrl": "https://godofskills.com/r/skills/launch-gtm.md"
+    },
+    {
+      "slug": "marketing-psychology",
+      "kind": "skill",
+      "title": "Marketing Psychology",
+      "description": "Apply behavioral-science and consumer-psychology principles to marketing decisions: pricing displays, ad creative, copy framing, social proof, attention…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/skills/marketing-psychology",
+      "rawUrl": "https://godofskills.com/r/skills/marketing-psychology.md"
+    },
+    {
+      "slug": "organic-social",
+      "kind": "skill",
+      "title": "Organic Social",
+      "description": "Grow an audience and earn reach on social platforms without ad spend.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/skills/organic-social",
+      "rawUrl": "https://godofskills.com/r/skills/organic-social.md"
+    },
+    {
+      "slug": "pricing-monetization",
+      "kind": "skill",
+      "title": "Pricing & Monetization",
+      "description": "The playbook for what you charge and how you present it: value metric, tiers, anchoring, display psychology, discounts and promos, add-ons, trial models…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/skills/pricing-monetization",
+      "rawUrl": "https://godofskills.com/r/skills/pricing-monetization.md"
+    },
+    {
+      "slug": "product-led-growth",
+      "kind": "skill",
+      "title": "Product-Led Growth",
+      "description": "The discipline of making the product itself the primary driver of acquisition, activation, and retention.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/skills/product-led-growth",
+      "rawUrl": "https://godofskills.com/r/skills/product-led-growth.md"
+    },
+    {
+      "slug": "retention-lifecycle",
+      "kind": "skill",
+      "title": "Retention & lifecycle",
+      "description": "The keep-and-grow-customers discipline: activation, onboarding, churn and failed-payment recovery, loyalty, referral, gamified habit loops…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/skills/retention-lifecycle",
+      "rawUrl": "https://godofskills.com/r/skills/retention-lifecycle.md"
+    },
+    {
+      "slug": "strategy-fundamentals",
+      "kind": "skill",
+      "title": "Strategy Fundamentals",
+      "description": "The upstream growth-strategy layer: decide WHAT to build, WHO for, WHICH channel, and WHY it compounds, before spending a dollar on execution.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/skills/strategy-fundamentals",
+      "rawUrl": "https://godofskills.com/r/skills/strategy-fundamentals.md"
+    },
+    {
+      "slug": "hiring-team",
+      "kind": "skill",
+      "title": "Hiring the Growth Team",
+      "description": "Make your first (or next) marketing/growth hire: decide the archetype, source candidates on the right boards, and screen with a paid role-specific test…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Ops",
+      "url": "https://godofskills.com/skills/hiring-team",
+      "rawUrl": "https://godofskills.com/r/skills/hiring-team.md"
+    },
+    {
+      "slug": "tools-stack",
+      "kind": "skill",
+      "title": "Tools & Stack",
+      "description": "Pick, assemble, and build the marketing/growth tool stack: AI image & video generators, UGC ad production, AI content workflows, keyword/community…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Ops",
+      "url": "https://godofskills.com/skills/tools-stack",
+      "rawUrl": "https://godofskills.com/r/skills/tools-stack.md"
+    },
+    {
+      "slug": "analytics-data",
+      "kind": "skill",
+      "title": "Analytics & Data",
+      "description": "The discipline of measuring growth honestly: finding the metric that matters, proving a change actually caused a result, and prioritizing what to test…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Research",
+      "url": "https://godofskills.com/skills/analytics-data",
+      "rawUrl": "https://godofskills.com/r/skills/analytics-data.md"
+    },
+    {
+      "slug": "growth-teardowns",
+      "kind": "skill",
+      "title": "Growth Teardowns",
+      "description": "Reusable growth and conversion plays reverse-engineered from real company teardowns (Ahrefs, Zapier, ClickUp, Segment, Customer.io, Amazon, Lovable…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Research",
+      "url": "https://godofskills.com/skills/growth-teardowns",
+      "rawUrl": "https://godofskills.com/r/skills/growth-teardowns.md"
+    },
+    {
+      "slug": "sales-outbound",
+      "kind": "skill",
+      "title": "Sales outbound",
+      "description": "The cold-outbound discipline: turn a stranger list into booked calls and closed deals with researched cold email, follow-ups, deliverability…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Sales",
+      "url": "https://godofskills.com/skills/sales-outbound",
+      "rawUrl": "https://godofskills.com/r/skills/sales-outbound.md"
+    },
+    {
+      "slug": "ai-search-geo",
+      "kind": "skill",
+      "title": "AI Search / GEO",
+      "description": "Get recommended by AI search (ChatGPT, Perplexity, Google AI Overviews, Gemini, Claude) using GEO / AEO: audit per-model visibility, structure content so…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "SEO",
+      "url": "https://godofskills.com/skills/ai-search-geo",
+      "rawUrl": "https://godofskills.com/r/skills/ai-search-geo.md"
+    },
+    {
+      "slug": "seo-content",
+      "kind": "skill",
+      "title": "Content-Led SEO",
+      "description": "The full content-led SEO discipline: technical foundation, keyword research, SERP-driven page types, writing pages that outrank competitors, internal…",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "SEO",
+      "url": "https://godofskills.com/skills/seo-content",
+      "rawUrl": "https://godofskills.com/r/skills/seo-content.md"
+    },
+    {
+      "slug": "copywriting-messaging",
+      "kind": "skill",
+      "title": "Copywriting & Messaging",
+      "description": "Write and diagnose persuasive marketing copy: headlines, value props, landing pages, ad hooks, product descriptions, and brand narrative.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "category": "Writing",
+      "url": "https://godofskills.com/skills/copywriting-messaging",
+      "rawUrl": "https://godofskills.com/r/skills/copywriting-messaging.md"
+    },
     {
       "slug": "seo-cluster-builder",
       "kind": "skill",

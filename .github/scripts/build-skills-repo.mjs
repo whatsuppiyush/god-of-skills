@@ -84,7 +84,9 @@ async function main() {
   let written = 0;
   for (const g of groups.values()) {
     for (const s of g.items) {
-      const md = await fetch(s.rawUrl).then((r) => r.text());
+      // Fetch from BASE (not the absolute prod rawUrl) so the repo can be built
+      // from a local dev server before the site is deployed.
+      const md = await fetch(`${BASE}${new URL(s.rawUrl).pathname}`).then((r) => r.text());
       const folder = join(OUT, g.dir, s.slug);
       await mkdir(folder, { recursive: true });
       await writeFile(join(folder, "SKILL.md"), md);
