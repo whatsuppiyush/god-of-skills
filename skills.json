@@ -510,7 +510,7 @@
       "slug": "landing-page-teardown",
       "kind": "prompt",
       "title": "Landing Page Teardown",
-      "description": "Paste a URL, get a conversion audit: hierarchy, hook, objections, CTA — scored 0–100.",
+      "description": "Paste a URL, get a conversion audit: hierarchy, hook, objections, CTA, scored 0-100.",
       "paid": false,
       "tested": true,
       "tools": [
@@ -525,7 +525,7 @@
       "slug": "founder-crm-notion",
       "kind": "template",
       "title": "Founder CRM (Notion)",
-      "description": "A ready Notion CRM wired for AI enrichment — drop a name, the linked prompt fills the row.",
+      "description": "A ready Notion CRM wired for AI enrichment, drop a name, the linked prompt fills the row.",
       "paid": false,
       "tested": true,
       "tools": [
@@ -571,7 +571,7 @@
       "slug": "meeting-notes-to-actions",
       "kind": "prompt",
       "title": "Meeting Notes → Actions",
-      "description": "Paste a transcript, get owners, decisions, and dated action items — nothing invented.",
+      "description": "Paste a transcript, get owners, decisions, and dated action items, nothing invented.",
       "paid": false,
       "tested": true,
       "tools": [

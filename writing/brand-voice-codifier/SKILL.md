@@ -6,7 +6,7 @@ description: Feed it 10 posts, it writes a reusable voice guide every future pro
 
 # Brand Voice Codifier
 
-Give it 10 of your best posts and it distils a reusable voice guide — cadence, vocabulary, banned phrases — that every future prompt can load. Stops AI-slop tone before it starts.
+Give it 10 of your best posts and it distils a reusable voice guide, cadence, vocabulary, banned phrases, that every future prompt can load. Stops AI-slop tone before it starts.
 
 ## Use it to
 
@@ -26,7 +26,7 @@ Give it 10 of your best posts and it distils a reusable voice guide — cadence,
 ```
 # Brand Voice Codifier
 
-(Full SKILL.md content shown here — free entry.)
+(Full SKILL.md content shown here, free entry.)
 ```
 
 

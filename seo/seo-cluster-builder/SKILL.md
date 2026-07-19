@@ -30,7 +30,7 @@ Give it a single seed keyword and it expands the topic space, groups keywords by
 ```
 # SEO Cluster Builder
 
-(Full SKILL.md content shown here — free entry.)
+(Full SKILL.md content shown here, free entry.)
 ```
 
 ## Example output

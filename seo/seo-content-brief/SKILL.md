@@ -25,7 +25,7 @@ Give it a target keyword and it studies what ranks, then writes a brief a writer
 ```
 # SEO Content Brief Builder
 
-(Full SKILL.md content shown here — free entry.)
+(Full SKILL.md content shown here, free entry.)
 ```
 
 

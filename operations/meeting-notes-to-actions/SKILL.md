@@ -1,12 +1,12 @@
 ---
 name: meeting-notes-to-actions
-description: Paste a transcript, get owners, decisions, and dated action items — nothing invented.
+description: Paste a transcript, get owners, decisions, and dated action items, nothing invented.
 ---
 
 
 # Meeting Notes → Actions
 
-Paste a raw meeting transcript and it returns decisions, action items with owners and dates, and open questions — strictly grounded in what was said, nothing invented.
+Paste a raw meeting transcript and it returns decisions, action items with owners and dates, and open questions, strictly grounded in what was said, nothing invented.
 
 ## Use it to
 

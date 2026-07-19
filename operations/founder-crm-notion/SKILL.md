@@ -1,6 +1,6 @@
 ---
 name: founder-crm-notion
-description: A ready Notion CRM wired for AI enrichment — drop a name, the linked prompt fills the row.
+description: A ready Notion CRM wired for AI enrichment, drop a name, the linked prompt fills the row.
 ---
 
 

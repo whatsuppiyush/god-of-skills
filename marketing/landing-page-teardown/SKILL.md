@@ -1,12 +1,12 @@
 ---
 name: landing-page-teardown
-description: Paste a URL, get a conversion audit: hierarchy, hook, objections, CTA — scored 0–100.
+description: Paste a URL, get a conversion audit: hierarchy, hook, objections, CTA, scored 0-100.
 ---
 
 
 # Landing Page Teardown
 
-Give it a landing-page URL and it returns a structured conversion audit: visual hierarchy, above-the-fold hook, unanswered objections, and CTA clarity — each scored, with concrete fixes.
+Give it a landing-page URL and it returns a structured conversion audit: visual hierarchy, above-the-fold hook, unanswered objections, and CTA clarity, each scored, with concrete fixes.
 
 ## Use it to
 

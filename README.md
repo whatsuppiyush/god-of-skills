@@ -52,14 +52,14 @@ Then ask your agent for any skill by name. Works with any MCP client.
 - [**Product-Led Growth**](marketing/product-led-growth/SKILL.md) — The discipline of making the product itself the primary driver of acquisition, activation, and retention. · [page](https://godofskills.com/skills/product-led-growth)
 - [**Retention & lifecycle**](marketing/retention-lifecycle/SKILL.md) — The keep-and-grow-customers discipline: activation, onboarding, churn and failed-payment recovery, loyalty, referral, gamified habit loops… · [page](https://godofskills.com/skills/retention-lifecycle)
 - [**Strategy Fundamentals**](marketing/strategy-fundamentals/SKILL.md) — The upstream growth-strategy layer: decide WHAT to build, WHO for, WHICH channel, and WHY it compounds, before spending a dollar on execution. · [page](https://godofskills.com/skills/strategy-fundamentals)
-- [**Landing Page Teardown**](marketing/landing-page-teardown/SKILL.md) — Paste a URL, get a conversion audit: hierarchy, hook, objections, CTA — scored 0–100. · [page](https://godofskills.com/prompts/landing-page-teardown)
+- [**Landing Page Teardown**](marketing/landing-page-teardown/SKILL.md) — Paste a URL, get a conversion audit: hierarchy, hook, objections, CTA, scored 0-100. · [page](https://godofskills.com/prompts/landing-page-teardown)
 
 ### Operations
 
 - [**Hiring the Growth Team**](operations/hiring-team/SKILL.md) — Make your first (or next) marketing/growth hire: decide the archetype, source candidates on the right boards, and screen with a paid role-specific test… · [page](https://godofskills.com/skills/hiring-team)
 - [**Tools & Stack**](operations/tools-stack/SKILL.md) — Pick, assemble, and build the marketing/growth tool stack: AI image & video generators, UGC ad production, AI content workflows, keyword/community… · [page](https://godofskills.com/skills/tools-stack)
-- [**Founder CRM (Notion)**](operations/founder-crm-notion/SKILL.md) — A ready Notion CRM wired for AI enrichment — drop a name, the linked prompt fills the row. · [page](https://godofskills.com/templates/founder-crm-notion)
-- [**Meeting Notes → Actions**](operations/meeting-notes-to-actions/SKILL.md) — Paste a transcript, get owners, decisions, and dated action items — nothing invented. · [page](https://godofskills.com/prompts/meeting-notes-to-actions)
+- [**Founder CRM (Notion)**](operations/founder-crm-notion/SKILL.md) — A ready Notion CRM wired for AI enrichment, drop a name, the linked prompt fills the row. · [page](https://godofskills.com/templates/founder-crm-notion)
+- [**Meeting Notes → Actions**](operations/meeting-notes-to-actions/SKILL.md) — Paste a transcript, get owners, decisions, and dated action items, nothing invented. · [page](https://godofskills.com/prompts/meeting-notes-to-actions)
 
 ### Research
 

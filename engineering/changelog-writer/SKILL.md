@@ -6,7 +6,7 @@ description: Reads merged PRs and drafts a human changelog grouped by feature / 
 
 # Changelog Writer
 
-Points at your merged PRs since the last tag and writes a changelog a human would actually read — grouped, de-jargoned, and ordered by what users care about. SKILL.md, works across 30+ tools.
+Points at your merged PRs since the last tag and writes a changelog a human would actually read, grouped, de-jargoned, and ordered by what users care about. SKILL.md, works across 30+ tools.
 
 ## Use it to
 
@@ -25,7 +25,7 @@ Points at your merged PRs since the last tag and writes a changelog a human woul
 ```
 # Changelog Writer
 
-(Full SKILL.md content shown here — free entry.)
+(Full SKILL.md content shown here, free entry.)
 ```
 
 
