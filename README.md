@@ -1,6 +1,6 @@
 # God of Skills — open skills library
 
-> 47 hand-tested AI skills, prompts, templates and image style guides for Claude, ChatGPT,
+> 52 hand-tested AI skills, prompts, templates and image style guides for Claude, ChatGPT,
 > Cursor and 30+ agent tools. Free and open. Organised by department, like a company.
 
 Full searchable directory, with examples and copy-paste recipes: **https://godofskills.com**
@@ -28,6 +28,7 @@ Then ask your agent for any skill by name. Works with any MCP client.
 ### Advertising
 
 - [**Paid acquisition**](advertising/paid-acquisition/SKILL.md) — Run profitable paid advertising end to end: strategy, creative, targeting, testing, and measurement across Meta/Facebook, Google, TikTok, YouTube… · [page](https://godofskills.com/skills/paid-acquisition)
+- [**Ad Maker**](advertising/ad-maker/SKILL.md) — Scroll-stopping ad creative for any product — hooks, full scripts, UGC briefs, storyboards, and angle matrices, native to each platform. · [page](https://godofskills.com/skills/ad-maker)
 
 ### Growth OS
 
@@ -53,6 +54,8 @@ Then ask your agent for any skill by name. Works with any MCP client.
 - [**Retention & lifecycle**](marketing/retention-lifecycle/SKILL.md) — The keep-and-grow-customers discipline: activation, onboarding, churn and failed-payment recovery, loyalty, referral, gamified habit loops… · [page](https://godofskills.com/skills/retention-lifecycle)
 - [**Strategy Fundamentals**](marketing/strategy-fundamentals/SKILL.md) — The upstream growth-strategy layer: decide WHAT to build, WHO for, WHICH channel, and WHY it compounds, before spending a dollar on execution. · [page](https://godofskills.com/skills/strategy-fundamentals)
 - [**Landing Page Teardown**](marketing/landing-page-teardown/SKILL.md) — Paste a URL, get a conversion audit: hierarchy, hook, objections, CTA, scored 0-100. · [page](https://godofskills.com/prompts/landing-page-teardown)
+- [**Product Hunt Launch Planner**](marketing/product-hunt-launch/SKILL.md) — Turn a launch date into a T-30 → T+7 plan: listing craft, an hour-by-hour runbook, the pinned first comment, and hunter outreach. · [page](https://godofskills.com/skills/product-hunt-launch)
+- [**Reddit Marketing (No Bans)**](marketing/reddit-marketing/SKILL.md) — Market on Reddit without getting banned: find the right subreddits, decode each sub's rules live, and plan value-first posts. · [page](https://godofskills.com/skills/reddit-marketing)
 
 ### Operations
 
@@ -70,6 +73,7 @@ Then ask your agent for any skill by name. Works with any MCP client.
 
 - [**Sales outbound**](sales/sales-outbound/SKILL.md) — The cold-outbound discipline: turn a stranger list into booked calls and closed deals with researched cold email, follow-ups, deliverability… · [page](https://godofskills.com/skills/sales-outbound)
 - [**Cold Email That Books**](sales/cold-email-that-books/SKILL.md) — A 6-step chain that writes cold emails from a prospect's LinkedIn: hook, proof, one ask. · [page](https://godofskills.com/prompts/cold-email-that-books)
+- [**X Cold Outreach (DMs)**](sales/cold-dm/SKILL.md) — Run cold outreach on X: find DM-able leads, draft personalized first-DMs from each profile, and send paced, cost-transparent campaigns. · [page](https://godofskills.com/skills/cold-dm)
 
 ### SEO
 
@@ -77,6 +81,7 @@ Then ask your agent for any skill by name. Works with any MCP client.
 - [**Content-Led SEO**](seo/seo-content/SKILL.md) — The full content-led SEO discipline: technical foundation, keyword research, SERP-driven page types, writing pages that outrank competitors, internal… · [page](https://godofskills.com/skills/seo-content)
 - [**SEO Cluster Builder**](seo/seo-cluster-builder/SKILL.md) — One seed keyword into a full hub-and-spoke content map with an internal-link matrix. · [page](https://godofskills.com/skills/seo-cluster-builder)
 - [**SEO Content Brief Builder**](seo/seo-content-brief/SKILL.md) — Competitive briefs with per-section word counts, entities to cover, and a title/meta set. · [page](https://godofskills.com/skills/seo-content-brief)
+- [**Backlink Hunter**](seo/backlink-hunter/SKILL.md) — Hunt every place a site can earn a link — directories, listicles, competitor gaps — then rank it into a submission plan with exact URLs. · [page](https://godofskills.com/skills/backlink-hunter)
 
 ### Writing
 

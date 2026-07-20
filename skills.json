@@ -1,5 +1,5 @@
 {
-  "count": 47,
+  "count": 52,
   "skills": [
     {
       "slug": "paid-acquisition",
@@ -582,6 +582,82 @@
       "category": "Ops",
       "url": "https://godofskills.com/prompts/meeting-notes-to-actions",
       "rawUrl": "https://godofskills.com/r/prompts/meeting-notes-to-actions.md"
+    },
+    {
+      "slug": "backlink-hunter",
+      "kind": "skill",
+      "title": "Backlink Hunter",
+      "description": "Hunt every place a site can earn a link — directories, listicles, competitor gaps — then rank it into a submission plan with exact URLs.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Claude"
+      ],
+      "category": "SEO",
+      "url": "https://godofskills.com/skills/backlink-hunter",
+      "rawUrl": "https://godofskills.com/r/skills/backlink-hunter.md"
+    },
+    {
+      "slug": "product-hunt-launch",
+      "kind": "skill",
+      "title": "Product Hunt Launch Planner",
+      "description": "Turn a launch date into a T-30 → T+7 plan: listing craft, an hour-by-hour runbook, the pinned first comment, and hunter outreach.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/skills/product-hunt-launch",
+      "rawUrl": "https://godofskills.com/r/skills/product-hunt-launch.md"
+    },
+    {
+      "slug": "ad-maker",
+      "kind": "skill",
+      "title": "Ad Maker",
+      "description": "Scroll-stopping ad creative for any product — hooks, full scripts, UGC briefs, storyboards, and angle matrices, native to each platform.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code",
+        "ChatGPT"
+      ],
+      "category": "Ads",
+      "url": "https://godofskills.com/skills/ad-maker",
+      "rawUrl": "https://godofskills.com/r/skills/ad-maker.md"
+    },
+    {
+      "slug": "reddit-marketing",
+      "kind": "skill",
+      "title": "Reddit Marketing (No Bans)",
+      "description": "Market on Reddit without getting banned: find the right subreddits, decode each sub's rules live, and plan value-first posts.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude",
+        "Claude Code"
+      ],
+      "category": "Marketing",
+      "url": "https://godofskills.com/skills/reddit-marketing",
+      "rawUrl": "https://godofskills.com/r/skills/reddit-marketing.md"
+    },
+    {
+      "slug": "cold-dm",
+      "kind": "skill",
+      "title": "X Cold Outreach (DMs)",
+      "description": "Run cold outreach on X: find DM-able leads, draft personalized first-DMs from each profile, and send paced, cost-transparent campaigns.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Claude"
+      ],
+      "category": "Sales",
+      "url": "https://godofskills.com/skills/cold-dm",
+      "rawUrl": "https://godofskills.com/r/skills/cold-dm.md"
     },
     {
       "slug": "ai-dslr-photography",
