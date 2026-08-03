@@ -7,14 +7,15 @@
       "title": "Paid acquisition",
       "description": "Run profitable paid advertising end to end: strategy, creative, targeting, testing, and measurement across Meta/Facebook, Google, TikTok, YouTube…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Ads",
+      "category": "Paid Ads",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/paid-acquisition",
       "rawUrl": "https://godofskills.com/r/skills/paid-acquisition.md"
     },
@@ -24,14 +25,15 @@
       "title": "Acquire first users: the playbook",
       "description": "The ordered playbook for getting from zero to your first ~1000 users.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Growth OS",
+      "category": "Workflow Automation",
+      "domain": "Operations",
       "url": "https://godofskills.com/skills/acquire-first-users",
       "rawUrl": "https://godofskills.com/r/skills/acquire-first-users.md"
     },
@@ -41,14 +43,15 @@
       "title": "Fix a leaky funnel",
       "description": "Diagnose WHERE a growth funnel leaks, then route to the exact discipline that plugs it, instead of guessing.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Growth OS",
+      "category": "Workflow Automation",
+      "domain": "Operations",
       "url": "https://godofskills.com/skills/fix-a-leaky-funnel",
       "rawUrl": "https://godofskills.com/r/skills/fix-a-leaky-funnel.md"
     },
@@ -58,14 +61,15 @@
       "title": "Growth OS: the router",
       "description": "The master router for growth work: arrive with a goal (\"grow traffic\", \"get first users\", \"raise conversion\", \"fix churn\", \"price better\", \"launch\"…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Growth OS",
+      "category": "Workflow Automation",
+      "domain": "Operations",
       "url": "https://godofskills.com/skills/growth-os",
       "rawUrl": "https://godofskills.com/r/skills/growth-os.md"
     },
@@ -75,14 +79,15 @@
       "title": "Improve conversion",
       "description": "Raise the conversion rate of a specific page or flow by running four disciplines in the right order: structure, words, persuasion, then proof.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Growth OS",
+      "category": "Workflow Automation",
+      "domain": "Operations",
       "url": "https://godofskills.com/skills/improve-conversion",
       "rawUrl": "https://godofskills.com/r/skills/improve-conversion.md"
     },
@@ -92,14 +97,15 @@
       "title": "Launch a product: the playbook",
       "description": "The ordered playbook for launching a product or running a go-to-market push.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Growth OS",
+      "category": "Workflow Automation",
+      "domain": "Operations",
       "url": "https://godofskills.com/skills/launch-a-product",
       "rawUrl": "https://godofskills.com/r/skills/launch-a-product.md"
     },
@@ -109,14 +115,15 @@
       "title": "Pricing and monetization review",
       "description": "Audit and fix how you charge and how you present it, in one ordered pass: model and tiers first, then display psychology, then the pricing page, then…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Growth OS",
+      "category": "Workflow Automation",
+      "domain": "Operations",
       "url": "https://godofskills.com/skills/pricing-and-monetization-review",
       "rawUrl": "https://godofskills.com/r/skills/pricing-and-monetization-review.md"
     },
@@ -126,14 +133,15 @@
       "title": "Brand",
       "description": "Build a distinctive, defensible brand: mission and story, a codified voice, positioning against an enemy, a scored name, warmth/competence perception…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Marketing",
+      "category": "Brand",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/brand",
       "rawUrl": "https://godofskills.com/r/skills/brand.md"
     },
@@ -143,14 +151,15 @@
       "title": "Conversion Rate Optimization (CRO)",
       "description": "Conversion rate optimization for landing pages, product pages, and checkout flows.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Marketing",
+      "category": "Conversion & CRO",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/conversion-cro",
       "rawUrl": "https://godofskills.com/r/skills/conversion-cro.md"
     },
@@ -160,14 +169,15 @@
       "title": "Ecommerce and DTC Growth",
       "description": "Ecommerce and DTC store growth: store conversion, cart recovery, average order value, promotions, marketplace listings, and shipping.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Marketing",
+      "category": "Ecommerce",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/ecommerce",
       "rawUrl": "https://godofskills.com/r/skills/ecommerce.md"
     },
@@ -177,14 +187,15 @@
       "title": "Email Marketing",
       "description": "The playbook for owned-email marketing to an opted-in list: deliverability, list growth, writing and creative, sequences, segmentation, and the KPIs that…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Marketing",
+      "category": "Email Marketing",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/email-marketing",
       "rawUrl": "https://godofskills.com/r/skills/email-marketing.md"
     },
@@ -194,14 +205,15 @@
       "title": "Influencer & Creator Marketing",
       "description": "Find, vet, pay, brief, and scale creators, influencers, and affiliates to produce authentic third-party content that sells.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Marketing",
+      "category": "Influencer & Creator",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/influencer-creator",
       "rawUrl": "https://godofskills.com/r/skills/influencer-creator.md"
     },
@@ -211,14 +223,15 @@
       "title": "Launch and Go-to-Market",
       "description": "Plan and run a product launch or go-to-market push: pick your first-users channel, run a Product Hunt launch, earn press, manufacture scarcity for a…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Marketing",
+      "category": "Launch & GTM",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/launch-gtm",
       "rawUrl": "https://godofskills.com/r/skills/launch-gtm.md"
     },
@@ -228,14 +241,15 @@
       "title": "Marketing Psychology",
       "description": "Apply behavioral-science and consumer-psychology principles to marketing decisions: pricing displays, ad creative, copy framing, social proof, attention…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Marketing",
+      "category": "Marketing Psychology",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/marketing-psychology",
       "rawUrl": "https://godofskills.com/r/skills/marketing-psychology.md"
     },
@@ -245,14 +259,15 @@
       "title": "Organic Social",
       "description": "Grow an audience and earn reach on social platforms without ad spend.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Marketing",
+      "category": "Social Media",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/organic-social",
       "rawUrl": "https://godofskills.com/r/skills/organic-social.md"
     },
@@ -262,14 +277,15 @@
       "title": "Pricing & Monetization",
       "description": "The playbook for what you charge and how you present it: value metric, tiers, anchoring, display psychology, discounts and promos, add-ons, trial models…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Marketing",
+      "category": "Pricing & Monetisation",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/pricing-monetization",
       "rawUrl": "https://godofskills.com/r/skills/pricing-monetization.md"
     },
@@ -279,14 +295,15 @@
       "title": "Product-Led Growth",
       "description": "The discipline of making the product itself the primary driver of acquisition, activation, and retention.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Marketing",
+      "category": "Product-Led Growth",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/product-led-growth",
       "rawUrl": "https://godofskills.com/r/skills/product-led-growth.md"
     },
@@ -296,14 +313,15 @@
       "title": "Retention & lifecycle",
       "description": "The keep-and-grow-customers discipline: activation, onboarding, churn and failed-payment recovery, loyalty, referral, gamified habit loops…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Marketing",
+      "category": "Retention & Lifecycle",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/retention-lifecycle",
       "rawUrl": "https://godofskills.com/r/skills/retention-lifecycle.md"
     },
@@ -313,14 +331,15 @@
       "title": "Strategy Fundamentals",
       "description": "The upstream growth-strategy layer: decide WHAT to build, WHO for, WHICH channel, and WHY it compounds, before spending a dollar on execution.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Marketing",
+      "category": "Strategy",
+      "domain": "Business",
       "url": "https://godofskills.com/skills/strategy-fundamentals",
       "rawUrl": "https://godofskills.com/r/skills/strategy-fundamentals.md"
     },
@@ -330,14 +349,15 @@
       "title": "Hiring the Growth Team",
       "description": "Make your first (or next) marketing/growth hire: decide the archetype, source candidates on the right boards, and screen with a paid role-specific test…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Ops",
+      "category": "Hiring & Team",
+      "domain": "Operations",
       "url": "https://godofskills.com/skills/hiring-team",
       "rawUrl": "https://godofskills.com/r/skills/hiring-team.md"
     },
@@ -347,14 +367,15 @@
       "title": "Tools & Stack",
       "description": "Pick, assemble, and build the marketing/growth tool stack: AI image & video generators, UGC ad production, AI content workflows, keyword/community…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Ops",
+      "category": "Tools & Stack",
+      "domain": "Operations",
       "url": "https://godofskills.com/skills/tools-stack",
       "rawUrl": "https://godofskills.com/r/skills/tools-stack.md"
     },
@@ -364,14 +385,15 @@
       "title": "Analytics & Data",
       "description": "The discipline of measuring growth honestly: finding the metric that matters, proving a change actually caused a result, and prioritizing what to test…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Research",
+      "category": "Analysis",
+      "domain": "Data",
       "url": "https://godofskills.com/skills/analytics-data",
       "rawUrl": "https://godofskills.com/r/skills/analytics-data.md"
     },
@@ -381,14 +403,15 @@
       "title": "Growth Teardowns",
       "description": "Reusable growth and conversion plays reverse-engineered from real company teardowns (Ahrefs, Zapier, ClickUp, Segment, Customer.io, Amazon, Lovable…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Research",
+      "category": "Competitive Intel",
+      "domain": "Research",
       "url": "https://godofskills.com/skills/growth-teardowns",
       "rawUrl": "https://godofskills.com/r/skills/growth-teardowns.md"
     },
@@ -398,14 +421,15 @@
       "title": "Sales outbound",
       "description": "The cold-outbound discipline: turn a stranger list into booked calls and closed deals with researched cold email, follow-ups, deliverability…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Sales",
+      "category": "Outbound",
+      "domain": "Sales",
       "url": "https://godofskills.com/skills/sales-outbound",
       "rawUrl": "https://godofskills.com/r/skills/sales-outbound.md"
     },
@@ -415,14 +439,15 @@
       "title": "AI Search / GEO",
       "description": "Get recommended by AI search (ChatGPT, Perplexity, Google AI Overviews, Gemini, Claude) using GEO / AEO: audit per-model visibility, structure content so…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "SEO",
+      "category": "AI Search & GEO",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/ai-search-geo",
       "rawUrl": "https://godofskills.com/r/skills/ai-search-geo.md"
     },
@@ -432,7 +457,7 @@
       "title": "Content-Led SEO",
       "description": "The full content-led SEO discipline: technical foundation, keyword research, SERP-driven page types, writing pages that outrank competitors, internal…",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
@@ -440,6 +465,7 @@
         "Cursor"
       ],
       "category": "SEO",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/seo-content",
       "rawUrl": "https://godofskills.com/r/skills/seo-content.md"
     },
@@ -449,14 +475,15 @@
       "title": "Copywriting & Messaging",
       "description": "Write and diagnose persuasive marketing copy: headlines, value props, landing pages, ad hooks, product descriptions, and brand narrative.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT",
         "Cursor"
       ],
-      "category": "Writing",
+      "category": "Copywriting & Messaging",
+      "domain": "Content & Writing",
       "url": "https://godofskills.com/skills/copywriting-messaging",
       "rawUrl": "https://godofskills.com/r/skills/copywriting-messaging.md"
     },
@@ -466,12 +493,13 @@
       "title": "SEO Cluster Builder",
       "description": "One seed keyword into a full hub-and-spoke content map with an internal-link matrix.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude Code",
         "Cursor"
       ],
       "category": "SEO",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/seo-cluster-builder",
       "rawUrl": "https://godofskills.com/r/skills/seo-cluster-builder.md"
     },
@@ -481,12 +509,13 @@
       "title": "Cold Email That Books",
       "description": "A 6-step chain that writes cold emails from a prospect's LinkedIn: hook, proof, one ask.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "ChatGPT"
       ],
-      "category": "Sales",
+      "category": "Cold Email & DMs",
+      "domain": "Sales",
       "url": "https://godofskills.com/prompts/cold-email-that-books",
       "rawUrl": "https://godofskills.com/r/prompts/cold-email-that-books.md"
     },
@@ -496,13 +525,14 @@
       "title": "Changelog Writer",
       "description": "Reads merged PRs and drafts a human changelog grouped by feature / fix / chore.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude Code",
         "Codex",
         "Copilot"
       ],
-      "category": "Engineering",
+      "category": "Docs & Changelogs",
+      "domain": "Engineering",
       "url": "https://godofskills.com/skills/changelog-writer",
       "rawUrl": "https://godofskills.com/r/skills/changelog-writer.md"
     },
@@ -512,29 +542,31 @@
       "title": "Landing Page Teardown",
       "description": "Paste a URL, get a conversion audit: hierarchy, hook, objections, CTA, scored 0-100.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "ChatGPT"
       ],
-      "category": "Marketing",
+      "category": "Conversion & CRO",
+      "domain": "Marketing",
       "url": "https://godofskills.com/prompts/landing-page-teardown",
       "rawUrl": "https://godofskills.com/r/prompts/landing-page-teardown.md"
     },
     {
       "slug": "founder-crm-notion",
-      "kind": "template",
+      "kind": "skill",
       "title": "Founder CRM (Notion)",
       "description": "A ready Notion CRM wired for AI enrichment, drop a name, the linked prompt fills the row.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "ChatGPT"
       ],
-      "category": "Ops",
-      "url": "https://godofskills.com/templates/founder-crm-notion",
-      "rawUrl": "https://godofskills.com/r/templates/founder-crm-notion.md"
+      "category": "Workflow Automation",
+      "domain": "Operations",
+      "url": "https://godofskills.com/skills/founder-crm-notion",
+      "rawUrl": "https://godofskills.com/r/skills/founder-crm-notion.md"
     },
     {
       "slug": "brand-voice-codifier",
@@ -542,13 +574,14 @@
       "title": "Brand Voice Codifier",
       "description": "Feed it 10 posts, it writes a reusable voice guide every future prompt can load.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "Cursor"
       ],
-      "category": "Writing",
+      "category": "Copywriting & Messaging",
+      "domain": "Content & Writing",
       "url": "https://godofskills.com/skills/brand-voice-codifier",
       "rawUrl": "https://godofskills.com/r/skills/brand-voice-codifier.md"
     },
@@ -558,12 +591,13 @@
       "title": "SEO Content Brief Builder",
       "description": "Competitive briefs with per-section word counts, entities to cover, and a title/meta set.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude Code",
         "Claude"
       ],
       "category": "SEO",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/seo-content-brief",
       "rawUrl": "https://godofskills.com/r/skills/seo-content-brief.md"
     },
@@ -573,13 +607,14 @@
       "title": "Meeting Notes → Actions",
       "description": "Paste a transcript, get owners, decisions, and dated action items, nothing invented.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "ChatGPT",
         "Gemini"
       ],
-      "category": "Ops",
+      "category": "Workflow Automation",
+      "domain": "Operations",
       "url": "https://godofskills.com/prompts/meeting-notes-to-actions",
       "rawUrl": "https://godofskills.com/r/prompts/meeting-notes-to-actions.md"
     },
@@ -587,14 +622,15 @@
       "slug": "backlink-hunter",
       "kind": "skill",
       "title": "Backlink Hunter",
-      "description": "Hunt every place a site can earn a link — directories, listicles, competitor gaps — then rank it into a submission plan with exact URLs.",
+      "description": "Hunt every place a site can earn a link (directories, listicles, competitor gaps), then rank it into a submission plan with exact URLs.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude Code",
         "Claude"
       ],
       "category": "SEO",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/backlink-hunter",
       "rawUrl": "https://godofskills.com/r/skills/backlink-hunter.md"
     },
@@ -604,12 +640,13 @@
       "title": "Product Hunt Launch Planner",
       "description": "Turn a launch date into a T-30 → T+7 plan: listing craft, an hour-by-hour runbook, the pinned first comment, and hunter outreach.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code"
       ],
-      "category": "Marketing",
+      "category": "Launch & GTM",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/product-hunt-launch",
       "rawUrl": "https://godofskills.com/r/skills/product-hunt-launch.md"
     },
@@ -617,15 +654,16 @@
       "slug": "ad-maker",
       "kind": "skill",
       "title": "Ad Maker",
-      "description": "Scroll-stopping ad creative for any product — hooks, full scripts, UGC briefs, storyboards, and angle matrices, native to each platform.",
+      "description": "Scroll-stopping ad creative for any product: hooks, full scripts, UGC briefs, storyboards, and angle matrices, native to each platform.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code",
         "ChatGPT"
       ],
-      "category": "Ads",
+      "category": "Paid Ads",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/ad-maker",
       "rawUrl": "https://godofskills.com/r/skills/ad-maker.md"
     },
@@ -635,12 +673,13 @@
       "title": "Reddit Marketing (No Bans)",
       "description": "Market on Reddit without getting banned: find the right subreddits, decode each sub's rules live, and plan value-first posts.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude",
         "Claude Code"
       ],
-      "category": "Marketing",
+      "category": "Social Media",
+      "domain": "Marketing",
       "url": "https://godofskills.com/skills/reddit-marketing",
       "rawUrl": "https://godofskills.com/r/skills/reddit-marketing.md"
     },
@@ -650,12 +689,13 @@
       "title": "X Cold Outreach (DMs)",
       "description": "Run cold outreach on X: find DM-able leads, draft personalized first-DMs from each profile, and send paced, cost-transparent campaigns.",
       "paid": false,
-      "tested": true,
+      "tested": false,
       "tools": [
         "Claude Code",
         "Claude"
       ],
-      "category": "Sales",
+      "category": "Cold Email & DMs",
+      "domain": "Sales",
       "url": "https://godofskills.com/skills/cold-dm",
       "rawUrl": "https://godofskills.com/r/skills/cold-dm.md"
     },
@@ -674,7 +714,7 @@
         "Stable Diffusion"
       ],
       "category": "Image style guides",
-      "url": "https://godofskills.com/ai-dslr-photography",
+      "url": "https://godofskills.com/playbooks/ai-dslr-photography",
       "rawUrl": "https://godofskills.com/r/guides/ai-dslr-photography.md"
     },
     {
@@ -692,7 +732,7 @@
         "Stable Diffusion"
       ],
       "category": "Image style guides",
-      "url": "https://godofskills.com/ai-art-styles",
+      "url": "https://godofskills.com/playbooks/ai-art-styles",
       "rawUrl": "https://godofskills.com/r/guides/ai-art-styles.md"
     },
     {
@@ -710,7 +750,7 @@
         "Stable Diffusion"
       ],
       "category": "Image style guides",
-      "url": "https://godofskills.com/ai-product-photography",
+      "url": "https://godofskills.com/playbooks/ai-product-photography",
       "rawUrl": "https://godofskills.com/r/guides/ai-product-photography.md"
     },
     {
@@ -728,7 +768,7 @@
         "Stable Diffusion"
       ],
       "category": "Image style guides",
-      "url": "https://godofskills.com/ai-anime-styles",
+      "url": "https://godofskills.com/playbooks/ai-anime-styles",
       "rawUrl": "https://godofskills.com/r/guides/ai-anime-styles.md"
     },
     {
@@ -746,7 +786,7 @@
         "Stable Diffusion"
       ],
       "category": "Image style guides",
-      "url": "https://godofskills.com/ai-food-photography",
+      "url": "https://godofskills.com/playbooks/ai-food-photography",
       "rawUrl": "https://godofskills.com/r/guides/ai-food-photography.md"
     },
     {
@@ -764,7 +804,7 @@
         "Stable Diffusion"
       ],
       "category": "Image style guides",
-      "url": "https://godofskills.com/ai-interior-design",
+      "url": "https://godofskills.com/playbooks/ai-interior-design",
       "rawUrl": "https://godofskills.com/r/guides/ai-interior-design.md"
     },
     {
@@ -782,7 +822,7 @@
         "Stable Diffusion"
       ],
       "category": "Image style guides",
-      "url": "https://godofskills.com/ai-portrait-styles",
+      "url": "https://godofskills.com/playbooks/ai-portrait-styles",
       "rawUrl": "https://godofskills.com/r/guides/ai-portrait-styles.md"
     },
     {
@@ -800,7 +840,7 @@
         "Stable Diffusion"
       ],
       "category": "Image style guides",
-      "url": "https://godofskills.com/ai-fashion-photography",
+      "url": "https://godofskills.com/playbooks/ai-fashion-photography",
       "rawUrl": "https://godofskills.com/r/guides/ai-fashion-photography.md"
     },
     {
@@ -818,7 +858,7 @@
         "Stable Diffusion"
       ],
       "category": "Image style guides",
-      "url": "https://godofskills.com/ai-film-stock-emulation",
+      "url": "https://godofskills.com/playbooks/ai-film-stock-emulation",
       "rawUrl": "https://godofskills.com/r/guides/ai-film-stock-emulation.md"
     },
     {
@@ -836,7 +876,7 @@
         "Stable Diffusion"
       ],
       "category": "Image style guides",
-      "url": "https://godofskills.com/ai-image-controls-compared",
+      "url": "https://godofskills.com/playbooks/ai-image-controls-compared",
       "rawUrl": "https://godofskills.com/r/guides/ai-image-controls-compared.md"
     },
     {
@@ -854,7 +894,7 @@
         "Stable Diffusion"
       ],
       "category": "Image style guides",
-      "url": "https://godofskills.com/ai-consistent-characters",
+      "url": "https://godofskills.com/playbooks/ai-consistent-characters",
       "rawUrl": "https://godofskills.com/r/guides/ai-consistent-characters.md"
     },
     {
@@ -872,7 +912,7 @@
         "Stable Diffusion"
       ],
       "category": "Image style guides",
-      "url": "https://godofskills.com/ai-blending-reference-images",
+      "url": "https://godofskills.com/playbooks/ai-blending-reference-images",
       "rawUrl": "https://godofskills.com/r/guides/ai-blending-reference-images.md"
     }
   ]

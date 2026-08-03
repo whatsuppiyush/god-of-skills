@@ -70,4 +70,4 @@ A colourful grain bowl, overhead flat-lay food photography, styled ingredients a
 ---
 
 From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
-Source: https://godofskills.com/ai-food-photography?ref=claude-skill
+Source: https://godofskills.com/playbooks/ai-food-photography?ref=claude-skill

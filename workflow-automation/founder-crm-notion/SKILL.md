@@ -14,7 +14,7 @@ A Notion CRM template pre-wired for AI enrichment. Add a contact name and the li
 - Auto-enrich new contacts with one prompt
 - Track deals without a heavyweight CRM
 
-## The template
+## SKILL.md
 
 ```
 # Founder CRM in Notion, pre-wired for AI enrichment
@@ -114,4 +114,4 @@ That is the whole system: one field of manual input per contact, one prompt to f
 ---
 
 From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
-Source: https://godofskills.com/templates/founder-crm-notion?ref=claude-skill
+Source: https://godofskills.com/skills/founder-crm-notion?ref=claude-skill

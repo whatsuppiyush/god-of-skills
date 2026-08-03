@@ -582,4 +582,4 @@ Architectural photograph of a minimalist cozy bedroom with floor-to-ceiling wind
 ---
 
 From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
-Source: https://godofskills.com/ai-dslr-photography?ref=claude-skill
+Source: https://godofskills.com/playbooks/ai-dslr-photography?ref=claude-skill
