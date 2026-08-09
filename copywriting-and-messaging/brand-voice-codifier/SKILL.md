@@ -1,5 +1,31 @@
 ---
 name: brand-voice-codifier
+description: Feed it 10 posts, it writes a reusable voice guide every future prompt can load.
+---
+
+
+# Brand Voice Codifier
+
+Give it 10 of your best posts and it distils a reusable voice guide, cadence, vocabulary, banned phrases, that every future prompt can load. Stops AI-slop tone before it starts.
+
+## Use it to
+
+- Codify a founder or brand voice once, reuse everywhere
+- Keep ghost-written content on-voice
+- Onboard a new writer to your tone fast
+
+## How to use it
+
+**Claude / Claude Code**
+1. Paste 10 posts into the skill
+2. Save the returned voice guide
+3. Load it at the top of any writing prompt
+
+## SKILL.md
+
+```
+---
+name: brand-voice-codifier
 description: >-
   Distil ~10 of the user's best posts into a reusable voice guide they can paste at the top
   of any future writing prompt, so anything you write next sounds like them and not like
@@ -138,6 +164,8 @@ Before/after:
 
 The founder pastes the finished guide above their next prompt and the drafts stop reading like
 a press release.
+```
+
 
 ---
 

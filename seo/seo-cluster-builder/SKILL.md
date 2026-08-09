@@ -1,5 +1,35 @@
 ---
 name: seo-cluster-builder
+description: One seed keyword into a full hub-and-spoke content map with an internal-link matrix.
+---
+
+
+# SEO Cluster Builder
+
+Give it a single seed keyword and it expands the topic space, groups keywords by real SERP overlap (not string similarity), and returns a hub-and-spoke plan with a ready internal-link matrix. Built to run as a SKILL.md skill inside Claude Code.
+
+## Use it to
+
+- Plan a content cluster before writing a single post
+- Find the pillar page and its supporting spokes
+- Get an internal-link matrix you can hand to a writer
+
+## How to use it
+
+**Claude Code**
+1. Save the SKILL.md into .claude/skills/seo-cluster-builder/
+2. Start Claude Code in your repo
+3. Ask: “build a content cluster for <keyword>”
+
+**Cursor**
+1. Drop the skill file into your rules directory
+2. Reference it in the chat prompt
+
+## SKILL.md
+
+```
+---
+name: seo-cluster-builder
 description: >-
   Turn ONE seed keyword into a full hub-and-spoke content plan grouped by real SERP
   overlap, not string similarity. Use whenever the user says "build a topic cluster",
@@ -148,6 +178,19 @@ Final plan: 1 pillar ("The complete guide to cold email") + 6 spokes (templates+
 subject lines, open rate, deliverability, follow-up sequences, software). The link matrix
 wires the pillar to all 6, links deliverability <-> open rate (4/10 overlap), and drops "cold
 email meaning" as thin, folding it into the pillar intro.
+```
+
+## Example output
+
+```
+Pillar: “programmatic SEO”
+  ├─ spoke: what is programmatic SEO
+  ├─ spoke: programmatic SEO examples
+  ├─ spoke: programmatic SEO vs traditional SEO
+  └─ spoke: how to avoid thin pages
+Internal links: pillar ⇄ every spoke; spokes cross-link by intent.
+```
+
 
 ---
 

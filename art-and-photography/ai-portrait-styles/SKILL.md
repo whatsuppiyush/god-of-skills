@@ -74,4 +74,4 @@ A portrait of a woman with dark hair, golden hour portrait, warm backlight, natu
 ---
 
 From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
-Source: https://godofskills.com/playbooks/ai-portrait-styles?ref=claude-skill
+Source: https://godofskills.com/guides/ai-portrait-styles?ref=claude-skill

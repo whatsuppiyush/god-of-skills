@@ -100,4 +100,4 @@ A red fox sitting, full body, centered, plain neutral background, in a cyberpunk
 ---
 
 From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
-Source: https://godofskills.com/playbooks/ai-art-styles?ref=claude-skill
+Source: https://godofskills.com/guides/ai-art-styles?ref=claude-skill

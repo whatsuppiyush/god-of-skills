@@ -74,4 +74,4 @@ A portrait of a woman by a bright window, natural light, shot on Fujifilm Velvia
 ---
 
 From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
-Source: https://godofskills.com/playbooks/ai-film-stock-emulation?ref=claude-skill
+Source: https://godofskills.com/guides/ai-film-stock-emulation?ref=claude-skill

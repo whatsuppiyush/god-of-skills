@@ -74,4 +74,4 @@ A young woman with windswept hair, anime character, upper body, in a Korean webt
 ---
 
 From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
-Source: https://godofskills.com/playbooks/ai-anime-styles?ref=claude-skill
+Source: https://godofskills.com/guides/ai-anime-styles?ref=claude-skill

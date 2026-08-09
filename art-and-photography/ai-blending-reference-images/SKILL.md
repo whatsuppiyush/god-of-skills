@@ -67,4 +67,4 @@ A perfume bottle composited into a dramatic mountain landscape at sunset, the pr
 ---
 
 From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
-Source: https://godofskills.com/playbooks/ai-blending-reference-images?ref=claude-skill
+Source: https://godofskills.com/guides/ai-blending-reference-images?ref=claude-skill

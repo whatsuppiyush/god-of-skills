@@ -1,4 +1,29 @@
 ---
+name: cold-dm
+description: Run cold outreach on X: find DM-able leads, draft personalized first-DMs from each profile, and send paced, cost-transparent campaigns.
+---
+
+
+# X Cold Outreach (DMs)
+
+Find the right people on X, write them a DM worth replying to, and send it at a safe, human pace. Defining an ICP and drafting DMs are free and keyless; the actions that touch X (scraping leads, sending DMs, reading the inbox) run through the XAutoDM API with your own key, and the skill always estimates the credit cost and asks before spending. It refuses spray-and-pray and reports on replies started, never raw send counts.
+
+## Use it to
+
+- Define a tight ICP and pull DM-able leads from seed accounts or search
+- Draft a specific first-DM per lead from their bio and recent tweets
+- Send a paced campaign with the cost shown up front and confirmed first
+
+## How to use it
+
+**Claude Code**
+1. Save the SKILL.md into .claude/skills/cold-dm/
+2. Set XAUTODM_API_KEY, then ask: “find X leads for <ICP>”
+
+## SKILL.md
+
+```
+---
 name: x-outreach
 description: Run cold outreach on X (Twitter) the right way — find DM-able leads, draft personalized first-DMs from each prospect's real profile, and send paced, cost-transparent DM campaigns through the XAutoDM API using your own API key. Also warms up accounts (follow/like/reply), reads the reply inbox, and drafts responses. Use when the user wants to cold DM on twitter/x, find twitter leads, scrape followers of an account and filter to who can be DMed, send DMs on X, run a DM campaign, book calls from twitter, do X/twitter cold outreach, or manage twitter DM replies. Every real action calls the live XAutoDM API and spends the user's credits — the skill always shows the cost and asks first.
 homepage: https://xautodm.com
@@ -151,6 +176,8 @@ describe what you want — the workflows trigger on intent either way.
 
 Never fabricate a lead, a `can_dm` flag, a credit balance, or an API result. Everything comes from a
 real API call you actually made, or it is clearly labeled as a draft/estimate.
+```
+
 
 ---
 

@@ -91,4 +91,4 @@ A minimalist frosted-glass perfume bottle, product photography, on a mossy rock 
 ---
 
 From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
-Source: https://godofskills.com/playbooks/ai-product-photography?ref=claude-skill
+Source: https://godofskills.com/guides/ai-product-photography?ref=claude-skill

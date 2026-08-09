@@ -72,4 +72,4 @@ A living room interior, interior design photography, wide angle, natural light, 
 ---
 
 From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
-Source: https://godofskills.com/playbooks/ai-interior-design?ref=claude-skill
+Source: https://godofskills.com/guides/ai-interior-design?ref=claude-skill

@@ -79,4 +79,4 @@ Midjourney: <prompt> --ar 16:9 --style raw  ·  GPT Image / Nano Banana: <prompt
 ---
 
 From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
-Source: https://godofskills.com/playbooks/ai-image-controls-compared?ref=claude-skill
+Source: https://godofskills.com/guides/ai-image-controls-compared?ref=claude-skill

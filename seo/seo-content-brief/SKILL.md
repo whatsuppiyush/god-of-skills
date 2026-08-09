@@ -1,5 +1,30 @@
 ---
 name: seo-content-brief
+description: Competitive briefs with per-section word counts, entities to cover, and a title/meta set.
+---
+
+
+# SEO Content Brief Builder
+
+Give it a target keyword and it studies what ranks, then writes a brief a writer can execute: per-section word counts, entities and questions to cover, and a title/meta set.
+
+## Use it to
+
+- Hand a writer a brief that will actually rank
+- Reverse-engineer what the top results cover
+- Standardise briefs across a content team
+
+## How to use it
+
+**Claude Code**
+1. Save into .claude/skills/
+2. Ask: “brief for <keyword>”
+
+## SKILL.md
+
+```
+---
+name: seo-content-brief
 description: >-
   Turn a target keyword into a fill-in brief a writer can execute: search intent, target and
   per-section word counts, the H2/H3 outline, entities and questions to cover, internal and
@@ -144,6 +169,8 @@ its anchor-text article; external cites go to primary Search Console documentati
 Title tag: "How to Do a Backlink Audit (Step-by-Step, 2026)". Meta: "Run a backlink audit in
 7 steps: find toxic links, read your anchor profile, and decide what to disavow. A repeatable
 process, no guesswork."
+```
+
 
 ---
 

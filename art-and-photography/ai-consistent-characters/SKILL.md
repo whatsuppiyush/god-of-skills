@@ -72,4 +72,4 @@ The same character (reuse the description + reference image), now walking throug
 ---
 
 From **God of Skills**: a curated, hand-tested directory of AI skills, prompts, templates and image style guides.
-Source: https://godofskills.com/playbooks/ai-consistent-characters?ref=claude-skill
+Source: https://godofskills.com/guides/ai-consistent-characters?ref=claude-skill
