@@ -41,25 +41,33 @@ async function cleanOut(dir) {
 const BASE = (process.argv[2] || "http://localhost:3100").replace(/\/$/, "");
 const OUT = process.argv[3] || join(process.cwd(), "..", "skills-repo");
 
-// Registry category -> department folder + display name. New categories fall
-// back to a slug of the category name, so nothing is ever dropped silently.
+// Registry DOMAIN -> department folder + display name.
+//
+// ⚠️ This groups by domain, NOT category. It used to key off the category name
+// back when there were 9 flat categories that doubled as departments. After the
+// taxonomy migration there are 25 categories, and the fallback below would have
+// silently produced a 25-folder repo — "paid-ads", "ai-search-and-geo",
+// "workflow-automation" and so on — which is not what "organised department-wise,
+// like a company" means, and would have split the star-earning index into
+// fragments. The 8 domains ARE the departments.
 const DEPARTMENTS = {
   Marketing: { dir: "marketing", label: "Marketing" },
-  SEO: { dir: "seo", label: "SEO" },
-  Ads: { dir: "advertising", label: "Advertising" },
   Sales: { dir: "sales", label: "Sales" },
-  Engineering: { dir: "engineering", label: "Engineering" },
+  "Content & Writing": { dir: "writing", label: "Content & Writing" },
   Research: { dir: "research", label: "Research" },
-  Writing: { dir: "writing", label: "Writing" },
-  Ops: { dir: "operations", label: "Operations" },
+  Operations: { dir: "operations", label: "Operations" },
+  Engineering: { dir: "engineering", label: "Engineering" },
+  Data: { dir: "data", label: "Data" },
+  Business: { dir: "business", label: "Business" },
+  // Style guides carry no domain (they are editorial playbooks, outside the tree).
   "Image style guides": { dir: "art-and-photography", label: "Art & Photography" },
 };
 
 const slugify = (s) =>
   s.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
 
-function departmentOf(category) {
-  return DEPARTMENTS[category] ?? { dir: slugify(category || "misc"), label: category || "Misc" };
+function departmentOf(key) {
+  return DEPARTMENTS[key] ?? { dir: slugify(key || "misc"), label: key || "Misc" };
 }
 
 async function main() {
@@ -76,7 +84,8 @@ async function main() {
   // group by department, preserving registry order within each
   const groups = new Map();
   for (const s of free) {
-    const dep = departmentOf(s.category);
+    // Prefer the domain; style guides have no domain and fall back to their category.
+    const dep = departmentOf(s.domain ?? s.category);
     if (!groups.has(dep.dir)) groups.set(dep.dir, { ...dep, items: [] });
     groups.get(dep.dir).items.push(s);
   }

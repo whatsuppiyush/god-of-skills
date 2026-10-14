@@ -1,5 +1,5 @@
 {
-  "count": 52,
+  "count": 53,
   "skills": [
     {
       "slug": "paid-acquisition",
@@ -698,6 +698,24 @@
       "domain": "Sales",
       "url": "https://godofskills.com/skills/cold-dm",
       "rawUrl": "https://godofskills.com/r/skills/cold-dm.md"
+    },
+    {
+      "slug": "chatterapi",
+      "kind": "skill",
+      "title": "ChatterAPI (Reddit + X data)",
+      "description": "Live Reddit and X data for your agent: find people asking for your product, track mentions, check a subreddit's rules and look up accounts, all within a credit budget it sticks to.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor",
+        "Codex"
+      ],
+      "category": "Social Media",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/chatterapi",
+      "rawUrl": "https://godofskills.com/r/skills/chatterapi.md"
     },
     {
       "slug": "ai-dslr-photography",
