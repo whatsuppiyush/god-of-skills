@@ -99,9 +99,6 @@ A launch moment, brand-awareness push, or a period (like Black Friday) where eve
 - The microsite wins because it's unburdened by nav, conversion widgets, and brand baggage, a single clear interaction.
 - Purpose-driven campaigns work precisely because they zag while competitors all zig on price.
 
-## → Skill conversion note
-Lower skill value (a campaign-ideation prompt); could become a "campaign concept generator" that proposes an interactive microsite hook or a purpose-driven anti-sale angle for a brand and moment.
-
 ### Earn press with "performance PR" and journalist relationships, put ad spend behind mentions, and befriend reporters instead of cold-pitching
 
 ## The strategy
@@ -118,9 +115,6 @@ Launching, seeking tier-1 press, or trying to lower CAC by borrowing publication
 ## Notes / caveats / examples
 - Hint Water: after a Hustle article, CPC fell ~$5 → <10¢ and CAC dropped $80 → $25, because they put paid spend behind the earned mention.
 - The relationship play is a long game: being a reliable, fast source gets you into stories cold pitches never would.
-
-## → Skill conversion note
-Lower skill value (a PR-process guide); could become a "performance PR planner" that builds an editor target list, drafts a relationship-first outreach message, and plans paid amplification of earned mentions.
 
 ### Pick your first-users GTM play off two axes, purchase intent × market conditions, from 12 named plays on a flowchart
 
@@ -139,9 +133,6 @@ Getting a new product's first users; choosing a go-to-market motion for a launch
 ## Notes / caveats / examples
 - This is the launch-stage complement to the strategy-fundamentals channel-selection card: that one picks durable channels, this one picks the first-users motion.
 - "Overservice one customer" and "forum fishing" are the underrated manual plays most launches skip.
-
-## → Skill conversion note
-Strong skill candidate: a "GTM play picker" that takes purchase intent + market conditions and recommends 2-3 of the 12 named plays with a concrete first action for each.
 
 ### Sell a limited launch with a Google Doc + Stripe link + live-updated seat counts to manufacture real scarcity and FOMO
 
@@ -162,9 +153,6 @@ Selling a cohort program, limited service, workshop, or capped product, especial
 - One capped Cyber Monday drop sold out 30 seats in one hour with this exact setup; showing "90 viewers vs 30 spots" drove the FOMO.
 - The unpolished format is a feature, it signals authenticity and urgency over a slick funnel.
 
-## → Skill conversion note
-Lower skill value (a lightweight launch mechanic); could become a template that generates the Google Doc offer copy + a scarcity-counter structure for a capped launch.
-
 ### Product Hunt launch, pre-launch timeline, timing, and assets
 
 ## The strategy
@@ -184,9 +172,6 @@ Launching a product with at least a 400-person audience to activate.
 - Bonus: top 5 products get featured in the next day's PH digest email.
 - Maker comment: introduce yourself/team + problem; break into Problem (why) / Solution (how) / Monetization; humble and helpful comments attract more comments; consider a PH-specific landing page offer using ?ref=producthunt.
 
-## → Skill conversion note
-A "PH launch planner" skill: generate a dated 4-week countdown checklist, email-batch schedule, asset spec sheet, and maker-comment draft.
-
 ### Product Hunt ranking mechanics, hunter strategy, and communities
 
 ## The strategy
@@ -199,9 +184,6 @@ PH ranks on quality-weighted vote velocity, not raw upvote count. Upvotes from e
 
 ## Notes / caveats / examples
 - Because velocity + account quality matter more than volume, buying/spamming upvotes backfires.
-
-## → Skill conversion note
-A "PH ranking optimizer" skill: given launch assets and audience, output a hunter recommendation, a community-warm-up plan, and vote-velocity guidance that avoids demotion triggers.
 
 ### Name for the keyword people will actually search, and bid on that remembered term behind every offline/brand ad, or you'll send traffic to a rival
 
@@ -220,9 +202,6 @@ Naming a product, or running non-immediate-action media (billboards, radio, podc
 ## Notes / caveats / examples
 - Qualified's "Piper" billboard sent traffic to rival AiSDR because people recalled the category term "AI SDR," not the brand mascot.
 - A NYC restaurant capturing "Thai Food Near Me" is the same idea at local scale, own the term people actually type.
-
-## → Skill conversion note
-Lower skill value (a naming/bidding heuristic); could become a checklist that tests a product name against the category term people will search and generates the defensive branded/keyword ad plan for offline campaigns.
 
 ---
 

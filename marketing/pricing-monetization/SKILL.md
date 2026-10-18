@@ -163,9 +163,6 @@ A SaaS or subscription product with a broad feature set where some capabilities 
 - Rule-of-40% add-ons drove +12-22% revenue and +18-54% LTV in Profitwell's data.
 - Keep add-ons visible in the base tier's description; the goal is monetizing high-value minority use, not gating core value.
 
-## → Skill conversion note
-Strong skill candidate: an "add-on opportunity finder" that takes a feature-usage table, flags every feature under the 40% threshold as an add-on candidate, and models the ARPU lift of an à-la-carte bundle.
-
 ### AG1's premium-pricing playbook, justify a high price with replacement positioning, a category rebrand, and scaled social proof
 
 ## The strategy
@@ -187,9 +184,6 @@ Positioning a premium-priced product in a category where cheaper alternatives ex
 - The mechanism is reframing the comparison and category so the premium price is judged against a bundle of alternatives, not the cheapest single competitor, pairs with the pricing-anchoring card.
 - Works best when you can credibly signal quality and accumulate large-volume social proof.
 
-## → Skill conversion note
-Moderate skill value (a positioning template, not a calculator); could become a "premium positioning worksheet" that walks a product through the 7 levers and drafts replacement-positioning + category-rebrand copy.
-
 ### Price and display annual plans off real retention, and open the gap with an "anchor shock" so the annual monthly-equivalent is ~1/3 of the standalone monthly price
 
 ## The strategy
@@ -209,9 +203,6 @@ Subscription products (SaaS, memberships, consumer apps) with meaningful monthly
 - Vail's aggressive annual-pass framing shifted annual adoption from 35% → 75%; a modeled cohort showed +61% cumulative revenue by year 2.
 - Retention-based annual pricing lifted LTV at Codecademy.
 - Guardrail: don't anchor-shock low-retention or luxury products, deep annual discounts train the wrong customers and crush margin where retention won't recover it.
-
-## → Skill conversion note
-Strong skill candidate: an "annual plan pricing calculator" that takes monthly price + average retention (or a competitor's monthly/annual pair) and outputs a retention-based annual price, an anchor-shock price, the implied break-even in uses, and pricing-page display copy.
 
 ### Engineer discounts and promos for virality and margin, big + specific + scarce + visibly popular, and only discount the segments that actually need a nudge
 
@@ -233,9 +224,6 @@ Running a sale, launch promo, seasonal campaign, or setting a standing discount 
 - Unpredictable, segment-targeted discounting protects margin vs. training your whole base to wait for sales.
 - Pairs with the mystery-box-offers card (scarcity + variants) and pricing-display-psychology (Rule of 100, "free" framing).
 
-## → Skill conversion note
-Strong skill candidate: a "promo mechanics generator" that outputs a specific scarcity cap, an unrounded countdown, a Rule-of-100 discount format, and a segment-targeting rule for a given product and margin.
-
 ### Shorten free trials to 7 days for urgency, or run a "reverse trial" that starts users on premium then downgrades to free
 
 ## The strategy
@@ -253,9 +241,6 @@ Subscription products deciding trial length or freemium-to-paid conversion struc
 ## Notes / caveats / examples
 - Ariyh study: 7-day trials beat 14- and 30-day trials on subscriptions, retention, and revenue.
 - Reverse trials lift freemium conversion 10-40% (Elena Verna).
-
-## → Skill conversion note
-Moderate skill candidate: a "trial model chooser" that recommends 7-day vs reverse-trial based on freemium fallback strength, plus an onboarding checklist to hit aha inside the window.
 
 ### Sell the hard-to-fulfill, high-touch version first, engineer the offer with Hormozi's Value Equation and ride the Sales-to-Fulfillment Continuum
 
@@ -276,9 +261,6 @@ Early-stage or services-adjacent products deciding whether to launch self-serve/
 - FirmPilot's done-for-you law-firm AI made ~10x more revenue per customer than a self-serve version; the company moved self-serve → managed service and grew revenue per customer 10x.
 - The insight flips the usual "start cheap and self-serve" instinct: manual, high-touch fulfillment is a feature for selling, not a bug, early on.
 
-## → Skill conversion note
-Strong skill candidate: an "offer builder" that scores a draft offer on the four Value Equation inputs, suggests guarantees/risk-reversal to lift likelihood and DFY elements to cut effort/time, and recommends a DFY-first vs self-serve-first launch order.
-
 ### Add mystery and variants to an offer to multiply order value and sell out fast
 
 ## The strategy
@@ -298,9 +280,6 @@ Ecommerce, merch, creator drops, or paid programs with a passionate fanbase and 
 - Beyoncé Renaissance: $40 mystery boxes with 4 unknown T-shirt pose variants → superfans bought all 4 ($160 vs the $18 album), ~9x order value, sold out in <2 days.
 - A paid cohort program sold 50+ seats in under an hour using a mystery early-bird bonus, the same mechanic applied to a service.
 
-## → Skill conversion note
-Lower skill value (a promotional format); could become a "mystery drop planner" that structures variants, supply caps, and pricing so the complete-the-set price clears a target AOV.
-
 ### Shift willingness-to-pay with price-relativity levers, reframe the comparison set, add a decoy tier, frame the cost of NOT buying, and anchor high
 
 ## The strategy
@@ -319,9 +298,6 @@ Any pricing page, sales page, or offer where buyers lack an obvious reference pr
 ## Notes / caveats / examples
 - The three core price-relativity levers: comparison-set reframe, decoy pricing, cost-of-not-using-it framing, plus anchor-high ordering and unit-anchor repackaging.
 - Pairs with the pricing-display-psychology card (font/color/charm tactics) and the annual-plan card (anchor-shock).
-
-## → Skill conversion note
-Good skill candidate: a "pricing anchor auditor" that takes a product + price and suggests a higher comparison category, a decoy tier, a cost-of-inaction frame, and an option ordering.
 
 ### Stack pricing-display psychographics, small price font, big social-proof numbers, charm vs round endings, red for sale, and "free" over "% off
 
@@ -346,9 +322,6 @@ Finalizing the visual design of a pricing page, product page, or checkout. These
 - Use as a checklist during pricing-page design review; A/B test the highest-leverage ones (price font size, charm vs round, "free" framing) rather than shipping all at once.
 - Distinct from pricing-anchoring (comparison/decoy strategy) and discount-promo-mechanics (promo structure).
 
-## → Skill conversion note
-Strong skill candidate: a "pricing display linter" that reviews a pricing screenshot/markup and flags violations (currency symbol prominence, mismatched font sizes, wrong ending style for the positioning, Rule-of-100 discount format).
-
 ### Design Good/Better/Best tiers with fence attributes and a benefit-led pricing page that steers buyers to the middle
 
 ## The strategy
@@ -369,9 +342,6 @@ Building or refactoring a SaaS/subscription pricing page with 2-4 tiers.
 - The fence attribute is the mechanism that makes Good/Better/Best hold; without it buyers self-downgrade to the cheapest tier.
 - HBO Max ad-tier fence pushing ~90% to Ad-Free is the canonical example.
 
-## → Skill conversion note
-Strong skill candidate: a "tier designer" that takes a feature list + target ARPU and proposes 3 tiers with a fence attribute per boundary, spacing within the ≤25%/≤50% rules, a target split, and a benefit-led table layout.
-
 ### Add group/family and mid-term subscription plans to acquire, retain, and smooth cash flow
 
 ## The strategy
@@ -388,9 +358,6 @@ Subscription products (consumer apps, boxes, memberships) looking to add plan va
 ## Notes / caveats / examples
 - Mid-term plan examples: CareGuide, FabFitFun.
 - Group plans work because the churn cost is social, not just monetary, a stronger retention lever than a discount alone.
-
-## → Skill conversion note
-Lower skill value (a plan-menu decision aid); could become a short recommender that suggests group and mid-term plan options based on product type and consumption pattern.
 
 ### Add a take-back / buy-back program to raise willingness-to-pay and brand loyalty
 
@@ -409,9 +376,6 @@ Durable physical goods (furniture, apparel, electronics, tools) where resale, re
 ## Notes / caveats / examples
 - Take-back/buy-back lifted willingness-to-pay +39.1% for a pen and +12.2% for an IKEA armchair; 65.3% of shoppers chose the pricier shirt when it came with a take-back program.
 - Brand loyalty rose +13-19%. Real programs: IKEA circular / buy-back, Apple Trade-In.
-
-## → Skill conversion note
-Lower skill value (a program-design prompt); could become a checklist for structuring a credible take-back offer and placing it at the point of sale.
 
 ### Pick a usage-based "value metric" with a 4-step framework, match pricing friction to product friction, and headline the included value
 
@@ -432,9 +396,6 @@ Deciding what to charge per (seat, contact, email, course, GB…) for a new prod
 ## Notes / caveats / examples
 - 45% of SaaS used usage-based pricing by 2021 (up from 27% in 2018). SendGrid charges per email; HubSpot per contact.
 - The friction-match rule is a fast sanity check: if your product is one-click to try, don't gate it behind a sales call.
-
-## → Skill conversion note
-Strong skill candidate: a "value metric finder" that takes a product's JTBD, proposes candidate metrics, scores them on alignment/scalability/clarity, and recommends a pricing-friction model (free/freemium vs premium/high-touch).
 
 ---
 

@@ -178,9 +178,6 @@ Continuously, year-round, once a page has enough traffic to reach significance. 
 - Paid/low-intent traffic shows larger A/B returns than high-intent organic, retry an underperforming variant on paid before dismissing it.
 - Schedule a recurring event (~every 2 months) to brainstorm macro variants so tests never stop.
 
-## → Skill conversion note
-Becomes an "A/B test planner" SKILL.md: takes a page + traffic volume, tells you the minimum detectable lift you can validate at that sample, scores candidate tests on the 4 factors, and outputs a prioritized macro/micro test queue.
-
 ### Write an above-the-fold section that sells in seconds using a value-prop → hook → persona formula
 
 ## The strategy
@@ -202,9 +199,6 @@ Any homepage, product page, or persona landing page. Highest leverage on pages f
 - Design rules: keep plenty of negative space so copy and visuals pop; use 2-4 nav links plus one CTA (fewer links = less analysis paralysis); show the product in action (GIF/demo), blur irrelevant text to keep focus. 3 Leaf Tea shows matcha in aesthetic packaging to trigger unboxing excitement.
 - Don't be avant-garde, the page is a familiar medium for communicating what's unique about the product; save novelty for the product itself.
 - Reported impact of doing this well: 10-30% conversion increase.
-
-## → Skill conversion note
-Becomes a "score & rewrite my above-the-fold" SKILL.md: takes a URL or hero copy, checks value-prop specificity / hook presence / persona fit / subheader length / CTA-narrative continuity, and outputs rewritten header + subheader + CTA variants.
 
 ### Match a purpose-built landing page to each ad campaign (7 types), and test the copy in ads before you build the page
 
@@ -230,9 +224,6 @@ Any paid campaign (Meta, Google, TikTok) currently pointing at the homepage or o
 - 7 types + the "5% to 500%" claim, plus the ad-tested-copy method. Comparison example = Webflow vs Squarespace; quiz example = ThirdLove.
 - Complements (doesn't replace) the landing-page-structure and above-the-fold cards, those govern *how* each page is built; this governs *which* page to build.
 
-## → Skill conversion note
-Skill candidate: "Pick + spec my campaign landing page." Input = campaign audience + intent + traffic temperature. Output = the recommended LP type, a section skeleton for it, and 3 ad-headline variants to CTR-test before building.
-
 ### Cut checkout fields (not steps) to lift completion 5-20%+, field merging, jargon fixes, and goal-gradient progress
 
 ## The strategy
@@ -253,9 +244,6 @@ Any ecommerce or signup checkout with a measurable add-to-cart → purchase drop
 - Benchmark stats: 5-10% completion lift per field removed, 20%+ for three, 30-70% checkout revenue loss, 60-70% of abandonment in the first 15s. Field tactics follow a "processing-fluency" checklist: nav <7 links, 8th-grade reading level, "clarity > cleverness". The goal-gradient progress bar is a separate lever.
 - Principle: reduce *interaction cost*, not visible step count, a one-page checkout crammed with fields can convert worse than a clean multi-step one.
 
-## → Skill conversion note
-Skill candidate: "Audit my checkout for field bloat." Input = current field list + labels. Output = a merge/hide/auto-detect map, a required/optional labeling pass, a jargon rewrite, and a confirmation-page checklist, with the "move account creation to post-purchase" default.
-
 ### Convert with "free" done right, $0 products through full checkout, refundable-deposit tripwires, and proving "it's free" at the button
 
 ## The strategy
@@ -272,9 +260,6 @@ Any funnel with a free tier, lead magnet, freebie, waitlist, or free trial, wher
 ## Notes / caveats / examples
 - $0-product-through-checkout / Sara Renae Clark (issue #104); $50 refundable deposit → 100,000+ signups / Slate (issue #273); Grammarly "it's free" 8x CTA lift (issue #311).
 - Lesson from Grammarly: the biggest lifts often come from resolving one specific objection, not from redesigning everything.
-
-## → Skill conversion note
-Skill candidate: "Engineer my free-offer funnel." Input = the free asset + eventual paid offer. Output = a full-checkout flow for the freebie, a refundable-deposit option where commitment matters, and CTA microcopy that proves "free" at the button.
 
 ### Audit a funnel by belief and energy, not just clicks, Psych Energy, micro-beliefs, Moments of Truth, and the 7-question LP check
 
@@ -295,9 +280,6 @@ Diagnosing a leaky multi-step funnel, planning a full-page or full-journey rewri
 ## Notes / caveats / examples
 - Psych Energy (issue #155, tools: Smart Recognition IDs ~40% of anon traffic); micro-beliefs/Flowline (#301); Filter→Commit→Return (#305); 3 Moments of Truth (#171); 7-question audit (#140); over-complexity checks (#303).
 - These are diagnostic lenses, not layout rules, pair with the landing-page-structure and above-the-fold cards for the build.
-
-## → Skill conversion note
-Strong skill candidate: "Run a funnel-belief audit." Input = the funnel's asset list. Output = a Psych-Energy score per step, the one belief each asset should earn, the Moment-of-Truth it serves, and a prioritized fix list, a genuinely differentiated CRO skill.
 
 ### Write landing-page copy that passes the "do they know what you sell?" litmus test, descriptive headers, not slogans
 
@@ -323,9 +305,6 @@ Writing or rewriting any headline, subheader, feature block, or CTA on a landing
 - Maximize specificity over corporate vagueness at every level of the page.
 - Address objections where they naturally arise in the flow, not all at once in the header.
 - For software feature imagery, avoid abstract art, show the actual product being used.
-
-## → Skill conversion note
-Becomes a "landing-page copy critic" SKILL.md: runs the litmus test on every headline/subhead/feature header, flags slogans and vague verbs, and rewrites them into descriptive, outcome-led copy with CTA-continuity checks.
 
 ### Build a high-converting landing page from a fixed 7-element skeleton and audit it with a 4-step review
 
@@ -357,9 +336,6 @@ Building or rebuilding any landing page. Use the skeleton as a checklist and the
 - Same skeleton reused for homepage (catch-all), persona pages (tailored), and product pages (functionality walkthrough).
 - Client outcomes reported from this process: Snitcher ~4x revenue from paid in 12 months; WorkOS 9x qualified leads from Google; Videogen scaled to $493k/month in 90 days at 8x ad spend; FirmPilot 8x+ ROAS.
 
-## → Skill conversion note
-Becomes a "landing-page skeleton audit" SKILL.md: checks a page for the 7 sections in order, flags missing/misplaced social proof, and runs the 6-question review as generated critique prompts.
-
 ### Pin the two mobile elements that move conversion, a sticky search bar and a sticky Add-to-Cart CTA
 
 ## The strategy
@@ -377,9 +353,6 @@ Any mobile ecommerce homepage (search) or product page (Add-to-Cart). Highest im
 ## Notes / caveats / examples
 - +267% / +19% (Calvin Klein HK, issue #095); +78% Add-to-Cart (Baume & Mercier), $387B US mobile commerce, Sephora vs Missha (issue #121).
 - Caveat: sticky elements eat viewport, test that the pinned bar doesn't hide price or the next section on small screens.
-
-## → Skill conversion note
-Skill candidate: "Mobile conversion quick-wins audit." Input = mobile homepage + PDP screenshots. Output = sticky-search and sticky-ATC recommendations with the <50%-screen guardrail and a persistent-basket check.
 
 ### Publish an "objection smasher" page that names why customers churn or pick rivals, and win trust by being first to say it
 
@@ -400,9 +373,6 @@ B2B SaaS and considered purchases where buyers research alternatives before comm
 - Real examples: Drift's "4 Reasons Customers Quit Drift in 2017" and Monday.com naming Salesforce as a credible alternative.
 - Caveat: only works if the concessions are honest, a fake objection ("our only flaw is we care too much") destroys the trust the tactic is meant to build.
 
-## → Skill conversion note
-Strong skill candidate: "Draft my objection-smasher page." Input = top objections + main rival + honest concessions. Output = a structured page (objection → honest response) plus target comparison keywords, directly reusable alongside God of Skills' competitor/alternatives page tooling.
-
 ### Personalize site, email, and ads to lift conversion with first-party data
 
 ## The strategy
@@ -421,9 +391,6 @@ Once you have profile/behavioral data and a way to act on it (ideally a CDP). Re
 
 ## Notes / caveats / examples
 - Spotify Wrapped (personalization at scale): 3B playlist streams and 1.2M tweets in month one (2019); +21% app downloads in the first week of December (2020).
-
-## → Skill conversion note
-A "personalization playbook builder" skill: given available data fields, output a prioritized list of site/email/ad personalization rules with segment definitions.
 
 ### Time and segment popups so they convert 10% instead of 3%, the 60% rule, audience-based offers, and intent gating
 
@@ -447,9 +414,6 @@ Any site running email-capture or offer popups, especially content pages, ecomme
 - ~3% avg → ~10% timed-and-matched, plus the 92%/75% first-timer stats, come from aggregated popup CRO tests. Exit-intent chatbot example: Tidio (Casimir Rajnerowicz).
 - Guardrail: engagement-gating beats time-gating on content; audience-gating beats one-size offers on commerce.
 
-## → Skill conversion note
-Skill candidate: "Design my popup logic." Input = page types + visitor segments + offer inventory. Output = a trigger table (60%-time / 5min+40%-scroll / exit-intent) mapped to segment-specific offers, ready to paste into an OptinMonster/Klaviyo-style rule set.
-
 ### Kill horizontal tabs and "Shop" dropdowns, make product-page content discoverable instead of compact
 
 ## The strategy
@@ -469,9 +433,6 @@ Any product detail page (PDP) or site nav where key info (specs, sizing, FAQs, c
 ## Notes / caveats / examples
 - Sephora 27% / REI 43% tab-blindness plus the 18-21% missed-search stats come from usability research on hidden PDP content.
 - Principle: every extra click to reach decision-critical content is a place users drop.
-
-## → Skill conversion note
-Skill candidate: "PDP information-architecture audit." Input = current PDP + nav structure. Output = a tabs→stacked-sections rewrite, an auto-expand list, inline-FAQ placement, and a nav keep/move recommendation based on AOV.
 
 ### Engineer your review display, star ordering, comparative wording, incentive rules, and negative reviews you keep on purpose
 
@@ -495,9 +456,6 @@ Any product/PDP, marketplace listing, or SaaS pricing page that shows social pro
 - Science-backed review stats: +84% (5★-first), +26% (comparative), 47% less harmful (comparative negatives), +83.4% / +20.6% (incentives), +12% / +0.12★ (replies), +40-60% (10-day wait).
 - Off-site option: push customers to review on Amazon/Trustpilot and feature that UGC on your site, since external reviews are trusted more.
 
-## → Skill conversion note
-Strong skill candidate: "Audit + rewrite my review section." Inputs = current reviews, average, ordering. Output = a re-ordered display (5★ first), an incentive/ask cadence (10-day trigger, $0.25 or sweepstakes, no positivity asks), and a reply template, with the target-4.3-average guardrail baked in.
-
 ### Always show your product UI, enforce four hierarchy rules, and compete on "design care" now that AI raised the baseline
 
 ## The strategy
@@ -514,9 +472,6 @@ SaaS homepages, product pages, and pricing pages, and any digital-product landin
 ## Notes / caveats / examples
 - Design-care cases: Supermemory got a 40% conversion lift from a Claude-Opus homepage rebuild; TypingMind (Tony Dinh) reached $1M lifetime solo; Arc/The Browser Company's ~$610M Atlassian acquisition with ~50 people; Linear at $100M ARR.
 - Caveat: "design care" ≠ decoration, the distinctive element must not fight the hierarchy or hide the product.
-
-## → Skill conversion note
-Skill candidate: "SaaS page visual audit." Input = current page. Output = a show-the-UI checklist, a per-section hierarchy pass (size/contrast/one-message), a "Try a demo" CTA fix, and one deliberate design-care suggestion.
 
 ### Add the right friction on purpose, good vs bad friction, and why a slower flow can raise conversion and retention
 
@@ -538,9 +493,6 @@ When auditing a signup/paywall/trial flow, or when a "frictionless" one-click fl
 - Headspace added an explanatory page *before* the paywall (raised conversion). Duolingo removed the pre-selected 14-day trial. Peloton swapped a one-click trial for a dense info page + tier choice: friction raised perceived control and commitment.
 - Caveat: friction must *focus*, not frustrate, every added step needs a hypothesis for why it raises commitment or clarity.
 
-## → Skill conversion note
-Skill candidate: "Classify friction in my funnel." Input = the current step list. Output = each step tagged good/bad friction with a keep/remove/add recommendation and a paired A/B test to run.
-
 ### Cheap trust and attention cues that lift conversion, DIY video testimonials, a visible form, and averted-gaze imagery
 
 ## The strategy
@@ -557,9 +509,6 @@ Landing pages, product pages, and lead-gen pages that need more trust or a clear
 ## Notes / caveats / examples
 - Benchmarks: video testimonials drive 25-50% lifts for 89% of enterprises; form-as-cue drove 53.2% more calls; averted-gaze principle credited to Katelyn Bourgoin.
 - Caveat: authenticity beats polish on testimonials, a real customer on a webcam outperforms a slick actor.
-
-## → Skill conversion note
-Skill candidate: "Trust-cue quick wins." Input = current page + customer list. Output = a video-testimonial shortlist + interview script, a form-placement recommendation, and an image-direction note (averted gaze toward the CTA).
 
 ### Raise order value with contextual cross-sells and benefit-stacked checkout upsells that use loss aversion
 
@@ -579,9 +528,6 @@ At the cart/checkout of any ecommerce or digital-product flow, and anywhere you 
 ## Notes / caveats / examples
 - Contextual cross-sell / Second Cup doubling order value; Remote OK checkout upsell stacking: auto-apply + removal friction + social proof + objection pre-empt.
 - Complements the personalization card (reserve heavier upsells for proven high-AOV segments) and the ecommerce bundle/AOV card. Caveat: auto-applied add-ons must be genuinely easy to remove or they read as a dark pattern and drive refunds.
-
-## → Skill conversion note
-Skill candidate: "Design my checkout upsell stack." Input = product + top co-purchased items. Output = one contextual cross-sell line, a benefit-framed auto-applied upsell with a clear remove control, and a matched social-proof + objection line.
 
 ---
 

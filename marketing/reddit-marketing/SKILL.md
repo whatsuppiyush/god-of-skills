@@ -17,8 +17,9 @@ Show up on Reddit the way Reddit rewards: as a real participant, not a drive-by 
 ## How to use it
 
 **Claude Code**
-1. Save the SKILL.md into .claude/skills/reddit-marketing/
-2. Ask: “find subreddits for <product> and plan a post”
+1. Install the full skill, with its data and reference files: npx skills add whatsuppiyush/reddit-marketing-claude-skill
+2. Or clone https://github.com/whatsuppiyush/reddit-marketing-claude-skill into .claude/skills/reddit-marketing/ (the SKILL.md on this page alone is missing those files)
+3. Ask: “find subreddits for <product> and plan a post”
 
 ## SKILL.md
 

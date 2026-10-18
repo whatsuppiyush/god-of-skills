@@ -68,6 +68,32 @@ The same character (reuse the description + reference image), now walking throug
 - **When**: A helper on models that expose a seed; weakest method on its own.
 - **Catch**: A same seed does not guarantee the same face if the prompt changes much. Use with a reference.
 
+### A five-step workflow that works across tools
+
+**The steps**
+- **1. Write the character down**: Write a short fixed description: age, build, face shape, hair, skin tone, the one outfit, and two details that are hard to confuse with anyone else, such as a scar or a distinctive jacket. Keep it under a paragraph and never reword it between prompts.
+- **2. Make one good reference image**: Generate the character alone, front-facing, on a plain background, in even light. Make several and keep the best. This image does most of the work later, so spend your time here.
+- **3. Add a turnaround**: From the reference, ask for the same character from the side and from behind, then a few expressions. Check that the outfit and proportions match before you go further. A mistake is cheap to fix at this stage and expensive later.
+- **4. Reuse the reference for every new scene**: Attach the reference image each time and paste the same character description. Change only the scene, the pose and the camera. Drift starts when you change the character description and the scene together.
+- **5. Review in a row**: Put the images side by side before you use any of them. Drift is hard to see one picture at a time and obvious in a line. Throw out the outliers rather than trying to fix them.
+
+### Why a character changes, and what to do about it
+
+**Common causes**
+- **The prompt got longer**: Every extra scene detail competes with the character description. Keep the character block identical and short, and let the scene be the only part that grows.
+- **The outfit is vague**: A grey hoodie can be a hundred hoodies. Name the colour, the cut and one detail, such as a white drawstring or a chest pocket, so there is less room to invent.
+- **The angle is new**: Models handle a front view best because they have seen more examples of it. When you move to a three-quarter or side view, add the turnaround image as a second reference.
+- **The art style changed underneath**: If one scene says watercolour and the next says photo, the face will change with it. Put the style in the character block and treat it as part of the character.
+- **Too many edits in a row**: Each regeneration or edit pass can nudge the face. Go back to the original reference instead of editing a copy of a copy.
+
+### What each kind of tool is good at
+
+**By kind of tool**
+- **Chat-based image models**: Good for beginners. You can attach a reference image and ask for a change in plain language, and the conversation keeps the context. Consistency is decent for a few images and degrades over long sessions, so when it slips, start a fresh chat with the reference attached.
+- **Image generators with reference flags**: These let you point at a reference image and say how closely to follow it, usually for the face, the whole look or only the style. Useful when you want a dial rather than a yes or no.
+- **Open-source stacks**: The most control and the most setup. Techniques such as training a small adapter on a set of images of your character give the strongest consistency, but you need a handful of good training images and some patience.
+- **Video and animation tools**: Treat a still of your character as the first frame and keep the description identical. Short clips hold a character far better than long ones, so cut a sequence into short shots.
+
 
 ---
 

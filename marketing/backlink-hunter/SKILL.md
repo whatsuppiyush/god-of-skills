@@ -17,9 +17,10 @@ Point it at a domain and it finds the backlink opportunities that matter: the ri
 ## How to use it
 
 **Claude Code**
-1. Save the SKILL.md into .claude/skills/backlink-hunter/
-2. Start Claude Code in your repo
-3. Ask: “find backlink opportunities for <domain>”
+1. Install the full skill, with its data and reference files: npx skills add whatsuppiyush/backlink-claude-skill
+2. Or clone https://github.com/whatsuppiyush/backlink-claude-skill into .claude/skills/backlink-hunter/ (the SKILL.md on this page alone is missing those files)
+3. Start Claude Code in your repo
+4. Ask: “find backlink opportunities for <domain>”
 
 ## SKILL.md
 

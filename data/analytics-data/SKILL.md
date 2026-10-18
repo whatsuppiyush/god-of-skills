@@ -148,9 +148,6 @@ Improving activation/retention; finding your "aha" or magic-number metric; setti
 - The crossed-vs-didn't cohort comparison is the concrete method behind "magic number" activation metrics (e.g. Facebook's 7 friends in 10 days).
 - The weekly ~200-300-user batch is a practical minimum for a read without waiting months.
 
-## → Skill conversion note
-Strong skill candidate: an "activation finder" that structures the crossed-vs-didn't cohort comparison, proposes threshold interventions, and sets up a weekly hypothesis→ship→measure cadence with a user-volume gate.
-
 ### Measure incrementality with holdouts (not platform ROAS), extend attribution windows to 7-14 days, and use surveys to catch discovery that links miss
 
 ## The strategy
@@ -169,9 +166,6 @@ Evaluating paid channel performance, deciding budget allocation, or reconciling 
 - The 19x → 5.7x collapse on Google brand search is the headline case for why holdouts beat platform ROAS.
 - Surveys and widened windows together recover the "dark" conversions that link-based attribution structurally undercounts.
 
-## → Skill conversion note
-Strong skill candidate: an "incrementality auditor" that flags channels being judged on platform ROAS, recommends a holdout test design, sets attribution windows by channel, and adds a survey-based attribution question.
-
 ### Stand up a CDP and first-party data strategy before personalizing
 
 ## The strategy
@@ -188,9 +182,6 @@ Before scaling personalization tactics, and matched to your data maturity stage 
 
 ## Notes / caveats / examples
 - Governance principles: collect responsibly with transparency; adopt a customer-centric mindset beyond compliance; respect privacy boundaries to earn trust.
-
-## → Skill conversion note
-Reference/checklist rather than a generative skill: informs a "data-readiness assessment" that classifies a company's stage and recommends the next infra step.
 
 ### Run disciplined A/B experiments, redefine success as learnings, score with a 7-point checklist, prioritize bottom-of-funnel, and know when to break the rules
 
@@ -213,9 +204,6 @@ Building or auditing an experimentation program; deciding what to test next and 
 - Segment flat results by source/cohort/device before declaring "no effect", a flat aggregate can hide organic +20% / social −10%.
 - The point of the checklist is that a test only counts if a decision was pre-committed to its outcome.
 
-## → Skill conversion note
-Strong skill candidate: an "experiment reviewer" that runs a proposed test through the 7-question checklist, assigns a modified-RICE score, flags top-funnel vanity tests, and enforces confidence thresholds by company stage.
-
 ### Diagnose before you prescribe, build a growth model, run sensitivity analysis to pick the lever, and map symptoms to the three predictable break points
 
 ## The strategy
@@ -236,9 +224,6 @@ When growth is stalling and the team is debating tactics; before committing budg
 - The growth model turns "growth is slow" into a specific equation where you can see which variable moves the outcome most.
 - The three break points are the operational, symptom-first version of the strategy-fundamentals Five Fits, pair them.
 
-## → Skill conversion note
-Strong skill candidate: a "growth diagnostician" that builds a growth model from stated goals/constraints, runs sensitivity analysis to rank levers, and maps observed symptoms to the three break points before suggesting tactics.
-
 ### Track the metrics that reflect real health, SaaS Quick Ratio, five brand-performance metrics, and drop inflated vanity metrics like SMS/email open rate
 
 ## The strategy
@@ -255,9 +240,6 @@ Setting up a growth dashboard, choosing KPIs, or auditing whether current metric
 ## Notes / caveats / examples
 - The Quick Ratio is one number that tells you if you're building or leaking, expansion and new revenue vs churn and contraction.
 - Brand metrics are lagging and easy to ignore; a monthly baseline makes brand investment measurable.
-
-## → Skill conversion note
-Strong skill candidate: a "KPI auditor" that computes the SaaS Quick Ratio from MRR inputs, benchmarks it, checks a dashboard for vanity metrics (open rates), and recommends the brand-performance set.
 
 ### Score and rank growth initiatives with RICE, and level up to DRICE (add a written hypothesis, financial model, and task-level cost) for advanced teams
 
@@ -277,9 +259,6 @@ Prioritizing a backlog of growth experiments, features, or campaigns when the te
 - RICE's value is objectivity; DRICE adds financial rigor and a paper trail of the reasoning, which also de-risks bold ideas.
 - Pairs with the experiment-discipline card (modified RICE using Evidence) and growth-model-diagnosis (picking the lever before scoring tactics).
 
-## → Skill conversion note
-Strong skill candidate: a "RICE/DRICE scorer" that takes a list of initiatives, prompts for each factor with the concrete scales, computes and ranks scores, and optionally attaches the DRICE hypothesis + financial model fields.
-
 ### Run growth surveys that actually inform decisions, Sean Ellis 40% PMF test, segmented churn surveys, post-purchase zero-party surveys, and a math-gate for quality
 
 ## The strategy
@@ -298,9 +277,6 @@ Measuring product-market fit, diagnosing why users churn, learning attribution/d
 - 40% "very disappointed" is the canonical PMF threshold; segmenting by user type turns a single score into an activation/retention diagnosis.
 - The math-gate is a cheap quality filter for any incentivized survey.
 
-## → Skill conversion note
-Strong skill candidate: a "growth survey builder" that generates a Sean-Ellis PMF survey, a segmented churn survey, and a post-purchase zero-party survey with a math-gate and an incentive/voucher structure.
-
 ### Never scale a "learning" until you know WHY it won, pair quantitative tests (what) with qualitative research (why) or a wrong learning will cost you
 
 ## The strategy
@@ -318,9 +294,6 @@ After any winning test or observed metric shift, before pouring budget into "wha
 ## Notes / caveats / examples
 - The rule: "a wrong learning is worse than no learning." Correlational wins scaled as causal truths are how teams pour budget into the wrong lever.
 - This is the qualitative bookend to the experiment-discipline card's quantitative rigor.
-
-## → Skill conversion note
-Strong skill candidate: a "learning validator" that, given a test result a team wants to scale, forces a why-hypothesis, checks whether qualitative evidence supports it, and flags unvalidated correlations before scale-up.
 
 ---
 

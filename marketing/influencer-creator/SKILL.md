@@ -143,9 +143,6 @@ When standing up or scaling an affiliate/partner program and you want proven per
 - The Ahrefs poach is precise: the affiliate URL parameter is a fingerprint, so filtering a competitor's backlinks by it isolates exactly their partner network.
 - The wine-coupon anecdote is the whole thesis, affiliate output is a function of the relationship, and small personal gestures move revenue.
 
-## → Skill conversion note
-Becomes an "affiliate-recruiting" SKILL.md: input a competitor domain, output their affiliate URL parameter, an Ahrefs-derived ranked list of their partners with traffic, contact lookups, and a personalized outreach + nurture cadence.
-
 ### Run a creator-army UGC engine, 30+ micro-creators posting daily on branded accounts, paid per conversion, generating organic-feeling paid creative
 
 ## The strategy
@@ -164,9 +161,6 @@ Products with mass appeal and a repeatable short-video format (especially TikTok
 ## Notes / caveats / examples
 - **Tabs** hit months with $500k in sales via this model, 30+ micro-creators on branded accounts, unique affiliate links, pay-per-conversion.
 - Pay-per-conversion aligns incentives perfectly: creators experiment on your behalf and you fund only what works, so the model scales without ballooning fixed cost.
-
-## → Skill conversion note
-Becomes a "creator-army" SKILL.md: input a product + budget, output a recruiting brief, per-creator posting spec (daily volume, format), a pay-per-conversion structure with unique-link setup, and a winners-to-paid promotion loop.
 
 ### Brief creators with the OMVP framework and lock four agreement protections, treat creators as contractors producing licensed, distribution-ready assets
 
@@ -189,9 +183,6 @@ Any paid creator deal, set the brief and the agreement before production, not af
 - The over-constraining trap: dictating exact wording/visuals kills the authenticity that makes creator content work, OMVP directs the *outcome* and lets the creator own the craft.
 - Usage rights are the most-missed clause, negotiate whitelist/cross-platform reuse upfront or you'll pay again later (this is what enables the amplification play).
 
-## → Skill conversion note
-Becomes a "creator-brief" SKILL.md: input a campaign goal + product, output a filled OMVP brief, a recommended creative structure (persona video or viral-recreation), and the four contract-protection clauses with concrete deliverable specs.
-
 ### Find and vet TikTok influencers using the app as a search engine
 
 ## The strategy
@@ -207,9 +198,6 @@ The cheapest, most reliable way to find TikTok creators is to use TikTok itself 
 ## Notes / caveats / examples
 - Tool options: TikTok Creator Marketplace (free signup, 50k+ creators, 100k+ follower focus), Upfluence (paid, cross-platform + demographics filtering), Billo ($59/video min, uneven quality), Beeroll ($149/video or $99 bundled, higher quality with screening), Swipehouse (filter creators + inbound requests).
 
-## → Skill conversion note
-A "TikTok creator finder" skill: given a niche, output hashtag search queries, an engagement-vetting rubric (comments/shares over 20-30 videos), and a personalized outreach script.
-
 ### Track influencer performance with codes, links, and post-purchase surveys
 
 ## The strategy
@@ -224,9 +212,6 @@ Link/code tracking undercounts influencer impact; layering a post-purchase surve
 ## Notes / caveats / examples
 - Whitelisting/scale tools mentioned: Lumanu (whitelisting campaigns), EAG (gifting at scale), Enquire (surveys).
 - Best-fit products: broadly appealing physical DTC goods that show well on camera and premium enough that creators would buy them; poor fit: hard-to-show software, low-quality dropship, niche B2B.
-
-## → Skill conversion note
-A "creator attribution setup" skill: generate a per-creator code/link scheme plus a post-purchase survey config and an add/drop scoring rule.
 
 ### Allocate influencer budget with an 80/20 tier split by objective, tap ≥2 of the three motivation types, and pay more the less relevant your product is
 
@@ -245,9 +230,6 @@ When planning an influencer budget across multiple creators/tiers, or setting th
 ## Notes / caveats / examples
 - The three motivations reframe negotiation: money (financial) is only one lever, exposure/status (social) and skill-building/mission alignment (personal capital) can close deals cheaper.
 - "Pay more for less relevance" is the pricing intuition most brands miss, a great fit should cost *less* because the creator's audience already wants it.
-
-## → Skill conversion note
-Becomes an "influencer-budget-allocator" SKILL.md: input total budget + objective + product-audience fit, output a tier split (nano/macro/seeding), per-deal comp structures mapped to the three motivations, and a relevance-adjusted price range.
 
 ### Run an influencer campaign by filtering for niche relevance and engagement quality over raw follower count
 
@@ -275,9 +257,6 @@ When you have a product with a clear niche audience and want authentic third-par
 - Repurpose the resulting testimonials as paid ads afterward for ongoing social proof.
 - Fake-account detection tip (community member Nick Selman): investigate the profiles of commenters, looking for patterns of mutual engagement between influencer groups.
 
-## → Skill conversion note
-Becomes a `vet-and-select-influencers` SKILL.md: input a product + niche, output a scored shortlist with tier recommendation, format fit, fake-engagement red flags, and a discount-code tracking plan.
-
 ### Multiply influencer ROI by whitelisting their accounts, repurposing their content across your channels, and retargeting their audience
 
 ## The strategy
@@ -295,9 +274,6 @@ Any influencer or UGC deal where you've secured usage rights, especially perform
 ## Notes / caveats / examples
 - Whitelisting is often free upside: the creator gets follower growth from your ad spend and makes better content because it's on their own profile.
 - The repurposing math is the quiet win, you're replacing a photoshoot budget with content you've already licensed.
-
-## → Skill conversion note
-Becomes an "influencer-amplification" SKILL.md: input a creator deal + assets, output a whitelisting ad plan, a repurposing map (which asset → which channel), and a retargeting audience spec, plus the usage-rights clauses needed to enable all three.
 
 ### De-risk influencer deals with performance pay, referral chains, and geo-clustered rollouts
 
@@ -317,9 +293,6 @@ Early-stage or budget-constrained brands that can't afford flat macro fees, and 
 - Micro-influencer flat fees are typically under $500/post vs. $50,000+ for macro, another reason performance deals win at small scale.
 - After the campaign, ask permission to reuse creator posts as email testimonials and website social proof.
 
-## → Skill conversion note
-Becomes a `structure-influencer-deal` prompt: input budget + goal, output a recommended comp structure (flat vs. commission vs. referral), a geo-cluster posting calendar, and contract clauses (post longevity, discount code, referral %).
-
 ### Influencer incentive structures and long-term deal progression
 
 ## The strategy
@@ -338,9 +311,6 @@ Start performance-based (affiliate) to find economics, then graduate winners int
 - Daniel Wellington sent watches to audience-matched creators, each with a unique 10-20% code to track and add/drop performers.
 - Reality check: YouTube ROI is volatile (one video $15k, next $1k) and 30-60% of a creator's revenue is long-tail from evergreen videos.
 
-## → Skill conversion note
-A "creator deal-structure recommender" skill: given platform + goal, output an incentive model (affiliate %, quotas, milestone bonuses) and a test-to-contract progression.
-
 ### Multi-channel influencer outreach sequence with a 50% response target
 
 ## The strategy
@@ -355,9 +325,6 @@ Reach creators across channels with casual, non-corporate messaging and measure 
 ## Notes / caveats / examples
 - Recruit the first 20-30 creators manually before automating.
 - Gifting outreach is a viable low-cost alternative for nano/micro creators (product + time only), best used as a secondary strategy after proving the affiliate model.
-
-## → Skill conversion note
-A "creator outreach sequencer" skill: generate personalized DM/email/comment copy per creator and a follow-up cadence, tracking response-rate fit.
 
 ### Vet influencers for real audience and engagement before paying
 
@@ -376,9 +343,6 @@ Any paid or gifted creator partnership, before contracts. Recruit and vet your f
 ## Notes / caveats / examples
 - Common tiers: nano-influencers <10k followers, micro-influencers <50k followers.
 - Tools: Modash, CreatorIQ, Dovetale, Influent.
-
-## → Skill conversion note
-A "creator vetting checklist" skill: given a creator's analytics + comment sample, score audience fit and flag fake-engagement signals with a go/no-go.
 
 ### Use micro-influencers (1k, tens of thousands) for 3x engagement and sub-$500 authentic reach
 
@@ -400,9 +364,6 @@ When budget is limited or authenticity/conversion matters more than raw reach. I
 - Core benchmark numbers: 1k followers ≈ 3x the engagement of 10k, 100k; flat fees <$500 vs. $50,000+ for macro.
 - Rule: "The higher their number of followers, the lower the engagement rate."
 
-## → Skill conversion note
-Becomes a `find-micro-influencers` prompt that ingests your audience profile and niche, then returns a hashtag/BuzzSumo/Tribe search plan plus a sub-$500 outreach + comp template.
-
 ### Build a podcast-guesting engine, recruit recognizable guests for your own show, run a guesting roadshow, and prep each appearance as a performance
 
 ## The strategy
@@ -421,9 +382,6 @@ When you have (or can start) a show and want to attract audience via guests, or 
 ## Notes / caveats / examples
 - Bonjoro: 200 podcasts over 5 years → $1.08M revenue, the roadshow compounds because repeated exposure builds the frequency illusion ("this brand is everywhere").
 - The top-1%-of-shows concentration means one great guest/show placement can outweigh dozens of small ones, prioritize reach and fit over volume.
-
-## → Skill conversion note
-Becomes a "podcast-engine" SKILL.md: input a niche + goal (host vs guest), output a target guest/show list with overlap rationale, a pitch template (with final-cut offer), and a per-appearance performance cheat sheet.
 
 ### Seed free product to micro-influencers with no obligations, staggered by tier, then repurpose the organic UGC in ads
 
@@ -444,9 +402,6 @@ Physical or sample-able products at the traction stage, when you want a high vol
 - **Taylor Lagace** scaled Animal House Fitness 0 → $1M in 4 months on seeding.
 - **Graza's** tier-staggered seeding hit 7.91% IG conversion and a 24-hour sellout.
 - No-obligation is a feature, not a compromise: unpaid, unscripted posts read as genuine, which is exactly why they convert and why they're safe to run.
-
-## → Skill conversion note
-Becomes a "product-seeding" SKILL.md: input a product + launch date, output a tiered seeding calendar (micro/nano pre-launch, macro at launch), a no-obligation outreach template, a mention-tracking setup, and a UGC-to-ad repurposing checklist.
 
 ---
 

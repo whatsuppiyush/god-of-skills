@@ -17,8 +17,9 @@ Find the right people on X, write them a DM worth replying to, and send it at a 
 ## How to use it
 
 **Claude Code**
-1. Save the SKILL.md into .claude/skills/cold-dm/
-2. Set XAUTODM_API_KEY, then ask: “find X leads for <ICP>”
+1. Install the full skill, with its data and reference files: npx skills add whatsuppiyush/cold-dm-claude-skill
+2. Or clone https://github.com/whatsuppiyush/cold-dm-claude-skill into .claude/skills/cold-dm/ (the SKILL.md on this page alone is missing those files)
+3. Set XAUTODM_API_KEY, then ask: “find X leads for <ICP>”
 
 ## SKILL.md
 

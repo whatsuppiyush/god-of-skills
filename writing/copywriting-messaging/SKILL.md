@@ -152,9 +152,6 @@ Ad headlines, landing-page headers, subject lines, social hooks, taglines, any t
 - Core principle across all of it: "get lots of ideas, throw the bad ones away." Volume before refinement, don't polish your first draft.
 - AI struggles with novelty, so use ChatGPT to *generate quantity and cull clichés*, not to pick the winner.
 
-## → Skill conversion note
-Strong skill: input product + 3 value props, run the 7-prompt sequence and 6-technique drill to output 30-50 candidate headlines, then auto-score each against the 10 emotional hooks and return a ranked shortlist.
-
 ### Ladder features past the obvious benefit, the "benefit of the benefit" and "so what?" to a Maslow need
 
 ## The strategy
@@ -172,9 +169,6 @@ When your benefits sound generic ("saves time," "easy to use"), when you're sell
 ## Notes / caveats / examples
 - Complements the existing `features-to-benefits` card, that one gets you to the first benefit; this one gets you to the one that actually converts.
 - The trick with "so what?" is to stop at the emotionally resonant rung, not to over-abstract into vagueness.
-
-## → Skill conversion note
-Skill: input a feature and the buyer/decision-maker, then auto-run the "so what?" ladder and "benefit of the benefit" prompt to output 3-5 second-order benefit angles mapped to the payoff that person cares about.
 
 ### Win by contrast, weak-alternative comparisons, indirect persona framing, and challenger-vs-incumbent tactics
 
@@ -195,9 +189,6 @@ Ads and landing pages where the buyer doesn't yet feel your product's advantage;
 - Indirect persona comparison sidesteps direct-attack legal risk while still forcing a choice.
 - Pair with the `flaw-reframing` card (admit a trade-off) to keep comparison copy credible rather than boastful.
 
-## → Skill conversion note
-Skill: input your product + its real alternatives, then output comparison-copy options across the four templates (product-vs-nothing / before-after / want-vs-reality / A-vs-B), with a warning flag if the chosen rival is a stronger-selling incumbent.
-
 ### Pre-publish copy gates, the 3-question test (visualize / falsify / nobody-else) and 8 AI "tells" to delete
 
 ## The strategy
@@ -216,11 +207,7 @@ Final pass on any headline, tagline, or key line of copy; reviewing AI-generated
 
 ## Notes / caveats / examples
 - The three-question test is Harry Dry's (Marketing Examples). A classic Rolls-Royce ad that passed it lifted sales 50-100% on a $50k budget, about 2% of Cadillac's spend.
-- The AI-tells list doubles as a house-style banned-words list, useful for godofskills' own copy, where em-dashes and "unlock/leverage/transform" are already banned.
 - Falsifiability is the sleeper: specific, provable claims outperform superlatives precisely because they invite scrutiny.
-
-## → Skill conversion note
-Strong skill: paste a line of copy and get a pass/fail on each of the three questions plus a highlighted list of any AI tells present, with concrete rewrite suggestions.
 
 ### Structure persuasive copy with BAB, PAS, or AIDA
 
@@ -254,9 +241,6 @@ Landing pages, ads, email, and any copy that needs to move a reader from awarene
 - These aren't mutually exclusive, a page can nest a PAS hook inside an AIDA arc.
 - Choose PAS only when the pain is real enough to agitate without feeling manipulative.
 
-## → Skill conversion note
-Becomes a `copy-framework-fill` prompt: input product + audience pain, output drafts in all three frameworks so the user can pick the strongest fit.
-
 ### Translate every feature into a benefit and an emotional real-life value
 
 ## The strategy
@@ -283,9 +267,6 @@ Product descriptions, landing-page feature sections, ad body copy, sales pages.
 - Lush product page = vivid sensory copy + benefit focus + tabbed FAQs + bulleted list, all in one.
 - Interactivity increases engagement and dwell time on the page.
 
-## → Skill conversion note
-Becomes a `feature-to-benefit` prompt: paste a feature list, get back a benefit + emotional-value line for each, plus a scannable bulleted product description.
-
 ### Confess a weakness to sell a strength, admit trade-offs and invert a constraint into a positioning asset
 
 ## The strategy
@@ -304,9 +285,6 @@ High-skepticism categories, premium products fighting "too good to be true," com
 - Works because it violates the expectation that ads only flatter, the honesty itself is the pattern interrupt.
 - Pairs with the `comparison-copy` card: an admitted trade-off keeps contrast copy from tipping into unbelievable bragging.
 
-## → Skill conversion note
-Skill: input a product's honest weaknesses, then output "confession" copy lines (VW/SAAB style) and constraint-inversion angles (name-what-you're-not → downside → flipped benefit) for the buyer to pick from.
-
 ### Make ads unignorable, fourth-wall breaks, juxtaposition (absurd + plain), and rhyme
 
 ## The strategy
@@ -324,9 +302,6 @@ Paid social and video ads where the first 2 seconds decide everything; brand cam
 - Juxtaposition's power is *restraint*: two absurd elements cancel out into noise; one absurd + one plain creates the payoff sequence.
 - Fourth-wall/ad-acknowledgment works best for brands with permission to be playful, it can undercut a premium/serious positioning.
 - These are attention devices; pair them with a real value prop or you win the scroll and lose the sale.
-
-## → Skill conversion note
-Skill: given an ad concept, generate a fourth-wall "co-conspirator" script variant, a juxtaposition (absurd-visual + plain-line) variant, and 3 rhyming headline options to A/B test.
 
 ### Write headlines that are Unique, Urgent, Ultra-specific, and Useful, then sharpen with rhyme, power words, and specificity
 
@@ -353,9 +328,6 @@ Any headline, subject line, hero H1, or ad hook.
 - Specificity is the highest-leverage edit: swap every vague superlative for a real number.
 - Orwell's warning applies: "The great enemy of clear language is insincerity", clarity and honesty are inseparable, don't manufacture urgency you can't back up.
 
-## → Skill conversion note
-Becomes a `headline-generator` prompt that outputs 10 variants scored against the Four U's, flags vague words to replace with numbers, and suggests a rhyme option.
-
 ### Match your message to the market's sophistication, Schwartz's 5 stages and functional-first for new categories
 
 ## The strategy
@@ -379,9 +351,6 @@ Deciding the *angle* for a category, not just the words; entering a crowded mark
 - Stage 5 is where brand and identity work (see the `brand` cards) does the heavy lifting; stages 1-2 are pure clarity.
 - Pair with the `reframe-and-salience` card: reframing can effectively reset a saturated Stage-4 market to a fresh Stage-1 problem you own.
 
-## → Skill conversion note
-Skill: given a category and 3-5 competitor headlines, classify the market's sophistication stage and output a stage-appropriate messaging angle (plus a warning if current copy is written for the wrong stage).
-
 ### High-lift micro-copy tweaks, "because" reasons, oddly-specific numbers, present tense, concrete words, conditional claims
 
 ## The strategy
@@ -402,9 +371,6 @@ Polishing CTAs, prices, reviews, offers, and headlines; a final editing pass bef
 - These are independent levers, test them one at a time so you can attribute the lift.
 - "Because" works even with a weak reason, but a *real* reason compounds the effect; don't fake it.
 - Conditional-claim softening (#066) also lowers legal/overpromise risk, a rare win-win.
-
-## → Skill conversion note
-Skill: paste any copy and auto-suggest micro-edits, insert "because" reasons, replace round numbers with oddly-specific ones, flip past→present tense, swap absolutes for conditionals, and highlight vague words with concrete alternatives.
 
 ### Structure copy around tension, not chronology, open with conflict, minimum viable backstory, and open loops
 
@@ -427,9 +393,6 @@ Video and narrative ads, founder/origin stories, long-form copy, webinar and ema
 - The recurring principle: withhold information to create an open loop; the reader stays to close it.
 - Cutting backstory feels risky but almost always improves pull, most drafts front-load too much setup.
 - Complements `story-driven-copy` (arc + sensory + real-people voice) with sequencing and tension mechanics.
-
-## → Skill conversion note
-Skill: paste a raw story/testimonial, then output a reordered version that opens on the conflict, trims to minimum viable backstory, inserts bucket-brigade transitions, and marks where to withhold the "why."
 
 ### Preempt objections in the copy and back claims with mined social proof
 
@@ -455,9 +418,6 @@ Landing pages, checkout/cart copy, pricing pages, sales emails, anywhere a prosp
 - Specificity is the throughline: named people, exact review counts, and verbatim customer phrases outperform generic claims.
 - Reverse testimonials work because they voice the reader's own doubt first, building trust before the resolution lands.
 
-## → Skill conversion note
-Becomes an `objection-map` prompt: input a product + review dump, output the top objections, a preempt line for each, and a mined-phrase social-proof block.
-
 ### Make your value prop unstealable, the Swap Test, one defensible claim, and Dunford's positioning process
 
 ## The strategy
@@ -479,9 +439,6 @@ Homepage rewrites, positioning resets, "our messaging isn't landing," pitch deck
 - Seedlip repositioned from ~$2 tonic-water pricing to gin-bottle price points purely by changing the reference category (Dunford, #144).
 - Tool to try: Rocksalt, which surfaces real LinkedIn buyer conversations for customer language.
 
-## → Skill conversion note
-Skill: paste a value prop + a competitor name and auto-run the Swap Test + job test, flag every claim that survives with a rival's logo, and output the 3-column differentiation table with a suggested narrative-kernel one-liner.
-
 ### Reframe the category's problem instead of restating it, the Reframe Ladder, Rule of One, and dangling tension
 
 ## The strategy
@@ -499,9 +456,6 @@ Crowded categories where everyone says the same thing; homepages that read like 
 - The Reframe Ladder is a strategic move, not a word tweak, it changes *which problem you sell against*, upstream of any headline.
 - Pair with the Swap Test card: reframing gives you a problem only you own; the Swap Test keeps your value-prop claims defensible.
 - Tension only works if the withheld payoff is worth the reach, a dangled outcome the reader doesn't want falls flat.
-
-## → Skill conversion note
-Skill: given a category and a product, generate the "category default" narrative, propose 2-3 deeper tensions, and output a reframed one-problem statement plus a Rule-of-One check on the current homepage copy.
 
 ### Sell with story, use the hero's-journey arc, sensory detail, and authentic real-people voice
 
@@ -522,9 +476,6 @@ About pages, founder/origin stories, launch copy, brand campaigns, long-form ema
 ## Notes / caveats / examples
 - Who Gives A Crap origin story: co-founder Simon sat on a toilet for 50 hours in a drafty warehouse ("one cold bottom") to fund the launch, the story helped drive $50k in pre-orders.
 - Orwell's clarity principle underpins all of it: insincerity breeds bloated language; authentic stories stay clear. Summary tag: "Clear eyes, full hearts, can't lose."
-
-## → Skill conversion note
-Becomes a `story-copy` prompt: input founder/product facts, output an origin narrative structured on the hero's-journey arc with a sensory hook and a delayed-payoff opening.
 
 ### Story Systems, a 7-part brand narrative and messaging framework
 
@@ -547,9 +498,6 @@ When messaging is inconsistent across ads/site/email/sales, or a brand needs a s
 - Process = 4 phases over 3 weeks: (1) Find your story (what's true, different, and yours alone); (2) Make it impossible to ignore (hooks); (3) Build emotional resonance (connect value to buyer pain); (4) Deploy across the journey (ads, landing pages, emails, sales, onboarding).
 - Caveat: the public page describes the system's components but does not publish concrete story templates or worked examples, the executable formulas were never published publicly.
 
-## → Skill conversion note
-A "brand narrative builder" skill: interview the user through the 7 components and output a filled Core Story, persona language bank, value props, hook library, and a stage-by-stage journey messaging map.
-
 ### Write copy from mined customer language, S.C.A.R.F. research, a 10-angle messaging matrix, and competitor mining
 
 ## The strategy
@@ -569,9 +517,6 @@ Before any homepage, ad, or email rewrite; onboarding a new product or client; w
 - Frequency of mention (step 2) is the cheapest prioritization signal you have, the market has already voted in the reviews.
 - Feeds the `objection-handling-and-social-proof`, `positioning-swap-test`, and `benefit-of-the-benefit` cards, they all consume mined customer language.
 - Keep quotes close to verbatim; paraphrasing sands off the specificity that makes VoC copy work.
-
-## → Skill conversion note
-Strong skill: point it at a product's review pages + a competitor handle, then auto-run S.C.A.R.F., tally benefit frequency, and output a ranked 10-angle messaging matrix with verbatim customer phrases.
 
 ---
 

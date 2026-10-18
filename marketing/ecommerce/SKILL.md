@@ -136,9 +136,6 @@ Any brand selling on Amazon, before scaling Sponsored Products spend, or when ad
 - Benchmarks: ~10% Amazon conversion for a strong listing, 60-70% organic sales share for top sellers, a 250-char backend search-term field.
 - Sequence matters: listing quality → then PPC → then feed PPC winners back into the listing. Ads amplify a good listing; they can't fix a bad one.
 
-## → Skill conversion note
-Skill candidate: "Optimize my Amazon listing." Input = current title/bullets/images + PPC search-term report. Output = a rewritten title + bullets, a 250-char backend field of non-title terms, and an image/video gap list, ordered performance-first.
-
 ### Raise AOV with tested bundles and stacked promos, and only recommend products people actually buy together
 
 ## The strategy
@@ -155,9 +152,6 @@ DTC/ecommerce stores planning a peak season (Black Friday), building bundle SKUs
 ## Notes / caveats / examples
 - Tactics: test bundles ahead + discount only the winner; stacked promos; the 52%-recommend-irrelevant stat behind Frequently-Bought-Together relevance.
 - Complements the CRO upsell/cross-sell card (which covers checkout upsell *mechanics*); this card covers bundle *construction* and product selection.
-
-## → Skill conversion note
-Skill candidate: "Build a tested bundle." Input = co-purchase data + AOV. Output = 2-3 candidate bundles priced above AOV, a no-discount validation plan on unpaid channels, and a relevance filter for cross-sell recommendations.
 
 ### Cut cart abandonment by removing the top 5 checkout frictions and recovering the rest by email
 
@@ -180,9 +174,6 @@ Any ecommerce/DTC checkout with a visible drop-off between add-to-cart and purch
 - Every extra field or step is measurable interaction cost; defer non-essential asks.
 - Keep recovery emails prompt but not spammy; a direct cart link removes re-navigation friction.
 
-## → Skill conversion note
-Becomes a "checkout friction audit" SKILL.md: scores a checkout against the 5 abandonment reasons, flags forced-account and hidden-shipping traps, and drafts the abandoned-cart recovery email.
-
 ### Sell the same discount better, leak it, wrap it in curiosity, and run it on an obscure holiday you can own
 
 ## The strategy
@@ -199,9 +190,6 @@ Any DTC/ecommerce brand running sales, especially email/SMS-driven promotions or
 ## Notes / caveats / examples
 - Real examples: Brooklinen "leak" sale; Chubbies blur + Poo-Pourri 6-deals-over-12-days; obscure-holiday +25% lift via BarkBox.
 - Caveat: curiosity/leak framing works because it's rare, overusing it collapses it back into ordinary promo noise.
-
-## → Skill conversion note
-Skill candidate: "Reframe my promo." Input = the offer + calendar. Output = a leak/curiosity angle, a pre-window daily-deal drip schedule, and a shortlist of ownable obscure holidays matched to the brand.
 
 ### Print QR reorder codes on consumable packaging to capture repurchase at the moment the product runs out
 
@@ -221,9 +209,6 @@ Any consumable/replenishable DTC product: food and beverage, personal care, hous
 - Graza olive oil captures repurchase intent at the restock moment via an on-bottle QR code.
 - Why it works: it collapses the reorder funnel to a single scan at peak intent, instead of hoping the customer remembers your URL later.
 
-## → Skill conversion note
-Skill candidate: "Design a packaging reorder loop." Input = product + packaging surfaces. Output = QR placement recommendation, the pre-filled reorder/subscribe destination, and a subscribe-and-save hook to attach.
-
 ### Win the shipping objection, show delivery dates on the PDP and use a Prime-style free-shipping subscription
 
 ## The strategy
@@ -240,9 +225,6 @@ Any Shopify/DTC store where shipping cost or unclear delivery timing is driving 
 ## Notes / caveats / examples
 - Benchmarks: free-shipping subscription +34% revenue/customer, 48% shipping-cost abandonment; delivery-date-on-PDP implemented via Shopify Liquid.
 - Complements the cart-abandonment card (which ranks shipping cost as the #1 checkout friction), this card adds the *pre-cart* delivery-date fix and the *membership* monetization angle.
-
-## → Skill conversion note
-Skill candidate: "Fix my shipping conversion." Input = current shipping model + delivery times + repeat-purchase rate. Output = a PDP delivery-date implementation note, a free-shipping-threshold recommendation, and a go/no-go on a membership based on purchase frequency.
 
 ### Launch a Shopify store that converts, homepage, product pages, checkout, CRO tools, and site speed
 
@@ -267,9 +249,6 @@ Launching or auditing a Shopify/DTC store's homepage, product pages, and checkou
 - 93% of shoppers say visuals are key to purchasing; ~75% of ecommerce sales are mobile; 88% trust online reviews as much as personal recommendations.
 - Examples: Brooklinen ($50k Kickstarter → ~$100M revenue; Yotpo + Klaviyo), Mosaic Foods (multi-section homepage), Kirrin Finch (slider ATF with people), Pure Cycles (minimal ATF copy), Outlier (unique layout), Harper Wilde (promo carousel).
 
-## → Skill conversion note
-Becomes a "Shopify store CRO audit" SKILL.md: walks homepage → PDP → checkout, scores each against the Desire−Labor−Confusion formula and the conversion benchmarks, and outputs a prioritized fix list with the matching Shopify apps.
-
 ### Keep 10-30% of your catalog visibly "sold out", scarcity that signals desirability without threatening choice
 
 ## The strategy
@@ -286,9 +265,6 @@ DTC/ecommerce catalogs, especially fashion, limited drops, and brands wanting to
 ## Notes / caveats / examples
 - The 10-30% band and the >30% choice-threat ceiling come from research on the "sold-out effect".
 - Caveat: this is a display/merchandising choice about *genuinely* limited items, faking sold-out states across a fully-stocked catalog is a trust risk and can backfire on returning customers.
-
-## → Skill conversion note
-Skill candidate: "Merchandise scarcity." Input = catalog + real stock status. Output = which items to keep visible as sold-out to hit the 10-30% band, plus a "notify me" capture on each.
 
 ---
 

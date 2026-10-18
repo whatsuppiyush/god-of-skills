@@ -1,17 +1,17 @@
 ---
 name: founder-crm-notion
-description: A ready Notion CRM wired for AI enrichment, drop a name, the linked prompt fills the row.
+description: Build a one-person Notion CRM: the schema, two views, and one enrichment prompt you run per new contact.
 ---
 
 
 # Founder CRM (Notion)
 
-A Notion CRM template pre-wired for AI enrichment. Add a contact name and the linked prompt fills in company, role, and a first-line opener. Built for a one-person founder pipeline.
+A build-it-yourself guide to a lightweight Notion CRM for a one-person founder pipeline: two linked databases, a pipeline board and a follow-ups view, plus one enrichment prompt you paste into Claude or ChatGPT to turn a bare name into company, role and a first-line opener. There is no template to duplicate and nothing runs automatically; you build it once and copy the prompt output into the row.
 
 ## Use it to
 
 - Run a lightweight sales pipeline in Notion
-- Auto-enrich new contacts with one prompt
+- Enrich a new contact with one copy-paste prompt
 - Track deals without a heavyweight CRM
 
 ## SKILL.md

@@ -152,9 +152,6 @@ Subscriptions and habitual products where the value is real but invisible (savin
 - Scaling future value ("11 years less on your phone") makes an abstract benefit visceral.
 - Labor-illusion cues make invisible background work feel valuable, countering "what am I paying for?"
 
-## → Skill conversion note
-A "value-recap generator": given {product metrics, price} it drafts immediate/historical/future value messages for in-app + email/push/SMS, plus labor-illusion cues for invisible features, timed around renewal.
-
 ### Retain ecommerce customers with a 4-email welcome flow and disciplined SMS capture
 
 ## The strategy
@@ -178,9 +175,6 @@ Right after launch or once a store has an email list forming. Set up the automat
 - Email is "owned"; prioritize it over rented social reach.
 - Retention economics: ~5x cheaper than acquisition; some companies see $40+ revenue per $1 of email spend.
 
-## → Skill conversion note
-Becomes an "ecommerce welcome-flow generator" SKILL.md: takes brand details + a discount offer and drafts the 4-email sequence (subjects under 50 chars, one goal each) plus a compliant SMS-capture popup.
-
 ### Drive daily/2x-daily usage with streaks and time-boxed chests, and find the activation threshold to push users across
 
 ## The strategy
@@ -199,9 +193,6 @@ Apps/products where frequency of use predicts retention (fintech, learning, heal
 - Shakepay streaks (~$1-3/day, diminishing) + referral bonus → self-set reminders + bragging.
 - Duolingo chests open on a delay (earned AM, opens PM) to manufacture a return visit.
 - Tipping points give a concrete activation target: Slack 3 days/wk, Instagram 10 follows in 7 days.
-
-## → Skill conversion note
-A "habit-mechanic designer": given {product, usage data} it recommends a streak reward curve, a time-boxed chest schedule, and identifies the activation threshold to engineer users across during onboarding.
 
 ### Add graceful exit points and completion states, forced engagement makes users feel trapped and churn
 
@@ -222,9 +213,6 @@ Content, social, learning, and any app with continuous consumption loops where s
 - TikTok's "293 videos" break card and Duolingo's goal-completion celebration are the canonical examples.
 - The trade: a shorter session now for a returning, trusting user later.
 
-## → Skill conversion note
-An "exit-point auditor": given a product's consumption loops, flag dark-pattern engagement traps and recommend completion states, explicit continue controls, and threshold break cards.
-
 ### Fight involuntary (failed-payment) churn, auto-retry the card BEFORE emailing, then a passwordless update link, then SMS
 
 ## The strategy
@@ -243,9 +231,6 @@ Any subscription/recurring-billing product. Set up the dunning ladder before sca
 - Auto-retry alone resolves 20%+ of failed payments before any message is sent.
 - Passwordless update links cut friction at the exact moment friction loses the customer.
 - Involuntary churn is invisible in most dashboards, it looks like normal churn until you separate it out.
-
-## → Skill conversion note
-A "dunning ladder generator": given {billing provider, channels} outputs the retry schedule, a passwordless card-update email/SMS, and the escalation timing, plus the recovered-revenue metric to track.
 
 ### Choose your lifecycle/email stack with the "Chef Model", match tool complexity to your team's operator level
 
@@ -274,9 +259,6 @@ Selecting or switching a lifecycle/email/CRM platform, or diagnosing why an exis
 - The failure mode is buying above (or below) your operator level, capability, not features, is the constraint.
 - Judge "where AI operates" by the actual workflow, not the sales deck.
 
-## → Skill conversion note
-A "lifecycle-stack selector": input {operator level, data setup, team eng access, current tool} → recommend Line/Sous/Master-appropriate platforms scored on the four criteria, with a migration-reality flag.
-
 ### Stand up an email loyalty program for your top 10% of spenders in ~6 hours, Peak Design made $46.8k in 90 days
 
 ## The strategy
@@ -297,9 +279,6 @@ Ecommerce/DTC (or any repeat-purchase business) with enough order history to ide
 - Tiering by spend makes higher-value customers feel recognized and nudges the next tier up.
 - Unique codes keep it exclusive and let you attribute revenue to the program.
 
-## → Skill conversion note
-A "loyalty-email builder": takes {customer spend data, margin} and outputs the top-10% segment definition, a two/three-tier offer table, personal-voice email copy, and a unique-code plan.
-
 ### Onboard for a fast "quick win," keep the job-to-be-done visible, and end on a peak-end high
 
 ## The strategy
@@ -318,9 +297,6 @@ Any product with a signup → first-value gap: SaaS, apps, marketplaces. Design 
 - Quora pre-checks step one; Airbnb keeps projected earnings visible, both reduce first-session drop-off.
 - Activation thresholds give a concrete onboarding target (Slack 3 days/wk, Instagram 10 follows/7 days).
 - Peak-end: people remember the high point and the ending, so make the first day's finish memorable.
-
-## → Skill conversion note
-An "onboarding designer": given {product, activation data} it maps a quick-win first step, the tipping-point target, and a peak-end first-day finish (specific feedback + founder touch), plus a first-session friction audit.
 
 ### Trigger lifecycle messages on behavior and timing, not elapsed time
 
@@ -341,9 +317,6 @@ Onboarding, review/referral asks, reactivation of lapsed users, and support prio
 ## Notes / caveats / examples
 - Drybar's travel-detection notifications increased full-price bookings by "nearly 3x."
 
-## → Skill conversion note
-A "lifecycle trigger designer" skill: given events available, output a table of behavior+timing triggers → message → segment, replacing time-based drips.
-
 ### Recover abandoned carts with physical mail, a QR postcard or a free product sample when email alone stalls
 
 ## The strategy
@@ -362,9 +335,6 @@ Ecommerce/DTC with mailing addresses for abandoners (or enough order data to acq
 - Direct mail sees 300-400% conversion lift on cart abandoners vs email-only (issue #079).
 - KetoneAid's free-sample recovery converts to ~$3,000-LTV subscriptions (issue #113).
 - Reserve for high-value carts and measure against a control, the cost only pays off on the right segment.
-
-## → Skill conversion note
-A "physical-recovery planner": given {AOV/LTV threshold, offer, tool} it outputs which abandoners qualify, a QR-postcard spec or free-sample offer, the send-timing window, and the control-group test design.
 
 ### Make the product stickier by design, build a ritual, add customization, and layer LTV onto one-time purchases
 
@@ -388,9 +358,6 @@ Product and pricing design decisions, not campaigns. Best when you control the p
 - Customization data (Converse, Slack) both retains users and informs the core product line.
 - One-time-purchase LTV levers: subscription layer, high-frequency complements, new-segment repositioning.
 
-## → Skill conversion note
-A "product-stickiness planner": given {product, purchase model} it proposes a candidate ritual, customization options to add (with the switching-cost rationale), and LTV layers (subscription/complements/segments) to test.
-
 ### Design a referral program that closes the 83%-vs-29% gap, right moment, two-click flow, faster/smaller rewards, phased rollout
 
 ## The strategy
@@ -412,9 +379,6 @@ Any business with satisfied customers and a repeatable moment of delight. Build 
 - IntelyCare: immediate $1/hr beat delayed $100 by 81% more referrals; CAC $110 vs $257.
 - Phase 1 = manual + top customers on purpose; automate only after the offer works.
 
-## → Skill conversion note
-A "referral program designer": given {product, delight moments, margin} outputs the ask-moment triggers, a two-click share flow with pre-written copy, a reward structure (favoring speed), and the 3-phase rollout plan.
-
 ### Reduce subscription churn with frictionless offboarding (the "objection smasher" cancel page) and flexible cadence
 
 ## The strategy
@@ -433,9 +397,6 @@ Any subscription/membership (SaaS or DTC). Especially where churn spikes at the 
 - Cancel page = retention surface: survey → show what's lost → offer salvage, all without blocking the exit.
 - Pause/skip catches "too much product" churn that a hard cancel would lose entirely.
 - DTC subscribers spend 3x more (issue #151), so flexible retention has outsized LTV impact.
-
-## → Skill conversion note
-A "cancel-flow builder": given {product, common churn reasons} it drafts a frictionless offboarding page with a one-question survey, a "what you lose" module, salvage offers, and pause/skip/cadence options.
 
 ### Build loyalty with surprise-and-delight, handwritten notes, value-prop gifts, in-shipment raffles, and public-wear swag loops
 
@@ -456,9 +417,6 @@ Post-purchase and at aha/milestone moments, across DTC/ecommerce and subscriptio
 - Handwritten note nearly doubled future spend ($52.07 vs $25.97) in the beauty test.
 - Raffle tickets are ~$9/500 and turn shipments into a delight + list-building loop.
 - Public-wear swag (AirPods, shirts) retains AND acquires, pick items people show off.
-
-## → Skill conversion note
-A "delight-moment planner": given {product, margins, key lifecycle moments} outputs a gifting calendar (note, off-calendar gift, in-shipment raffle, swag) with cost estimates and the expectation-beating delivery promise.
 
 ---
 

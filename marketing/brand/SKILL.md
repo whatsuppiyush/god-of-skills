@@ -142,10 +142,6 @@ Setting an AI-usage policy for a brand/content team; deciding whether to use AI 
 ## Notes / caveats / examples
 - Supporting data (issue #330): AI-content favorability fell 60% → 26% (2023 → 2026); ~50% of consumers prefer brands that avoid gen-AI in customer-facing content. The Italy ChatGPT-ban natural experiment showed content became 15% less similar and engagement rose 3.5% when AI was removed.
 - The "concept" layer is the line that matters most, outsourcing identity/voice to AI is how brands become interchangeable.
-- Especially relevant to godofskills' own audience: AI *tools* users still need a human-owned brand voice.
-
-## → Skill conversion note
-Weak skill candidate, it's a governance framework, not an automatable tool. Best as a policy guide: classify each brand task into kitchen/dining/concept and route AI use accordingly.
 
 ### Build a brand on four elements, mission, story, voice, and a $5k minimum-viable design
 
@@ -168,9 +164,6 @@ Early-stage founders defining a brand, or teams codifying one that grew organica
 - Liquid Death shows brand-as-product: edgy anti-corporate voice ("Murder your thirst"), skull design, merch/NFTs → $100M+ raised in 2 years.
 - Hinge ("the dating app designed to be deleted") gets 78% as many engagements as Tinder on ~10% of the revenue, quality-of-brand effect.
 
-## → Skill conversion note
-Becomes a `brand-foundation` prompt: input company + audience, output a one-sentence mission, a <250-word story (origin or consumer framing), a voice chart, and a $5k MVB design brief.
-
 ### Run a 5-step brand strategy, research market, study competitors, write guidelines, invest in content, track response
 
 ## The strategy
@@ -190,9 +183,6 @@ Any founder/marketer taking a brand from concept to consistency. Weight it 80% p
 - Timeline: Stage 1 (product dev) = build the high-level framework + research. Stage 2 (validating) = don't do heavy brand work; use the concept to guide tests and watch for unexpected customer segments. Stage 3 (early traction) = refine messaging/design, formalize guidelines, invest in content.
 - Zendesk's 2016 rebrand shows evolution: from a Buddha mascot + bright green to geometric mini-logos that enabled storytelling across an expanded product line, while keeping a playful voice ("charming and humblident," no talking down, no hyperbole).
 - Scale reference: Coca-Cola spends ~$4B/year on advertising just to maintain its brand.
-
-## → Skill conversion note
-Becomes a `brand-strategy-runbook` prompt: input product + stage, output the stage-appropriate action list (research questions, competitor teardown template, guidelines outline, content-hire trigger, monitoring stack).
 
 ### Name a brand by volume and metrics, generate 300-500, score on 8 criteria, then verify
 
@@ -214,9 +204,6 @@ Naming a company, product, or feature; a rebrand; picking between shortlisted na
 - "Spelling-when-heard" and "sayability" are easy to skip and expensive to get wrong (word-of-mouth and voice search both punish unspellable names).
 - Legal/domain verification is non-negotiable, a beloved name you can't own is a dead end.
 
-## → Skill conversion note
-Strong skill: input product description + archetype preferences, auto-generate 300+ names across the 8 strategies, score each on the 8 metrics, and return a ranked shortlist flagged for .com availability.
-
 ### Codify brand voice with a DO/DON'T chart, an archetype, and a "brand muse
 
 ## The strategy
@@ -235,9 +222,6 @@ Standing up a brand's voice; onboarding writers or agencies; when content across
 - The brand muse is the sleeper tool: it collapses a subjective "is this on-brand?" debate into a concrete gut check anyone can run.
 - Banning generic words in the DON'T column is what makes the chart bite, "authentic," "innovative," "seamless" belong on it.
 - Keep the story tight: emotional weight comes from conflict and specificity, not length.
-
-## → Skill conversion note
-Skill: interview the founder for tone preferences, then generate a filled DO/DON'T voice chart, a recommended archetype, 2-3 candidate brand muses, and a <250-word brand story draft.
 
 ### Sharpen positioning with an enemy, an Onlyness statement, and a contrarian "worse-here-better-there" trade-off
 
@@ -258,9 +242,6 @@ Entering a market with a dominant incumbent; a "me too" product that needs an ed
 ## Notes / caveats / examples
 - Only pick a fight you can win, attacking a rival that outsells you badly can backfire as negative social proof (see the `comparison-copy` copywriting card).
 - The enemy gives customers a side to join; the Onlyness statement gives them the reason; the trade-off makes it defensible.
-
-## → Skill conversion note
-Skill: given a product + its category, propose 2-3 candidate "enemies," draft an Onlyness statement, and suggest a contrarian trade-off axis (what to be deliberately worse at) to own a distinct position.
 
 ### Earn attention with stunts and reactive moments, but run the impressions math first
 
@@ -283,9 +264,6 @@ Brand-awareness pushes on a tight budget, launch moments, viral-trend opportunit
 - Reactive speed compounds reach: a same-day response dramatically outperforms a polished one that lands a week later.
 - Radical transparency works because it's disarming and self-qualifying; don't fake the flaw you're owning.
 
-## → Skill conversion note
-Partial skill: the impressions-vs-CPM calculator is automatable (inputs: stunt cost + target CPM → required impressions to break even). The creative side stays human, guided by the reactive/transparency examples.
-
 ### Rebrand without torching equity, evolve distinctive assets, don't wholesale-replace them
 
 ## The strategy
@@ -304,9 +282,6 @@ Any logo/identity refresh, a rebrand debate, modernizing a legacy brand, or resi
 - Cautionary numbers: Tropicana lost $30M+ in 60 days and reverted; Jaguar −97.5% YoY after its 2024 rebrand; JCPenney lost $4B in a year (bankrupt 2020); HBO Max → Max lost premium equity and reverted.
 - Cracker Barrel context (issue #274): 43% of customers are 55+, and foodservice transactions fell 7% YoY in Q1 2025, a reminder to know who your rebrand risks alienating.
 - Backlash is expected and temporary, but only judge after the 4-12 week window, and only if you protected recognition and your core audience.
-
-## → Skill conversion note
-Weak skill candidate, more a decision checklist than an automatable tool. Best as a "rebrand risk audit" guide: evaluate a proposed rebrand against the evolve-don't-replace, core-audience, and legibility criteria.
 
 ### Audit your brand on two axes, warmth and competence (and invert them for luxury)
 
@@ -330,9 +305,6 @@ Brand perception audits, customer-experience design, trust-building for a new br
 - Warmth without competence reads as charming but unreliable; competence without warmth reads as capable but cold, either gap caps loyalty.
 - Luxury is the deliberate exception: warmth can *cheapen* an aspirational brand.
 
-## → Skill conversion note
-Skill: a checklist tool that rates a brand's current touchpoints on warmth vs. competence, flags the weaker axis, and suggests concrete signals (Unity/groundedness tactics for warmth, reliability proof for competence).
-
 ### When everybody zigs, zag, break one category norm to build a distinctive brand
 
 ## The strategy
@@ -352,9 +324,6 @@ Crowded consumer categories, commodity products, any market where competitors ar
 - Real outcomes (issue #249): Van Leeuwen +50% sales after its 2017 redesign; Graza's neon squeeze bottles → $240M valuation; Liquid Death cans → $1.4B; Notion's minimalist B&W → $10B.
 - Invert *one* element. Inverting everything creates chaos, not distinctiveness, the brand needs a recognizable anchor.
 - Distinctiveness ≠ good taste; it's about being *different from the set*, then being consistent enough to build memory (see `mere-exposure-effect`).
-
-## → Skill conversion note
-Skill: input a category + 3-5 competitor brands, auto-extract the shared visual/messaging conventions, and propose which single element to invert (with examples of brands that zagged the same way).
 
 ---
 

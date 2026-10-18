@@ -1,5 +1,5 @@
 {
-  "count": 53,
+  "count": 212,
   "skills": [
     {
       "slug": "paid-acquisition",
@@ -7,7 +7,7 @@
       "title": "Paid acquisition",
       "description": "Run profitable paid advertising end to end: strategy, creative, targeting, testing, and measurement across Meta/Facebook, Google, TikTok, YouTube…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -25,7 +25,7 @@
       "title": "Acquire first users: the playbook",
       "description": "The ordered playbook for getting from zero to your first ~1000 users.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -43,7 +43,7 @@
       "title": "Fix a leaky funnel",
       "description": "Diagnose WHERE a growth funnel leaks, then route to the exact discipline that plugs it, instead of guessing.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -61,7 +61,7 @@
       "title": "Growth OS: the router",
       "description": "The master router for growth work: arrive with a goal (\"grow traffic\", \"get first users\", \"raise conversion\", \"fix churn\", \"price better\", \"launch\"…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -79,7 +79,7 @@
       "title": "Improve conversion",
       "description": "Raise the conversion rate of a specific page or flow by running four disciplines in the right order: structure, words, persuasion, then proof.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -97,7 +97,7 @@
       "title": "Launch a product: the playbook",
       "description": "The ordered playbook for launching a product or running a go-to-market push.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -115,7 +115,7 @@
       "title": "Pricing and monetization review",
       "description": "Audit and fix how you charge and how you present it, in one ordered pass: model and tiers first, then display psychology, then the pricing page, then…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -133,7 +133,7 @@
       "title": "Brand",
       "description": "Build a distinctive, defensible brand: mission and story, a codified voice, positioning against an enemy, a scored name, warmth/competence perception…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -151,7 +151,7 @@
       "title": "Conversion Rate Optimization (CRO)",
       "description": "Conversion rate optimization for landing pages, product pages, and checkout flows.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -169,7 +169,7 @@
       "title": "Ecommerce and DTC Growth",
       "description": "Ecommerce and DTC store growth: store conversion, cart recovery, average order value, promotions, marketplace listings, and shipping.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -187,7 +187,7 @@
       "title": "Email Marketing",
       "description": "The playbook for owned-email marketing to an opted-in list: deliverability, list growth, writing and creative, sequences, segmentation, and the KPIs that…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -205,7 +205,7 @@
       "title": "Influencer & Creator Marketing",
       "description": "Find, vet, pay, brief, and scale creators, influencers, and affiliates to produce authentic third-party content that sells.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -223,7 +223,7 @@
       "title": "Launch and Go-to-Market",
       "description": "Plan and run a product launch or go-to-market push: pick your first-users channel, run a Product Hunt launch, earn press, manufacture scarcity for a…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -241,7 +241,7 @@
       "title": "Marketing Psychology",
       "description": "Apply behavioral-science and consumer-psychology principles to marketing decisions: pricing displays, ad creative, copy framing, social proof, attention…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -259,7 +259,7 @@
       "title": "Organic Social",
       "description": "Grow an audience and earn reach on social platforms without ad spend.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -277,7 +277,7 @@
       "title": "Pricing & Monetization",
       "description": "The playbook for what you charge and how you present it: value metric, tiers, anchoring, display psychology, discounts and promos, add-ons, trial models…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -295,7 +295,7 @@
       "title": "Product-Led Growth",
       "description": "The discipline of making the product itself the primary driver of acquisition, activation, and retention.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -313,7 +313,7 @@
       "title": "Retention & lifecycle",
       "description": "The keep-and-grow-customers discipline: activation, onboarding, churn and failed-payment recovery, loyalty, referral, gamified habit loops…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -331,7 +331,7 @@
       "title": "Strategy Fundamentals",
       "description": "The upstream growth-strategy layer: decide WHAT to build, WHO for, WHICH channel, and WHY it compounds, before spending a dollar on execution.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -349,7 +349,7 @@
       "title": "Hiring the Growth Team",
       "description": "Make your first (or next) marketing/growth hire: decide the archetype, source candidates on the right boards, and screen with a paid role-specific test…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -367,7 +367,7 @@
       "title": "Tools & Stack",
       "description": "Pick, assemble, and build the marketing/growth tool stack: AI image & video generators, UGC ad production, AI content workflows, keyword/community…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -385,7 +385,7 @@
       "title": "Analytics & Data",
       "description": "The discipline of measuring growth honestly: finding the metric that matters, proving a change actually caused a result, and prioritizing what to test…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -403,7 +403,7 @@
       "title": "Growth Teardowns",
       "description": "Reusable growth and conversion plays reverse-engineered from real company teardowns (Ahrefs, Zapier, ClickUp, Segment, Customer.io, Amazon, Lovable…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -421,7 +421,7 @@
       "title": "Sales outbound",
       "description": "The cold-outbound discipline: turn a stranger list into booked calls and closed deals with researched cold email, follow-ups, deliverability…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -439,7 +439,7 @@
       "title": "AI Search / GEO",
       "description": "Get recommended by AI search (ChatGPT, Perplexity, Google AI Overviews, Gemini, Claude) using GEO / AEO: audit per-model visibility, structure content so…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -457,7 +457,7 @@
       "title": "Content-Led SEO",
       "description": "The full content-led SEO discipline: technical foundation, keyword research, SERP-driven page types, writing pages that outrank competitors, internal…",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -475,7 +475,7 @@
       "title": "Copywriting & Messaging",
       "description": "Write and diagnose persuasive marketing copy: headlines, value props, landing pages, ad hooks, product descriptions, and brand narrative.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -493,7 +493,7 @@
       "title": "SEO Cluster Builder",
       "description": "One seed keyword into a full hub-and-spoke content map with an internal-link matrix.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude Code",
         "Cursor"
@@ -509,7 +509,7 @@
       "title": "Cold Email That Books",
       "description": "A 6-step chain that writes cold emails from a prospect's LinkedIn: hook, proof, one ask.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "ChatGPT"
@@ -525,7 +525,7 @@
       "title": "Changelog Writer",
       "description": "Reads merged PRs and drafts a human changelog grouped by feature / fix / chore.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude Code",
         "Codex",
@@ -542,7 +542,7 @@
       "title": "Landing Page Teardown",
       "description": "Paste a URL, get a conversion audit: hierarchy, hook, objections, CTA, scored 0-100.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "ChatGPT"
@@ -556,9 +556,9 @@
       "slug": "founder-crm-notion",
       "kind": "skill",
       "title": "Founder CRM (Notion)",
-      "description": "A ready Notion CRM wired for AI enrichment, drop a name, the linked prompt fills the row.",
+      "description": "Build a one-person Notion CRM: the schema, two views, and one enrichment prompt you run per new contact.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "ChatGPT"
@@ -574,7 +574,7 @@
       "title": "Brand Voice Codifier",
       "description": "Feed it 10 posts, it writes a reusable voice guide every future prompt can load.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -591,7 +591,7 @@
       "title": "SEO Content Brief Builder",
       "description": "Competitive briefs with per-section word counts, entities to cover, and a title/meta set.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude Code",
         "Claude"
@@ -607,7 +607,7 @@
       "title": "Meeting Notes → Actions",
       "description": "Paste a transcript, get owners, decisions, and dated action items, nothing invented.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "ChatGPT",
@@ -624,7 +624,7 @@
       "title": "Backlink Hunter",
       "description": "Hunt every place a site can earn a link (directories, listicles, competitor gaps), then rank it into a submission plan with exact URLs.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude Code",
         "Claude"
@@ -640,7 +640,7 @@
       "title": "Product Hunt Launch Planner",
       "description": "Turn a launch date into a T-30 → T+7 plan: listing craft, an hour-by-hour runbook, the pinned first comment, and hunter outreach.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code"
@@ -656,7 +656,7 @@
       "title": "Ad Maker",
       "description": "Scroll-stopping ad creative for any product: hooks, full scripts, UGC briefs, storyboards, and angle matrices, native to each platform.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code",
@@ -673,7 +673,7 @@
       "title": "Reddit Marketing (No Bans)",
       "description": "Market on Reddit without getting banned: find the right subreddits, decode each sub's rules live, and plan value-first posts.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude",
         "Claude Code"
@@ -689,7 +689,7 @@
       "title": "X Cold Outreach (DMs)",
       "description": "Run cold outreach on X: find DM-able leads, draft personalized first-DMs from each profile, and send paced, cost-transparent campaigns.",
       "paid": false,
-      "tested": false,
+      "tested": true,
       "tools": [
         "Claude Code",
         "Claude"
@@ -716,6 +716,2598 @@
       "domain": "Marketing",
       "url": "https://godofskills.com/skills/chatterapi",
       "rawUrl": "https://godofskills.com/r/skills/chatterapi.md"
+    },
+    {
+      "slug": "sentry-security-review",
+      "kind": "skill",
+      "title": "Sentry Security Review",
+      "description": "Confidence-based security review for injection, XSS, auth and crypto issues, with language and infrastructure guides.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Security",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/sentry-security-review",
+      "rawUrl": "https://godofskills.com/r/skills/sentry-security-review.md"
+    },
+    {
+      "slug": "trailofbits-differential-review",
+      "kind": "skill",
+      "title": "Trail of Bits Differential Review",
+      "description": "Security review of a PR, commit or diff that scales depth to codebase size and calculates blast radius.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Security",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/trailofbits-differential-review",
+      "rawUrl": "https://godofskills.com/r/skills/trailofbits-differential-review.md"
+    },
+    {
+      "slug": "trailofbits-sharp-edges",
+      "kind": "skill",
+      "title": "Trail of Bits Sharp Edges",
+      "description": "Find footgun APIs, dangerous defaults and misuse-prone configuration that lead developers into insecurity.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Security",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/trailofbits-sharp-edges",
+      "rawUrl": "https://godofskills.com/r/skills/trailofbits-sharp-edges.md"
+    },
+    {
+      "slug": "superpowers-systematic-debugging",
+      "kind": "skill",
+      "title": "Superpowers Systematic Debugging",
+      "description": "A four-phase debugging process built on one rule: no fixes without root-cause investigation first.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Code Review & Testing",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/superpowers-systematic-debugging",
+      "rawUrl": "https://godofskills.com/r/skills/superpowers-systematic-debugging.md"
+    },
+    {
+      "slug": "superpowers-test-driven-development",
+      "kind": "skill",
+      "title": "Superpowers Test-Driven Development",
+      "description": "Enforce red, green, refactor: write the test, watch it fail, then write the minimum code to pass.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Code Review & Testing",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/superpowers-test-driven-development",
+      "rawUrl": "https://godofskills.com/r/skills/superpowers-test-driven-development.md"
+    },
+    {
+      "slug": "anthropic-claude-api",
+      "kind": "skill",
+      "title": "Anthropic Claude API Skill",
+      "description": "Build, debug and migrate apps that call Claude, with current model IDs and per-language SDK guidance.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "AI Engineering",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/anthropic-claude-api",
+      "rawUrl": "https://godofskills.com/r/skills/anthropic-claude-api.md"
+    },
+    {
+      "slug": "anthropic-mcp-builder",
+      "kind": "skill",
+      "title": "Anthropic MCP Builder",
+      "description": "A four-phase guide to building MCP servers in Python or TypeScript, ending with evaluation questions.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "AI Engineering",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/anthropic-mcp-builder",
+      "rawUrl": "https://godofskills.com/r/skills/anthropic-mcp-builder.md"
+    },
+    {
+      "slug": "anthropic-frontend-design",
+      "kind": "skill",
+      "title": "Anthropic Frontend Design",
+      "description": "A design-lead process for building web UI with a distinct look instead of the generated-page defaults.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "UI & Visual Design",
+      "domain": "Creative",
+      "url": "https://godofskills.com/skills/anthropic-frontend-design",
+      "rawUrl": "https://godofskills.com/r/skills/anthropic-frontend-design.md"
+    },
+    {
+      "slug": "anthropic-canvas-design",
+      "kind": "skill",
+      "title": "Anthropic Canvas Design",
+      "description": "Create posters and static art by writing a short visual philosophy first, then expressing it as a PNG or PDF.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "UI & Visual Design",
+      "domain": "Creative",
+      "url": "https://godofskills.com/skills/anthropic-canvas-design",
+      "rawUrl": "https://godofskills.com/r/skills/anthropic-canvas-design.md"
+    },
+    {
+      "slug": "anthropic-theme-factory",
+      "kind": "skill",
+      "title": "Anthropic Theme Factory",
+      "description": "Apply one of ten preset color and font themes to slides, docs or HTML pages, or generate a new theme.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "UI & Visual Design",
+      "domain": "Creative",
+      "url": "https://godofskills.com/skills/anthropic-theme-factory",
+      "rawUrl": "https://godofskills.com/r/skills/anthropic-theme-factory.md"
+    },
+    {
+      "slug": "anthropic-docx",
+      "kind": "skill",
+      "title": "Anthropic Docx Skill",
+      "description": "Create, edit and inspect Word documents, with rendering checks and guardrails for tables, page size and numbering.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude"
+      ],
+      "category": "Document Processing",
+      "domain": "Operations",
+      "url": "https://godofskills.com/skills/anthropic-docx",
+      "rawUrl": "https://godofskills.com/r/skills/anthropic-docx.md"
+    },
+    {
+      "slug": "anthropic-pdf",
+      "kind": "skill",
+      "title": "Anthropic PDF Skill",
+      "description": "Read, merge, split, watermark, encrypt, fill and OCR PDF files with Python and command-line tools.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude"
+      ],
+      "category": "Document Processing",
+      "domain": "Operations",
+      "url": "https://godofskills.com/skills/anthropic-pdf",
+      "rawUrl": "https://godofskills.com/r/skills/anthropic-pdf.md"
+    },
+    {
+      "slug": "anthropic-pptx",
+      "kind": "skill",
+      "title": "Anthropic PPTX Skill",
+      "description": "Build and edit PowerPoint decks with pptxgenjs, template editing, speaker notes and a mandatory visual QA loop.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude"
+      ],
+      "category": "Document Processing",
+      "domain": "Operations",
+      "url": "https://godofskills.com/skills/anthropic-pptx",
+      "rawUrl": "https://godofskills.com/r/skills/anthropic-pptx.md"
+    },
+    {
+      "slug": "anthropic-xlsx",
+      "kind": "skill",
+      "title": "Anthropic XLSX Skill",
+      "description": "Create and repair spreadsheets with live formulas, forced recalculation and zero-error checks.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude"
+      ],
+      "category": "Document Processing",
+      "domain": "Operations",
+      "url": "https://godofskills.com/skills/anthropic-xlsx",
+      "rawUrl": "https://godofskills.com/r/skills/anthropic-xlsx.md"
+    },
+    {
+      "slug": "kdense-markitdown",
+      "kind": "skill",
+      "title": "K-Dense MarkItDown",
+      "description": "Convert Office, PDF and data files and selected URIs to Markdown with Microsoft MarkItDown for LLM ingestion.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Document Processing",
+      "domain": "Operations",
+      "url": "https://godofskills.com/skills/kdense-markitdown",
+      "rawUrl": "https://godofskills.com/r/skills/kdense-markitdown.md"
+    },
+    {
+      "slug": "kwp-design-accessibility-review",
+      "kind": "skill",
+      "title": "Knowledge Work: Accessibility Review",
+      "description": "Audit a design or page against WCAG 2.1 AA: contrast, keyboard access, touch targets and screen readers.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "UI & Visual Design",
+      "domain": "Creative",
+      "url": "https://godofskills.com/skills/kwp-design-accessibility-review",
+      "rawUrl": "https://godofskills.com/r/skills/kwp-design-accessibility-review.md"
+    },
+    {
+      "slug": "diagram-design",
+      "kind": "skill",
+      "title": "Diagram Design",
+      "description": "Create branded, self-contained HTML and SVG diagrams across 45 visual types with an editorial design system.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "UI & Visual Design",
+      "domain": "Creative",
+      "url": "https://godofskills.com/skills/diagram-design",
+      "rawUrl": "https://godofskills.com/r/skills/diagram-design.md"
+    },
+    {
+      "slug": "taste-skill",
+      "kind": "skill",
+      "title": "Taste Skill",
+      "description": "Anti-slop frontend art direction: deals researched directions, enforces house rules and runs a look-and-fix loop.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "UI & Visual Design",
+      "domain": "Creative",
+      "url": "https://godofskills.com/skills/taste-skill",
+      "rawUrl": "https://godofskills.com/r/skills/taste-skill.md"
+    },
+    {
+      "slug": "sentry-gha-security-review",
+      "kind": "skill",
+      "title": "Sentry GitHub Actions Security Review",
+      "description": "Audit .github/workflows for pwn requests, expression injection, credential theft and supply chain attacks.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Security",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/sentry-gha-security-review",
+      "rawUrl": "https://godofskills.com/r/skills/sentry-gha-security-review.md"
+    },
+    {
+      "slug": "anthropic-algorithmic-art",
+      "kind": "skill",
+      "title": "Anthropic Algorithmic Art",
+      "description": "Generate p5.js flow fields and particle art with seeded randomness and an interactive parameter viewer.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "UI & Visual Design",
+      "domain": "Creative",
+      "url": "https://godofskills.com/skills/anthropic-algorithmic-art",
+      "rawUrl": "https://godofskills.com/r/skills/anthropic-algorithmic-art.md"
+    },
+    {
+      "slug": "sentry-code-review",
+      "kind": "skill",
+      "title": "Sentry Code Review",
+      "description": "Review pull requests the way Sentry engineers do, with checklists for problems, design, tests and tone.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Code Review & Testing",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/sentry-code-review",
+      "rawUrl": "https://godofskills.com/r/skills/sentry-code-review.md"
+    },
+    {
+      "slug": "superpowers-verification",
+      "kind": "skill",
+      "title": "Superpowers Verification Before Completion",
+      "description": "Require fresh command output as evidence before claiming that work is finished, fixed or passing.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Code Review & Testing",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/superpowers-verification",
+      "rawUrl": "https://godofskills.com/r/skills/superpowers-verification.md"
+    },
+    {
+      "slug": "humanizer",
+      "kind": "skill",
+      "title": "Humanizer",
+      "description": "Remove AI writing patterns from text while keeping its meaning, based on staging, rhythm and inflation tells.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Copywriting & Messaging",
+      "domain": "Content & Writing",
+      "url": "https://godofskills.com/skills/humanizer",
+      "rawUrl": "https://godofskills.com/r/skills/humanizer.md"
+    },
+    {
+      "slug": "anthropic-skill-creator",
+      "kind": "skill",
+      "title": "Anthropic Skill Creator",
+      "description": "Create, test and tune SKILL.md skills, including eval runs and trigger-description optimization.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "AI Engineering",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/anthropic-skill-creator",
+      "rawUrl": "https://godofskills.com/r/skills/anthropic-skill-creator.md"
+    },
+    {
+      "slug": "anthropic-web-artifacts-builder",
+      "kind": "skill",
+      "title": "Anthropic Web Artifacts Builder",
+      "description": "Build multi-component claude.ai artifacts in React, Tailwind and shadcn/ui, bundled into one HTML file.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/anthropic-web-artifacts-builder",
+      "rawUrl": "https://godofskills.com/r/skills/anthropic-web-artifacts-builder.md"
+    },
+    {
+      "slug": "anthropic-webapp-testing",
+      "kind": "skill",
+      "title": "Anthropic Webapp Testing",
+      "description": "Test and debug local web apps with Playwright scripts, a server-lifecycle helper and screenshot capture.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Browser Automation",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/anthropic-webapp-testing",
+      "rawUrl": "https://godofskills.com/r/skills/anthropic-webapp-testing.md"
+    },
+    {
+      "slug": "superpowers-brainstorming",
+      "kind": "skill",
+      "title": "Superpowers Brainstorming",
+      "description": "Find out what the user actually wants through focused questions before any building starts.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Workflow Automation",
+      "domain": "Operations",
+      "url": "https://godofskills.com/skills/superpowers-brainstorming",
+      "rawUrl": "https://godofskills.com/r/skills/superpowers-brainstorming.md"
+    },
+    {
+      "slug": "superpowers-parallel-agents",
+      "kind": "skill",
+      "title": "Superpowers Parallel Agents",
+      "description": "Split two or more independent problems across subagents that run concurrently with isolated context.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Workflow Automation",
+      "domain": "Operations",
+      "url": "https://godofskills.com/skills/superpowers-parallel-agents",
+      "rawUrl": "https://godofskills.com/r/skills/superpowers-parallel-agents.md"
+    },
+    {
+      "slug": "superpowers-executing-plans",
+      "kind": "skill",
+      "title": "Superpowers Executing Plans",
+      "description": "Work through a written implementation plan inline, task by task, with a ledger and one final review.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Workflow Automation",
+      "domain": "Operations",
+      "url": "https://godofskills.com/skills/superpowers-executing-plans",
+      "rawUrl": "https://godofskills.com/r/skills/superpowers-executing-plans.md"
+    },
+    {
+      "slug": "superpowers-finishing-branch",
+      "kind": "skill",
+      "title": "Superpowers Finishing a Branch",
+      "description": "Verify tests, detect the environment and present clear merge, PR, keep or discard options when work is done.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/superpowers-finishing-branch",
+      "rawUrl": "https://godofskills.com/r/skills/superpowers-finishing-branch.md"
+    },
+    {
+      "slug": "superpowers-receiving-review",
+      "kind": "skill",
+      "title": "Superpowers Receiving Code Review",
+      "description": "Respond to review feedback with verification and reasoned pushback instead of blind agreement.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Code Review & Testing",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/superpowers-receiving-review",
+      "rawUrl": "https://godofskills.com/r/skills/superpowers-receiving-review.md"
+    },
+    {
+      "slug": "superpowers-requesting-review",
+      "kind": "skill",
+      "title": "Superpowers Requesting Code Review",
+      "description": "Dispatch a reviewer subagent with a precise diff and context after each task or before merging.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Code Review & Testing",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/superpowers-requesting-review",
+      "rawUrl": "https://godofskills.com/r/skills/superpowers-requesting-review.md"
+    },
+    {
+      "slug": "superpowers-subagent-development",
+      "kind": "skill",
+      "title": "Superpowers Subagent-Driven Development",
+      "description": "Execute a plan by sending a fresh implementer subagent per task, with task review and a final branch review.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Workflow Automation",
+      "domain": "Operations",
+      "url": "https://godofskills.com/skills/superpowers-subagent-development",
+      "rawUrl": "https://godofskills.com/r/skills/superpowers-subagent-development.md"
+    },
+    {
+      "slug": "superpowers-git-worktrees",
+      "kind": "skill",
+      "title": "Superpowers Git Worktrees",
+      "description": "Make sure feature work happens in an isolated workspace, using native tools first and git worktree as a fallback.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/superpowers-git-worktrees",
+      "rawUrl": "https://godofskills.com/r/skills/superpowers-git-worktrees.md"
+    },
+    {
+      "slug": "superpowers-writing-plans",
+      "kind": "skill",
+      "title": "Superpowers Writing Plans",
+      "description": "Write implementation plans for an engineer with zero context, with exact files, tests and task sizes.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Workflow Automation",
+      "domain": "Operations",
+      "url": "https://godofskills.com/skills/superpowers-writing-plans",
+      "rawUrl": "https://godofskills.com/r/skills/superpowers-writing-plans.md"
+    },
+    {
+      "slug": "superpowers-writing-skills",
+      "kind": "skill",
+      "title": "Superpowers Writing Skills",
+      "description": "Apply test-driven development to skills: watch an agent fail without the skill before you write it.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "AI Engineering",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/superpowers-writing-skills",
+      "rawUrl": "https://godofskills.com/r/skills/superpowers-writing-skills.md"
+    },
+    {
+      "slug": "marketingskills-ad-creative",
+      "kind": "skill",
+      "title": "Marketing Skills: Ad Creative",
+      "description": "Generate and iterate on ad headlines, descriptions and primary text for every major paid platform, checked against specs.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Paid Ads",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-ad-creative",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-ad-creative.md"
+    },
+    {
+      "slug": "marketingskills-ai-seo",
+      "kind": "skill",
+      "title": "Marketing Skills: AI SEO",
+      "description": "Make content easy for ChatGPT, Perplexity, Claude, Gemini and AI Overviews to find, extract and cite.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "AI Search & GEO",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-ai-seo",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-ai-seo.md"
+    },
+    {
+      "slug": "marketingskills-analytics",
+      "kind": "skill",
+      "title": "Marketing Skills: Analytics Tracking",
+      "description": "Plan and audit tracking for GA4, GTM, UTMs and conversion events so the data answers real decisions.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Analysis",
+      "domain": "Data",
+      "url": "https://godofskills.com/skills/marketingskills-analytics",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-analytics.md"
+    },
+    {
+      "slug": "marketingskills-churn-prevention",
+      "kind": "skill",
+      "title": "Marketing Skills: Churn Prevention",
+      "description": "Design cancel flows, exit surveys, save offers and failed-payment recovery for subscription products.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Retention & Lifecycle",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-churn-prevention",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-churn-prevention.md"
+    },
+    {
+      "slug": "marketingskills-cold-email",
+      "kind": "skill",
+      "title": "Marketing Skills: Cold Email",
+      "description": "Write B2B cold emails that read like a peer wrote them, plus follow-ups, sending setup and reply handling.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Cold Email & DMs",
+      "domain": "Sales",
+      "url": "https://godofskills.com/skills/marketingskills-cold-email",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-cold-email.md"
+    },
+    {
+      "slug": "marketingskills-competitor-profiling",
+      "kind": "skill",
+      "title": "Marketing Skills: Competitor Profiling",
+      "description": "Turn a list of competitor URLs into structured, comparable profile documents using live scraping and SEO data.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Competitive Intel",
+      "domain": "Research",
+      "url": "https://godofskills.com/skills/marketingskills-competitor-profiling",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-competitor-profiling.md"
+    },
+    {
+      "slug": "marketingskills-content-strategy",
+      "kind": "skill",
+      "title": "Marketing Skills: Content Strategy",
+      "description": "Decide what to publish by weighing searchable against shareable content, pillars and topic clusters.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "SEO",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-content-strategy",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-content-strategy.md"
+    },
+    {
+      "slug": "marketingskills-copy-editing",
+      "kind": "skill",
+      "title": "Marketing Skills: Copy Editing",
+      "description": "Edit existing marketing copy in seven focused sweeps, from clarity to zero-risk, with panel scoring.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Copywriting & Messaging",
+      "domain": "Content & Writing",
+      "url": "https://godofskills.com/skills/marketingskills-copy-editing",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-copy-editing.md"
+    },
+    {
+      "slug": "marketingskills-copywriting",
+      "kind": "skill",
+      "title": "Marketing Skills: Copywriting",
+      "description": "Write conversion copy for home, landing, pricing, feature and about pages, with a section on avoiding AI tells.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Copywriting & Messaging",
+      "domain": "Content & Writing",
+      "url": "https://godofskills.com/skills/marketingskills-copywriting",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-copywriting.md"
+    },
+    {
+      "slug": "marketingskills-cro",
+      "kind": "skill",
+      "title": "Marketing Skills: Conversion Rate Optimization",
+      "description": "Analyze a landing page across seven conversion factors and return quick wins, high-impact changes and test ideas.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Conversion & CRO",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-cro",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-cro.md"
+    },
+    {
+      "slug": "marketingskills-customer-research",
+      "kind": "skill",
+      "title": "Marketing Skills: Customer Research",
+      "description": "Analyze interviews and reviews, mine online communities, or plan interviews and surveys to build personas.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Deep Research",
+      "domain": "Research",
+      "url": "https://godofskills.com/skills/marketingskills-customer-research",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-customer-research.md"
+    },
+    {
+      "slug": "marketingskills-directory-submissions",
+      "kind": "skill",
+      "title": "Marketing Skills: Directory Submissions",
+      "description": "Plan submissions to startup, SaaS, AI and review directories, with Product Hunt and review-site playbooks.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "SEO",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-directory-submissions",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-directory-submissions.md"
+    },
+    {
+      "slug": "marketingskills-free-tools",
+      "kind": "skill",
+      "title": "Marketing Skills: Free Tools Strategy",
+      "description": "Plan and evaluate calculators, graders and generators built as engineering-as-marketing lead magnets.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Product-Led Growth",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-free-tools",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-free-tools.md"
+    },
+    {
+      "slug": "marketingskills-launch",
+      "kind": "skill",
+      "title": "Marketing Skills: Launch Strategy",
+      "description": "Plan a product or feature launch with the ORB channel framework and a five-phase rollout.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Launch & GTM",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-launch",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-launch.md"
+    },
+    {
+      "slug": "marketingskills-lead-magnets",
+      "kind": "skill",
+      "title": "Marketing Skills: Lead Magnets",
+      "description": "Plan lead magnets matched to buyer stage, with gating, landing page and delivery guidance.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Email Marketing",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-lead-magnets",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-lead-magnets.md"
+    },
+    {
+      "slug": "marketingskills-onboarding",
+      "kind": "skill",
+      "title": "Marketing Skills: Onboarding CRO",
+      "description": "Improve post-signup activation by shortening time to value and fixing empty states and setup checklists.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Retention & Lifecycle",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-onboarding",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-onboarding.md"
+    },
+    {
+      "slug": "marketingskills-pricing",
+      "kind": "skill",
+      "title": "Marketing Skills: Pricing Strategy",
+      "description": "Choose value metrics, tiers and an initial price you can learn from, then plan increases and the pricing page.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Pricing & Monetisation",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-pricing",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-pricing.md"
+    },
+    {
+      "slug": "marketingskills-programmatic-seo",
+      "kind": "skill",
+      "title": "Marketing Skills: Programmatic SEO",
+      "description": "Build template-driven pages at scale that have unique value, with twelve playbooks to choose from.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "SEO",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-programmatic-seo",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-programmatic-seo.md"
+    },
+    {
+      "slug": "marketingskills-referrals",
+      "kind": "skill",
+      "title": "Marketing Skills: Referral and Affiliate Programs",
+      "description": "Design, launch and measure referral, affiliate and ambassador programs.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Product-Led Growth",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-referrals",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-referrals.md"
+    },
+    {
+      "slug": "marketingskills-schema",
+      "kind": "skill",
+      "title": "Marketing Skills: Schema Markup",
+      "description": "Add and validate JSON-LD structured data for rich results, with checks against Google's supported features.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "SEO",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-schema",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-schema.md"
+    },
+    {
+      "slug": "marketingskills-seo-audit",
+      "kind": "skill",
+      "title": "Marketing Skills: SEO Audit",
+      "description": "Diagnose ranking and traffic problems with a prioritised technical and on-page audit framework.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "SEO",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-seo-audit",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-seo-audit.md"
+    },
+    {
+      "slug": "marketingskills-influencer-marketing",
+      "kind": "skill",
+      "title": "Marketing Skills: Influencer Marketing",
+      "description": "Find, vet, brief and measure creators and ambassadors across B2C, B2B and sponsored-channel placements.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Influencer & Creator",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/marketingskills-influencer-marketing",
+      "rawUrl": "https://godofskills.com/r/skills/marketingskills-influencer-marketing.md"
+    },
+    {
+      "slug": "addy-spec-driven-development",
+      "kind": "skill",
+      "title": "Agent Skills: Spec-Driven Development",
+      "description": "Write a structured specification before any code, then plan and break it into tasks through gated phases.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/addy-spec-driven-development",
+      "rawUrl": "https://godofskills.com/r/skills/addy-spec-driven-development.md"
+    },
+    {
+      "slug": "addy-code-review-quality",
+      "kind": "skill",
+      "title": "Agent Skills: Code Review and Quality",
+      "description": "Review changes along five axes (correctness, readability, architecture, security, performance) before merging.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Code Review & Testing",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/addy-code-review-quality",
+      "rawUrl": "https://godofskills.com/r/skills/addy-code-review-quality.md"
+    },
+    {
+      "slug": "addy-debugging-error-recovery",
+      "kind": "skill",
+      "title": "Agent Skills: Debugging and Error Recovery",
+      "description": "A stop-the-line triage routine for failing tests, broken builds and unexpected runtime errors.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Code Review & Testing",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/addy-debugging-error-recovery",
+      "rawUrl": "https://godofskills.com/r/skills/addy-debugging-error-recovery.md"
+    },
+    {
+      "slug": "addy-security-hardening",
+      "kind": "skill",
+      "title": "Agent Skills: Security and Hardening",
+      "description": "Threat-model first, then apply input validation, auth, session and header controls against the OWASP Top Ten.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Security",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/addy-security-hardening",
+      "rawUrl": "https://godofskills.com/r/skills/addy-security-hardening.md"
+    },
+    {
+      "slug": "addy-performance-optimization",
+      "kind": "skill",
+      "title": "Agent Skills: Performance Optimization",
+      "description": "Measure first, find the bottleneck, fix it, verify the gain, and guard against regressions.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/addy-performance-optimization",
+      "rawUrl": "https://godofskills.com/r/skills/addy-performance-optimization.md"
+    },
+    {
+      "slug": "addy-api-interface-design",
+      "kind": "skill",
+      "title": "Agent Skills: API and Interface Design",
+      "description": "Design stable REST, GraphQL and module interfaces that are hard to misuse, contract first.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/addy-api-interface-design",
+      "rawUrl": "https://godofskills.com/r/skills/addy-api-interface-design.md"
+    },
+    {
+      "slug": "addy-git-workflow",
+      "kind": "skill",
+      "title": "Agent Skills: Git Workflow and Versioning",
+      "description": "Atomic commits, descriptive messages, trunk-based branching and worktrees for fast-moving agent work.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/addy-git-workflow",
+      "rawUrl": "https://godofskills.com/r/skills/addy-git-workflow.md"
+    },
+    {
+      "slug": "addy-documentation-adrs",
+      "kind": "skill",
+      "title": "Agent Skills: Documentation and ADRs",
+      "description": "Record the why behind decisions with architecture decision records and context future engineers need.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Docs & Changelogs",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/addy-documentation-adrs",
+      "rawUrl": "https://godofskills.com/r/skills/addy-documentation-adrs.md"
+    },
+    {
+      "slug": "addy-context-engineering",
+      "kind": "skill",
+      "title": "Agent Skills: Context Engineering",
+      "description": "Give a coding agent the right information at the right time using a five-level context hierarchy.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "AI Engineering",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/addy-context-engineering",
+      "rawUrl": "https://godofskills.com/r/skills/addy-context-engineering.md"
+    },
+    {
+      "slug": "vercel-react-best-practices",
+      "kind": "skill",
+      "title": "Vercel React Best Practices",
+      "description": "Seventy performance rules for React and Next.js, ranked from eliminating waterfalls to micro-optimizations.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/vercel-react-best-practices",
+      "rawUrl": "https://godofskills.com/r/skills/vercel-react-best-practices.md"
+    },
+    {
+      "slug": "vercel-composition-patterns",
+      "kind": "skill",
+      "title": "Vercel React Composition Patterns",
+      "description": "Compound components, lifted state and composed internals to avoid boolean-prop sprawl in React.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/vercel-composition-patterns",
+      "rawUrl": "https://godofskills.com/r/skills/vercel-composition-patterns.md"
+    },
+    {
+      "slug": "sentry-find-bugs",
+      "kind": "skill",
+      "title": "Sentry Find Bugs",
+      "description": "Audit local branch changes for bugs and vulnerabilities through five phases ending in a pre-conclusion check.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Code Review & Testing",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/sentry-find-bugs",
+      "rawUrl": "https://godofskills.com/r/skills/sentry-find-bugs.md"
+    },
+    {
+      "slug": "sentry-iterate-pr",
+      "kind": "skill",
+      "title": "Sentry Iterate PR",
+      "description": "Loop on a pull request until actionable CI passes and high or medium review feedback is addressed.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/sentry-iterate-pr",
+      "rawUrl": "https://godofskills.com/r/skills/sentry-iterate-pr.md"
+    },
+    {
+      "slug": "sentry-pr-writer",
+      "kind": "skill",
+      "title": "Sentry PR Writer",
+      "description": "Write reviewer-facing pull request titles and bodies as a cover note, not a changelog or file list.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/sentry-pr-writer",
+      "rawUrl": "https://godofskills.com/r/skills/sentry-pr-writer.md"
+    },
+    {
+      "slug": "trailofbits-semgrep",
+      "kind": "skill",
+      "title": "Trail of Bits Semgrep Scan",
+      "description": "Run Semgrep with language detection, parallel scans and merged SARIF output, with telemetry kept off.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Security",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/trailofbits-semgrep",
+      "rawUrl": "https://godofskills.com/r/skills/trailofbits-semgrep.md"
+    },
+    {
+      "slug": "trailofbits-property-based-testing",
+      "kind": "skill",
+      "title": "Trail of Bits Property-Based Testing",
+      "description": "Write and debug property tests with Hypothesis, fast-check, proptest, jqwik, rapid and Echidna or Medusa.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Code Review & Testing",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/trailofbits-property-based-testing",
+      "rawUrl": "https://godofskills.com/r/skills/trailofbits-property-based-testing.md"
+    },
+    {
+      "slug": "trailofbits-variant-analysis",
+      "kind": "skill",
+      "title": "Trail of Bits Variant Analysis",
+      "description": "After finding one bug, hunt for the other instances of the same root cause across the codebase.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Security",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/trailofbits-variant-analysis",
+      "rawUrl": "https://godofskills.com/r/skills/trailofbits-variant-analysis.md"
+    },
+    {
+      "slug": "trailofbits-audit-context",
+      "kind": "skill",
+      "title": "Trail of Bits Audit Context Building",
+      "description": "Build a grounded understanding of unfamiliar code before any bug hunting begins.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Security",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/trailofbits-audit-context",
+      "rawUrl": "https://godofskills.com/r/skills/trailofbits-audit-context.md"
+    },
+    {
+      "slug": "trailofbits-supply-chain-auditor",
+      "kind": "skill",
+      "title": "Trail of Bits Supply Chain Risk Auditor",
+      "description": "Audit npm, PyPI and Go dependencies for advisories, abandoned upstreams, publisher concentration and install scripts.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Security",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/trailofbits-supply-chain-auditor",
+      "rawUrl": "https://godofskills.com/r/skills/trailofbits-supply-chain-auditor.md"
+    },
+    {
+      "slug": "trailofbits-mutation-testing",
+      "kind": "skill",
+      "title": "Trail of Bits Mutation Testing",
+      "description": "Configure mewt or muton campaigns, triage surviving mutants and find bugs exposed by test gaps.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Code Review & Testing",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/trailofbits-mutation-testing",
+      "rawUrl": "https://godofskills.com/r/skills/trailofbits-mutation-testing.md"
+    },
+    {
+      "slug": "cloudflare-workers-best-practices",
+      "kind": "skill",
+      "title": "Cloudflare Workers Best Practices",
+      "description": "Production checks for Workers: compatibility dates, observability, streaming and an anti-pattern table to flag.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Cloud, Infra & Monitoring",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/cloudflare-workers-best-practices",
+      "rawUrl": "https://godofskills.com/r/skills/cloudflare-workers-best-practices.md"
+    },
+    {
+      "slug": "cloudflare-durable-objects",
+      "kind": "skill",
+      "title": "Cloudflare Durable Objects",
+      "description": "Build, debug and review Durable Objects for persistent state and coordination, with seven critical rules.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Cloud, Infra & Monitoring",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/cloudflare-durable-objects",
+      "rawUrl": "https://godofskills.com/r/skills/cloudflare-durable-objects.md"
+    },
+    {
+      "slug": "cloudflare-agents-sdk",
+      "kind": "skill",
+      "title": "Cloudflare Agents SDK",
+      "description": "Build and debug stateful agent apps on Workers with the agents package, routing, chat streaming and React hooks.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Cloud, Infra & Monitoring",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/cloudflare-agents-sdk",
+      "rawUrl": "https://godofskills.com/r/skills/cloudflare-agents-sdk.md"
+    },
+    {
+      "slug": "cloudflare-web-perf",
+      "kind": "skill",
+      "title": "Cloudflare Web Performance Audit",
+      "description": "Audit loading and interaction performance with a DevTools trace, Core Web Vitals, network and codebase analysis.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Cloud, Infra & Monitoring",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/cloudflare-web-perf",
+      "rawUrl": "https://godofskills.com/r/skills/cloudflare-web-perf.md"
+    },
+    {
+      "slug": "supabase-postgres-best-practices",
+      "kind": "skill",
+      "title": "Supabase Postgres Best Practices",
+      "description": "Postgres guidance in eight priority categories, from query performance to RLS, for any Postgres host.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Databases",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/supabase-postgres-best-practices",
+      "rawUrl": "https://godofskills.com/r/skills/supabase-postgres-best-practices.md"
+    },
+    {
+      "slug": "stripe-best-practices",
+      "kind": "skill",
+      "title": "Stripe Best Practices",
+      "description": "Route a Stripe integration to the right API and apply critical rules, current API version and sandbox defaults.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Payments & Billing",
+      "domain": "Business",
+      "url": "https://godofskills.com/skills/stripe-best-practices",
+      "rawUrl": "https://godofskills.com/r/skills/stripe-best-practices.md"
+    },
+    {
+      "slug": "huggingface-llm-trainer",
+      "kind": "skill",
+      "title": "Hugging Face LLM Trainer",
+      "description": "Fine-tune language and vision models with TRL or Unsloth on Hugging Face Jobs, then convert to GGUF.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "AI Engineering",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/huggingface-llm-trainer",
+      "rawUrl": "https://godofskills.com/r/skills/huggingface-llm-trainer.md"
+    },
+    {
+      "slug": "huggingface-papers",
+      "kind": "skill",
+      "title": "Hugging Face Paper Pages",
+      "description": "Read AI papers from Hugging Face paper pages or arXiv IDs as markdown, with linked models, datasets and Spaces.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Deep Research",
+      "domain": "Research",
+      "url": "https://godofskills.com/skills/huggingface-papers",
+      "rawUrl": "https://godofskills.com/r/skills/huggingface-papers.md"
+    },
+    {
+      "slug": "expo-router",
+      "kind": "skill",
+      "title": "Expo Router Navigation",
+      "description": "File-based routing for Expo apps: groups, dynamic routes, native stacks, tabs, modals, sheets and header search.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/expo-router",
+      "rawUrl": "https://godofskills.com/r/skills/expo-router.md"
+    },
+    {
+      "slug": "gemini-api-dev",
+      "kind": "skill",
+      "title": "Gemini API Development",
+      "description": "Write code against the Gemini API with current models, SDKs and rules that override stale training data.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "AI Engineering",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/gemini-api-dev",
+      "rawUrl": "https://godofskills.com/r/skills/gemini-api-dev.md"
+    },
+    {
+      "slug": "pm-create-prd",
+      "kind": "skill",
+      "title": "PM Skills: Create PRD",
+      "description": "Draft a lean, decision-ready product requirements document with an eight-section template.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Strategy",
+      "domain": "Business",
+      "url": "https://godofskills.com/skills/pm-create-prd",
+      "rawUrl": "https://godofskills.com/r/skills/pm-create-prd.md"
+    },
+    {
+      "slug": "pm-competitive-battlecard",
+      "kind": "skill",
+      "title": "PM Skills: Competitive Battlecard",
+      "description": "Create a sales-ready battlecard against one named competitor: positioning, features, objections and win/loss patterns.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Competitive Intel",
+      "domain": "Research",
+      "url": "https://godofskills.com/skills/pm-competitive-battlecard",
+      "rawUrl": "https://godofskills.com/r/skills/pm-competitive-battlecard.md"
+    },
+    {
+      "slug": "pm-north-star-metric",
+      "kind": "skill",
+      "title": "PM Skills: North Star Metric",
+      "description": "Define a North Star Metric with three to five input metrics, classified by business game and validated against seven criteria.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Analysis",
+      "domain": "Data",
+      "url": "https://godofskills.com/skills/pm-north-star-metric",
+      "rawUrl": "https://godofskills.com/r/skills/pm-north-star-metric.md"
+    },
+    {
+      "slug": "pm-cohort-analysis",
+      "kind": "skill",
+      "title": "PM Skills: Cohort Analysis",
+      "description": "Analyze retention curves, feature adoption and engagement trends by user cohort from your data.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Analysis",
+      "domain": "Data",
+      "url": "https://godofskills.com/skills/pm-cohort-analysis",
+      "rawUrl": "https://godofskills.com/r/skills/pm-cohort-analysis.md"
+    },
+    {
+      "slug": "pm-market-sizing",
+      "kind": "skill",
+      "title": "PM Skills: Market Sizing",
+      "description": "Estimate TAM, SAM and SOM with top-down and bottom-up approaches and growth projections.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Strategy",
+      "domain": "Business",
+      "url": "https://godofskills.com/skills/pm-market-sizing",
+      "rawUrl": "https://godofskills.com/r/skills/pm-market-sizing.md"
+    },
+    {
+      "slug": "pm-pre-mortem",
+      "kind": "skill",
+      "title": "PM Skills: Pre-Mortem",
+      "description": "Stress-test a PRD or launch plan by sorting risks into tigers, paper tigers and elephants.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Strategy",
+      "domain": "Business",
+      "url": "https://godofskills.com/skills/pm-pre-mortem",
+      "rawUrl": "https://godofskills.com/r/skills/pm-pre-mortem.md"
+    },
+    {
+      "slug": "linkedin-post-writer",
+      "kind": "skill",
+      "title": "LinkedIn Skills: Post Writer",
+      "description": "Draft LinkedIn posts from 20 hook formulas, picked by engagement goal, with a humanizer pass.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Social Media",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/linkedin-post-writer",
+      "rawUrl": "https://godofskills.com/r/skills/linkedin-post-writer.md"
+    },
+    {
+      "slug": "linkedin-hook-extractor",
+      "kind": "skill",
+      "title": "LinkedIn Skills: Hook Extractor",
+      "description": "Reverse-engineer which hook formula a viral LinkedIn post uses and get a blank template for your topic.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Social Media",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/linkedin-hook-extractor",
+      "rawUrl": "https://godofskills.com/r/skills/linkedin-hook-extractor.md"
+    },
+    {
+      "slug": "linkedin-profile-optimizer",
+      "kind": "skill",
+      "title": "LinkedIn Skills: Profile Optimizer",
+      "description": "Audit and rewrite all nine parts of a LinkedIn profile against a 2026 scorecard.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Social Media",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/linkedin-profile-optimizer",
+      "rawUrl": "https://godofskills.com/r/skills/linkedin-profile-optimizer.md"
+    },
+    {
+      "slug": "linkedin-comment-drafter",
+      "kind": "skill",
+      "title": "LinkedIn Skills: Comment Drafter",
+      "description": "Draft thoughtful comments or reshares for someone else's LinkedIn post from its URL.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Social Media",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/linkedin-comment-drafter",
+      "rawUrl": "https://godofskills.com/r/skills/linkedin-comment-drafter.md"
+    },
+    {
+      "slug": "linkedin-content-planner",
+      "kind": "skill",
+      "title": "LinkedIn Skills: Content Planner",
+      "description": "Generate a seven-day LinkedIn plan from a theme, audience and pillars, with daily comment targets.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Social Media",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/linkedin-content-planner",
+      "rawUrl": "https://godofskills.com/r/skills/linkedin-content-planner.md"
+    },
+    {
+      "slug": "scrapecreators-comment-mining",
+      "kind": "skill",
+      "title": "ScrapeCreators Comment Mining",
+      "description": "Mine public comments for audience questions, objections, buying intent and the exact customer language.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Deep Research",
+      "domain": "Research",
+      "url": "https://godofskills.com/skills/scrapecreators-comment-mining",
+      "rawUrl": "https://godofskills.com/r/skills/scrapecreators-comment-mining.md"
+    },
+    {
+      "slug": "scrapecreators-ad-library-teardown",
+      "kind": "skill",
+      "title": "ScrapeCreators Ad Library Teardown",
+      "description": "Analyze active Meta, Google and LinkedIn ads to extract hooks, offers, CTAs and test ideas.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Competitive Intel",
+      "domain": "Research",
+      "url": "https://godofskills.com/skills/scrapecreators-ad-library-teardown",
+      "rawUrl": "https://godofskills.com/r/skills/scrapecreators-ad-library-teardown.md"
+    },
+    {
+      "slug": "scrapecreators-outlier-post-finder",
+      "kind": "skill",
+      "title": "ScrapeCreators Outlier Post Finder",
+      "description": "Find posts that beat an account's own baseline and explain the repeatable patterns behind them.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Social Media",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/scrapecreators-outlier-post-finder",
+      "rawUrl": "https://godofskills.com/r/skills/scrapecreators-outlier-post-finder.md"
+    },
+    {
+      "slug": "scrapecreators-competitor-social-research",
+      "kind": "skill",
+      "title": "ScrapeCreators Competitor Social Research",
+      "description": "Compare competitors' social strategies and produce a brief with content gaps and tests.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Competitive Intel",
+      "domain": "Research",
+      "url": "https://godofskills.com/skills/scrapecreators-competitor-social-research",
+      "rawUrl": "https://godofskills.com/r/skills/scrapecreators-competitor-social-research.md"
+    },
+    {
+      "slug": "scrapecreators-influencer-prospecting",
+      "kind": "skill",
+      "title": "ScrapeCreators Influencer Prospecting",
+      "description": "Build scored creator prospect lists from public social data for outreach, sponsorships and seeding.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex"
+      ],
+      "category": "Influencer & Creator",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/scrapecreators-influencer-prospecting",
+      "rawUrl": "https://godofskills.com/r/skills/scrapecreators-influencer-prospecting.md"
+    },
+    {
+      "slug": "kdense-literature-review",
+      "kind": "skill",
+      "title": "K-Dense Literature Review",
+      "description": "Run systematic, scoping and narrative literature reviews with citation checks and PRISMA-style reporting.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Deep Research",
+      "domain": "Research",
+      "url": "https://godofskills.com/skills/kdense-literature-review",
+      "rawUrl": "https://godofskills.com/r/skills/kdense-literature-review.md"
+    },
+    {
+      "slug": "kdense-exploratory-data-analysis",
+      "kind": "skill",
+      "title": "K-Dense Exploratory Data Analysis",
+      "description": "Bounded, local EDA on explicit scientific files with leakage audits and rigorous report scaffolds.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Analysis",
+      "domain": "Data",
+      "url": "https://godofskills.com/skills/kdense-exploratory-data-analysis",
+      "rawUrl": "https://godofskills.com/r/skills/kdense-exploratory-data-analysis.md"
+    },
+    {
+      "slug": "kdense-market-research-reports",
+      "kind": "skill",
+      "title": "K-Dense Market Research Reports",
+      "description": "Build evidence-traceable market reports with source and claims ledgers and scenario-based market sizing.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Competitive Intel",
+      "domain": "Research",
+      "url": "https://godofskills.com/skills/kdense-market-research-reports",
+      "rawUrl": "https://godofskills.com/r/skills/kdense-market-research-reports.md"
+    },
+    {
+      "slug": "kwp-sales-call-prep",
+      "kind": "skill",
+      "title": "Knowledge Work: Sales Call Prep",
+      "description": "Build a pre-call brief with attendees, account history, transcripts, open opportunity status and discovery questions.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Outbound",
+      "domain": "Sales",
+      "url": "https://godofskills.com/skills/kwp-sales-call-prep",
+      "rawUrl": "https://godofskills.com/r/skills/kwp-sales-call-prep.md"
+    },
+    {
+      "slug": "kwp-sales-draft-outreach",
+      "kind": "skill",
+      "title": "Knowledge Work: Draft Outreach",
+      "description": "Draft a personalized email or multi-touch sequence, save it as a draft and add the contact to a sequence on request.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Cold Email & DMs",
+      "domain": "Sales",
+      "url": "https://godofskills.com/skills/kwp-sales-draft-outreach",
+      "rawUrl": "https://godofskills.com/r/skills/kwp-sales-draft-outreach.md"
+    },
+    {
+      "slug": "kwp-sales-account-research",
+      "kind": "skill",
+      "title": "Knowledge Work: Account Research",
+      "description": "Research a target company and contact: overview, recent news, likely priorities and ICP fit, cross-checked with the CRM.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Outbound",
+      "domain": "Sales",
+      "url": "https://godofskills.com/skills/kwp-sales-account-research",
+      "rawUrl": "https://godofskills.com/r/skills/kwp-sales-account-research.md"
+    },
+    {
+      "slug": "kwp-sales-competitive-intelligence",
+      "kind": "skill",
+      "title": "Knowledge Work: Competitive Intelligence",
+      "description": "Two modes: an in-deal play against a named rival, and win/loss patterns and battlecards across the book.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Competitive Intel",
+      "domain": "Research",
+      "url": "https://godofskills.com/skills/kwp-sales-competitive-intelligence",
+      "rawUrl": "https://godofskills.com/r/skills/kwp-sales-competitive-intelligence.md"
+    },
+    {
+      "slug": "kwp-marketing-campaign-plan",
+      "kind": "skill",
+      "title": "Knowledge Work: Campaign Plan",
+      "description": "Generate a full campaign brief with objectives, audience, messaging, channel strategy and a content calendar.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Strategy",
+      "domain": "Business",
+      "url": "https://godofskills.com/skills/kwp-marketing-campaign-plan",
+      "rawUrl": "https://godofskills.com/r/skills/kwp-marketing-campaign-plan.md"
+    },
+    {
+      "slug": "kwp-marketing-email-sequence",
+      "kind": "skill",
+      "title": "Knowledge Work: Email Sequence",
+      "description": "Design and write multi-email sequences with timing, branching, exit conditions and benchmarks.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Email Marketing",
+      "domain": "Marketing",
+      "url": "https://godofskills.com/skills/kwp-marketing-email-sequence",
+      "rawUrl": "https://godofskills.com/r/skills/kwp-marketing-email-sequence.md"
+    },
+    {
+      "slug": "kwp-marketing-performance-report",
+      "kind": "skill",
+      "title": "Knowledge Work: Performance Report",
+      "description": "Turn campaign data into an executive-ready report with trends, wins, misses and next-period priorities.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Analysis",
+      "domain": "Data",
+      "url": "https://godofskills.com/skills/kwp-marketing-performance-report",
+      "rawUrl": "https://godofskills.com/r/skills/kwp-marketing-performance-report.md"
+    },
+    {
+      "slug": "kwp-data-statistical-analysis",
+      "kind": "skill",
+      "title": "Knowledge Work: Statistical Analysis",
+      "description": "Descriptive statistics, trends, outlier detection and hypothesis testing, with cautions on over-claiming.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Analysis",
+      "domain": "Data",
+      "url": "https://godofskills.com/skills/kwp-data-statistical-analysis",
+      "rawUrl": "https://godofskills.com/r/skills/kwp-data-statistical-analysis.md"
+    },
+    {
+      "slug": "kwp-data-visualization",
+      "kind": "skill",
+      "title": "Knowledge Work: Data Visualization",
+      "description": "Choose the right chart and build it in matplotlib, seaborn or plotly with accessible design.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Analysis",
+      "domain": "Data",
+      "url": "https://godofskills.com/skills/kwp-data-visualization",
+      "rawUrl": "https://godofskills.com/r/skills/kwp-data-visualization.md"
+    },
+    {
+      "slug": "kwp-engineering-incident-response",
+      "kind": "skill",
+      "title": "Knowledge Work: Incident Response",
+      "description": "Run an incident from triage through communication to a blameless postmortem, with SEV1 to SEV4 levels.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code"
+      ],
+      "category": "Cloud, Infra & Monitoring",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/kwp-engineering-incident-response",
+      "rawUrl": "https://godofskills.com/r/skills/kwp-engineering-incident-response.md"
+    },
+    {
+      "slug": "prompt-master",
+      "kind": "skill",
+      "title": "Prompt Master",
+      "description": "Write, fix and adapt prompts for specific AI tools, from LLMs and coding agents to image and video models.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "AI Engineering",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/prompt-master",
+      "rawUrl": "https://godofskills.com/r/skills/prompt-master.md"
+    },
+    {
+      "slug": "planning-with-files",
+      "kind": "skill",
+      "title": "Planning with Files",
+      "description": "Keep task_plan.md, findings.md and progress.md on disk so long agent tasks survive resets and context drift.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "category": "Agent Utilities",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/skills/planning-with-files",
+      "rawUrl": "https://godofskills.com/r/skills/planning-with-files.md"
+    },
+    {
+      "slug": "chatterapi-mcp",
+      "kind": "mcp",
+      "title": "ChatterAPI MCP Server",
+      "description": "Reddit and X search, threads, users and lead finding for any agent, on one key and one credit balance.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Web Search & Scraping",
+      "domain": "Research",
+      "url": "https://godofskills.com/mcp-servers/chatterapi-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/chatterapi-mcp.md"
+    },
+    {
+      "slug": "github-mcp",
+      "kind": "mcp",
+      "title": "GitHub MCP Server",
+      "description": "GitHub's official server for repos, issues, pull requests and Actions, hosted by GitHub or run locally in Docker.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/github-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/github-mcp.md"
+    },
+    {
+      "slug": "jira-mcp",
+      "kind": "mcp",
+      "title": "Jira MCP Server (Atlassian)",
+      "description": "Atlassian's hosted server for Jira and Confluence, plus Bitbucket, Compass and Loom, signed in with OAuth.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Project & Team Tools",
+      "domain": "Operations",
+      "url": "https://godofskills.com/mcp-servers/jira-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/jira-mcp.md"
+    },
+    {
+      "slug": "mcp-atlassian",
+      "kind": "mcp",
+      "title": "MCP Atlassian",
+      "description": "The popular community server for Jira and Confluence that also works with Server and Data Center installs.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Project & Team Tools",
+      "domain": "Operations",
+      "url": "https://godofskills.com/mcp-servers/mcp-atlassian",
+      "rawUrl": "https://godofskills.com/r/skills/mcp-atlassian.md"
+    },
+    {
+      "slug": "notion-mcp",
+      "kind": "mcp",
+      "title": "Notion MCP Server",
+      "description": "Notion's hosted server: search, read and edit pages and databases under your own Notion permissions.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Project & Team Tools",
+      "domain": "Operations",
+      "url": "https://godofskills.com/mcp-servers/notion-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/notion-mcp.md"
+    },
+    {
+      "slug": "linear-mcp",
+      "kind": "mcp",
+      "title": "Linear MCP Server",
+      "description": "Linear's hosted server for finding, creating and updating issues, projects and comments from any agent.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Project & Team Tools",
+      "domain": "Operations",
+      "url": "https://godofskills.com/mcp-servers/linear-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/linear-mcp.md"
+    },
+    {
+      "slug": "slack-mcp",
+      "kind": "mcp",
+      "title": "Slack MCP Server",
+      "description": "Slack's own hosted server for searching, reading and posting messages, canvases and lists, approved by your admin.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Project & Team Tools",
+      "domain": "Operations",
+      "url": "https://godofskills.com/mcp-servers/slack-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/slack-mcp.md"
+    },
+    {
+      "slug": "slack-mcp-server",
+      "kind": "mcp",
+      "title": "Slack MCP Server (community)",
+      "description": "A community Slack server that runs locally on your own token, with message posting off until you enable it.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Project & Team Tools",
+      "domain": "Operations",
+      "url": "https://godofskills.com/mcp-servers/slack-mcp-server",
+      "rawUrl": "https://godofskills.com/r/skills/slack-mcp-server.md"
+    },
+    {
+      "slug": "sentry-mcp",
+      "kind": "mcp",
+      "title": "Sentry MCP Server",
+      "description": "Sentry's hosted server for debugging: issues, stack traces, traces and logs, scoped to a project.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Cloud, Infra & Monitoring",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/sentry-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/sentry-mcp.md"
+    },
+    {
+      "slug": "stripe-mcp",
+      "kind": "mcp",
+      "title": "Stripe MCP Server",
+      "description": "Stripe's hosted server for reading and writing Stripe data, searching the docs and planning an integration.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Payments & Billing",
+      "domain": "Business",
+      "url": "https://godofskills.com/mcp-servers/stripe-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/stripe-mcp.md"
+    },
+    {
+      "slug": "cloudflare-mcp",
+      "kind": "mcp",
+      "title": "Cloudflare MCP Servers",
+      "description": "Cloudflare's hosted servers: one API server for the whole platform, plus focused servers for docs, containers and more.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Cloud, Infra & Monitoring",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/cloudflare-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/cloudflare-mcp.md"
+    },
+    {
+      "slug": "supabase-mcp",
+      "kind": "mcp",
+      "title": "Supabase MCP Server",
+      "description": "Supabase's hosted server for tables, SQL, migrations, logs, edge functions and branches, with a read-only mode.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Databases",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/supabase-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/supabase-mcp.md"
+    },
+    {
+      "slug": "figma-mcp",
+      "kind": "mcp",
+      "title": "Figma MCP Server",
+      "description": "Figma's own hosted server: hand an agent a frame link and it reads the real layout, variables and components.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Design Tools",
+      "domain": "Creative",
+      "url": "https://godofskills.com/mcp-servers/figma-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/figma-mcp.md"
+    },
+    {
+      "slug": "framelink-figma-mcp",
+      "kind": "mcp",
+      "title": "Framelink MCP for Figma",
+      "description": "A community server that reads Figma files through the REST API and trims them to the layout data a model needs.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Design Tools",
+      "domain": "Creative",
+      "url": "https://godofskills.com/mcp-servers/framelink-figma-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/framelink-figma-mcp.md"
+    },
+    {
+      "slug": "playwright-mcp",
+      "kind": "mcp",
+      "title": "Playwright MCP",
+      "description": "Microsoft's server for driving a real browser, reading pages as accessibility snapshots rather than screenshots.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Browser Automation",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/playwright-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/playwright-mcp.md"
+    },
+    {
+      "slug": "context7-mcp",
+      "kind": "mcp",
+      "title": "Context7 MCP Server",
+      "description": "Upstash's server that feeds the agent current, version-specific library docs instead of training-data guesses.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/context7-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/context7-mcp.md"
+    },
+    {
+      "slug": "filesystem-mcp",
+      "kind": "mcp",
+      "title": "Filesystem MCP Server",
+      "description": "The MCP project's reference server for reading, writing, editing and searching files inside folders you allow.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Agent Utilities",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/filesystem-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/filesystem-mcp.md"
+    },
+    {
+      "slug": "fetch-mcp",
+      "kind": "mcp",
+      "title": "Fetch MCP Server",
+      "description": "The reference server for fetching a web page and handing it to the model as markdown.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Web Search & Scraping",
+      "domain": "Research",
+      "url": "https://godofskills.com/mcp-servers/fetch-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/fetch-mcp.md"
+    },
+    {
+      "slug": "memory-mcp",
+      "kind": "mcp",
+      "title": "Memory MCP Server",
+      "description": "The reference server that gives a model persistent memory as a local knowledge graph stored in one file.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Agent Utilities",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/memory-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/memory-mcp.md"
+    },
+    {
+      "slug": "sequential-thinking-mcp",
+      "kind": "mcp",
+      "title": "Sequential Thinking MCP Server",
+      "description": "A reference server with one tool that makes the model reason in numbered, revisable steps.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Agent Utilities",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/sequential-thinking-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/sequential-thinking-mcp.md"
+    },
+    {
+      "slug": "git-mcp",
+      "kind": "mcp",
+      "title": "Git MCP Server",
+      "description": "The reference server for reading and changing local Git repositories: status, diffs, log, commits and branches.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/git-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/git-mcp.md"
+    },
+    {
+      "slug": "time-mcp",
+      "kind": "mcp",
+      "title": "Time MCP Server",
+      "description": "The reference server that tells a model the current time in any timezone and converts between zones.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Agent Utilities",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/time-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/time-mcp.md"
+    },
+    {
+      "slug": "chrome-devtools-mcp",
+      "kind": "mcp",
+      "title": "Chrome DevTools MCP",
+      "description": "Google's server that lets an agent drive and inspect a live Chrome, with DevTools-grade network, console and performance data.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Browser Automation",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/chrome-devtools-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/chrome-devtools-mcp.md"
+    },
+    {
+      "slug": "postgres-mcp",
+      "kind": "mcp",
+      "title": "Postgres MCP Pro",
+      "description": "A Postgres server that goes past running queries: index tuning, EXPLAIN review and health checks, with a read-only mode.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Databases",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/postgres-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/postgres-mcp.md"
+    },
+    {
+      "slug": "n8n-mcp",
+      "kind": "mcp",
+      "title": "n8n-MCP",
+      "description": "A community server that teaches an agent n8n's node catalogue, then lets it build, validate and deploy workflows.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Workflow Automation",
+      "domain": "Operations",
+      "url": "https://godofskills.com/mcp-servers/n8n-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/n8n-mcp.md"
+    },
+    {
+      "slug": "firecrawl-mcp",
+      "kind": "mcp",
+      "title": "Firecrawl MCP Server",
+      "description": "Firecrawl's server for web search, scraping pages to markdown or JSON, mapping sites and crawling them.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Web Search & Scraping",
+      "domain": "Research",
+      "url": "https://godofskills.com/mcp-servers/firecrawl-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/firecrawl-mcp.md"
+    },
+    {
+      "slug": "exa-mcp",
+      "kind": "mcp",
+      "title": "Exa MCP Server",
+      "description": "Exa's hosted server for neural web search and fetching pages as clean markdown, usable without a key.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Web Search & Scraping",
+      "domain": "Research",
+      "url": "https://godofskills.com/mcp-servers/exa-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/exa-mcp.md"
+    },
+    {
+      "slug": "brave-search-mcp",
+      "kind": "mcp",
+      "title": "Brave Search MCP Server",
+      "description": "Brave's server for web, news, image, video and local search, plus page content sized for grounding a model.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Web Search & Scraping",
+      "domain": "Research",
+      "url": "https://godofskills.com/mcp-servers/brave-search-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/brave-search-mcp.md"
+    },
+    {
+      "slug": "tavily-mcp",
+      "kind": "mcp",
+      "title": "Tavily MCP Server",
+      "description": "Tavily's server for real-time search, page extraction, site mapping and crawling, built for agents.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Web Search & Scraping",
+      "domain": "Research",
+      "url": "https://godofskills.com/mcp-servers/tavily-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/tavily-mcp.md"
+    },
+    {
+      "slug": "apify-mcp",
+      "kind": "mcp",
+      "title": "Apify MCP Server",
+      "description": "Apify's server that turns any of thousands of ready-made scrapers in the Apify Store into a tool an agent can call.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Web Search & Scraping",
+      "domain": "Research",
+      "url": "https://godofskills.com/mcp-servers/apify-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/apify-mcp.md"
+    },
+    {
+      "slug": "mongodb-mcp",
+      "kind": "mcp",
+      "title": "MongoDB MCP Server",
+      "description": "MongoDB's server for querying and managing databases, plus Atlas administration, read-only by default in every example.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Databases",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/mongodb-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/mongodb-mcp.md"
+    },
+    {
+      "slug": "neon-mcp",
+      "kind": "mcp",
+      "title": "Neon MCP Server",
+      "description": "Neon's hosted server for serverless Postgres: projects, branches and SQL, with migrations tested on a branch first.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Databases",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/neon-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/neon-mcp.md"
+    },
+    {
+      "slug": "grafana-mcp",
+      "kind": "mcp",
+      "title": "Grafana MCP Server",
+      "description": "Grafana Labs' server for dashboards, Prometheus and Loki queries, incidents, alerts and on-call, read-only if you want.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Cloud, Infra & Monitoring",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/grafana-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/grafana-mcp.md"
+    },
+    {
+      "slug": "desktop-commander-mcp",
+      "kind": "mcp",
+      "title": "Desktop Commander MCP",
+      "description": "A community server that gives a chat client your terminal and filesystem: long-running processes, search and surgical edits.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Agent Utilities",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/desktop-commander-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/desktop-commander-mcp.md"
+    },
+    {
+      "slug": "serena-mcp",
+      "kind": "mcp",
+      "title": "Serena MCP Server",
+      "description": "A coding toolkit that works on symbols, like an IDE does: find, reference, rename and edit functions across 40+ languages.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/serena-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/serena-mcp.md"
+    },
+    {
+      "slug": "claude-code-mcp",
+      "kind": "mcp",
+      "title": "Claude Code as an MCP Server",
+      "description": "Run claude mcp serve and Claude Code's own tools (read, edit, shell and more) become an MCP server other apps can use.",
+      "paid": false,
+      "tested": true,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Code & Dev Workflow",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/claude-code-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/claude-code-mcp.md"
+    },
+    {
+      "slug": "azure-mcp",
+      "kind": "mcp",
+      "title": "Azure MCP Server",
+      "description": "Microsoft's server for dozens of Azure services, from Storage and Cosmos DB to AKS and Monitor, using your existing Azure login.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Cloud, Infra & Monitoring",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/azure-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/azure-mcp.md"
+    },
+    {
+      "slug": "perplexity-mcp",
+      "kind": "mcp",
+      "title": "Perplexity MCP Server",
+      "description": "Perplexity's server for web search, quick answers, deep research and reasoning, hosted or run locally.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Web Search & Scraping",
+      "domain": "Research",
+      "url": "https://godofskills.com/mcp-servers/perplexity-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/perplexity-mcp.md"
+    },
+    {
+      "slug": "mcp-toolbox-databases",
+      "kind": "mcp",
+      "title": "MCP Toolbox for Databases",
+      "description": "Google's open-source server for connecting agents to Postgres, MySQL, BigQuery, Spanner and many more, prebuilt or custom.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Databases",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/mcp-toolbox-databases",
+      "rawUrl": "https://godofskills.com/r/skills/mcp-toolbox-databases.md"
+    },
+    {
+      "slug": "vercel-mcp",
+      "kind": "mcp",
+      "title": "Vercel MCP",
+      "description": "Vercel's hosted server for projects, deployments and logs, plus domains, env vars and more, signed in with OAuth.",
+      "paid": false,
+      "tested": false,
+      "tools": [
+        "Claude Code",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "Cloud, Infra & Monitoring",
+      "domain": "Engineering",
+      "url": "https://godofskills.com/mcp-servers/vercel-mcp",
+      "rawUrl": "https://godofskills.com/r/skills/vercel-mcp.md"
     },
     {
       "slug": "ai-dslr-photography",
