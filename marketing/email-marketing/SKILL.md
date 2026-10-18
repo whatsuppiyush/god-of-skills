@@ -157,9 +157,6 @@ Ecommerce/DTC with product-view tracking (Klaviyo, Shopify + pixel). Set it up a
 - Browse-abandonment emails see 50.5% higher CTR and 80.9% higher open rate vs standard emails.
 - Distinct from cart-abandonment, earlier signal, larger audience, softer tone.
 
-## → Skill conversion note
-A "browse-abandonment flow generator": takes {product data, review source, complementary SKUs} and drafts the triggered email (PDP CTA + objection/social-proof block + cross-sell), plus the trigger rule.
-
 ### Personalize with dynamic content blocks and only send promos to behavior-qualified subscribers
 
 ## The strategy
@@ -181,9 +178,6 @@ Once you have basic behavioral tracking (page visits, past purchases, survey ans
 ## Notes / caveats / examples
 - Sending only to behavior-qualified segments keeps list-wide engagement metrics high, which sustains inbox placement for everyone.
 - Dynamic blocks reduce production overhead vs building/segmenting separate campaigns for every variant.
-
-## → Skill conversion note
-A "dynamic-email planner": takes {available signals, offer} and outputs the conditional block matrix (segment → block content → fallback) plus the behavioral rule that decides who receives the send at all.
 
 ### Land in the inbox, list hygiene, SPF/DKIM/DMARC, IP warmup, and sender-reputation signals
 
@@ -210,9 +204,6 @@ Setting up or troubleshooting an opted-in email program, especially before scali
 - **Spam-filter triggers to avoid:** excessive links, false "FW:/RE:" prefixes, too many images relative to text, heavy HTML.
 - **Proof:** a well-pruned growth newsletter can sustain a 46% open rate via ongoing hygiene.
 - Definitions: *delivery* = reached the server (incl. spam); *deliverability* = reached the inbox; *Sender Score* = 1-100 rating.
-
-## → Skill conversion note
-Becomes a deliverability audit prompt: input {domain, ESP, monthly volume, list age} → outputs an authentication checklist (SPF/DKIM/DMARC), an IP-warmup schedule, and a hygiene/pruning plan.
 
 ### 15 real marketing-email teardowns mapped to the tactic each one demonstrates (welcome, win-back, cart, promo)
 
@@ -253,9 +244,6 @@ Match your email type to a pattern:
 ## Notes / caveats / examples
 - **Four-part framework:** subject (appealing, ≤50 chars, self-evident) → design (simple, negative space, mobile-first, compressed images) → body (aggressively concise, fulfill the subject, tease value behind the CTA, social proof) → single goal (one CTA; welcome emails are the exception and can offer a "choose your own adventure").
 
-## → Skill conversion note
-Becomes a pattern-library reference the drafting skill cites: given an email type, it retrieves the matching exemplar + the tactic to copy, then checks the draft's four elements ladder to one goal.
-
 ### Grow an email list with the right lead magnet + traffic source (10 magnet types, 7 channels)
 
 ## The strategy
@@ -290,9 +278,6 @@ Building or scaling an owned email list for ecommerce, SaaS, B2B, or creator bra
 - **Quality > volume:** a valuable magnet attracts quality subscribers (reciprocity); small paid commitments (tripwires) lift future purchases (commitment principle).
 - **Tools:** CRM (HubSpot, Pipedrive), ESP (Klaviyo, Mailchimp, ConvertKit, Drip), landing pages (Unbounce, Instapage, ClickFunnels), capture (Sumo, Privy, WP Forms).
 
-## → Skill conversion note
-Becomes a list-growth planner: input {business model, existing traffic} → recommends 1-3 lead magnets and the best-fit channels with UTM/tracking setup.
-
 ### The 9 email KPIs worth tracking (with formulas + industry benchmarks), and why open rate isn't one
 
 ## The strategy
@@ -318,9 +303,6 @@ Track these 9, with formulas and targets:
 - **Skip open rate.** If you must proxy reach, use *open reach rate* = unique subscribers opening ≥1 email in a period / subscribers who received emails × 100.
 - Also monitor spam complaints, unsubscribe rate, and inbox placement rate.
 - Strongest lever across nearly all metrics: writing genuinely valuable content + segmentation.
-
-## → Skill conversion note
-Becomes a KPI-calculator/report skill: input raw counts → returns each metric, flags it vs the benchmark, and names the top improvement tactic for whichever is underperforming.
 
 ### Stand up an email program, pick the right ESP, send at 10am local, track the metrics that matter, prune quarterly
 
@@ -349,9 +331,6 @@ Choosing tooling and cadence for a new email program, or tuning an existing one 
 - **Compliance:** double opt-in, ethical collection, GDPR / CAN-SPAM / CCPA / CASL.
 - Content standard: only email people who want it; show the brand solving a real problem; avoid generic promotional language.
 
-## → Skill conversion note
-Becomes a program-setup wizard: input {business model, list size, region mix} → recommends an ESP, a send-time default, a metrics dashboard (excluding open rate), and a quarterly-pruning schedule.
-
 ### Sell with a multi-email sequence, a 6-email PAS arc, a minimum-viable-commitment close, and non-percentage incentives
 
 ## The strategy
@@ -376,9 +355,6 @@ Course/product launches, cohort opens, high-consideration DTC or B2B offers, and
 - MVC close (issue #075): the final-48h job is to remove risk, not just add pressure.
 - Big-ticket incentive framing (issue #073): absolute dollars beat percentages when the price is high.
 - Keep each email single-goal; the CTA in emails 1-5 can be "read the story", only the offer emails ask for the sale.
-
-## → Skill conversion note
-A "launch-sequence writer": takes {product, price, proof, deadline} and drafts the 6-email PAS arc + an MVC close, choosing percentage vs absolute-dollar incentive based on price point.
 
 ### Segment a list four ways (demographic, psychographic, relationship, behavioral) to earn 760% more revenue
 
@@ -405,9 +381,6 @@ Any list large or varied enough that subscribers differ by location, interest, r
 ## Notes / caveats / examples
 - **Benchmarks:** 760% more revenue from segmented campaigns; 80% of consumers expect personalization.
 - **Tools:** Mailchimp, Customer.io, Klaviyo; advanced: HubSpot, Segment (CDP).
-
-## → Skill conversion note
-Becomes a segmentation-planner skill: input {available data fields, business model} → outputs a prioritized segment map with a trigger + tailored message angle for each.
 
 ### A 17-step framework for writing an opted-in marketing email (persona → subject → copy → CTA → test)
 
@@ -447,9 +420,6 @@ Writing broadcasts, newsletters, drip/lifecycle emails, or promos to an opted-in
 - Core copywriting rule: **brief + beneficial = all great email copy**; "help your readers, do it succinctly."
 - Legal microcopy can carry brand voice (Chubbies' playful unsubscribe line).
 
-## → Skill conversion note
-Becomes a guided email-drafting skill that walks {persona, brand-voice line, campaign type, one goal} → outputs subject + preview + body + CTA and a pre-send QA checklist.
-
 ### Grow a newsletter with cross-promo recommendation widgets, social teasers, and a paid mini-course funnel
 
 ## The strategy
@@ -471,9 +441,6 @@ Once a newsletter has a consistent send and something worth recommending; especi
 - SparkLoop/Substack recs: 78% of Lenny's new subs, 11% → paid.
 - Paid mini-course doubles as a lead filter AND a credibility/upsell asset.
 - These plays pull higher intent than a broad lead magnet because the subscriber self-selects on topic.
-
-## → Skill conversion note
-A "newsletter growth planner": given {niche, existing content, platform} it outputs a prioritized set, rec-widget setup, 3 social teaser templates, and a 7-day mini-course outline with the upsell path.
 
 ### Optimize opt-in popups, outcome-led copy, social proof, the 60% timing rule, and dynamic segment variants
 
@@ -504,9 +471,6 @@ After you have a lead magnet and traffic (see `email-list-growth-lead-magnets.md
 - **Tools:** Sumo, Privy, JustUno, WP Forms.
 - Always match the incentive to the page context, a keto post should pop a keto shopping-list upgrade, not a generic newsletter ask.
 
-## → Skill conversion note
-Becomes a popup-copy generator: input {page topic, lead magnet, avg time-on-page, visitor segment} → outputs outcome-led header + social-proof line + value CTA and the 60%-rule trigger timing.
-
 ### Choose the sender name by email TYPE, brand, human, or hybrid, and trim it so clients don't truncate it
 
 ## The strategy
@@ -527,9 +491,6 @@ Auditing an ESP account's sender names, standing up a new email program, or diag
 ## Notes / caveats / examples
 - Keep the sender name consistent within a flow so the relationship compounds; don't rotate names randomly.
 - Reply-prompting subject lines pair with human sender names to build the reply signal deliverability rewards.
-
-## → Skill conversion note
-A "sender-name auditor" skill: takes {list of flows + email types} and returns the recommended sender name for each (brand / hybrid / full-name) plus a truncation-safe short version.
 
 ### Choose single vs double opt-in by three variables, not by default, and back it with real list hygiene
 
@@ -556,9 +517,6 @@ Setting up a new signup form, migrating ESPs, or fixing a deliverability slide w
 - Single opt-in + Kickbox validation + auto win-back → 40-45% opens sustained for 4 years (issue #147).
 - Double opt-in is the safer default when you lack a dedicated email owner or are recovering reputation.
 
-## → Skill conversion note
-A decision-helper skill: input {team bandwidth, 6-month engagement trend, reputation status} → recommend single vs double opt-in, plus the hygiene checklist required to make the chosen model safe.
-
 ### Treat unsubscribes as a health signal, benchmark ≤0.5%, add a top-of-email unsub link, and offer a snooze
 
 ## The strategy
@@ -578,9 +536,6 @@ Ongoing, for any recurring newsletter or promotional program; especially when op
 - HiSmile: snooze option beside unsubscribe reduces permanent churn.
 - Making unsubscribe easy is a deliverability strategy, not a leak to plug.
 
-## → Skill conversion note
-A "list-health monitor" spec: given unsubscribe/complaint/snooze rates per campaign, flag breaches of the ≤0.5% benchmark and recommend cadence/segment fixes plus snooze-link and top-link placement.
-
 ### Engineer the welcome & confirmation moment, delay the welcome 15-45 min and add sniper links to lift confirmations
 
 ## The strategy
@@ -598,9 +553,6 @@ Any signup, waitlist, or double-opt-in flow where the first system email fires t
 ## Notes / caveats / examples
 - Sniper links: Growth Design saw +7% confirmations, recovering ~30% of non-confirmers.
 - Don't confuse the welcome delay with transactional receipts (order/payment confirmations must be instant); the delay applies only to the marketing welcome.
-
-## → Skill conversion note
-A "welcome-flow timing generator": takes {signup source, intent level, ESP} and outputs the delay window, a reply-prompting welcome subject/body, and a ready-to-paste sniper link for the confirmation email.
 
 ---
 

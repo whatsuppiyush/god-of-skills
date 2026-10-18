@@ -113,9 +113,6 @@ Adaface opens by attacking the status quo ("hiring is broken," "resumes are misl
 - The intentional-jargon move trades traffic volume for lead quality, only use it if fit matters more than reach.
 - Transferable core: **counter-narrative hook + red/green old-vs-new framing + negative-claim objection handling + intentional-jargon filtering**.
 
-## → Skill conversion note
-Becomes a "counter-narrative hook + lead-filter" skill: input category + status quo, output an attacking headline, a red/green old-vs-new frame, a "what we don't do" objection list, and a niche-jargon vocabulary set to filter for fit.
-
 ### How Ahrefs converts trials with a content-led funnel and social proof (what you can copy)
 
 ## The strategy
@@ -139,9 +136,6 @@ Ahrefs treats education as its main conversion lever: the more SEO a user learns
 - Real numbers cited: $7/7-day trial, 4.93★ rating format, "10,000 SEO-obsessed marketers" community.
 - Critique: Ahrefs under-uses real product screenshots (cartoons instead of UI) and separates the demo video from the feature section, both slow comprehension. Copy the funnel logic, not those two misses.
 - The core insight is the education→conversion causal loop; it only works if your product genuinely rewards a more skilled user.
-
-## → Skill conversion note
-Becomes a "content-led trial funnel auditor" skill: given a SaaS landing page + trial model, check for the 7 elements (paid micro-trial, live social proof, decimal ratings, persona-filtered testimonials, education-as-nav, community hook, loss-aversion close) and output the gaps.
 
 ### Amazon mobile product-page teardown, the behavioral-design tricks on the highest-converting page on the internet (what you can copy)
 
@@ -167,9 +161,6 @@ Designing or auditing a mobile product page or checkout for conversion.
 ## Notes / caveats / examples
 - These are the same primitives found across landing-page teardowns, applied to the highest-traffic mobile commerce page in the world.
 
-## → Skill conversion note
-Strong skill candidate: a "mobile product page auditor" checklist that scores a page against Amazon's principles, social-proof placement, price rendering, Fitts's Law action placement, and a one-tap win.
-
 ### Clearscope teardown, validate by asking for advice, acquire via warm network, retain via hands-on customer success
 
 ## The strategy
@@ -190,9 +181,6 @@ Founders of high-ticket B2B/SaaS tools who have a network and can sell high-touc
 - Org model: keep the "life blood" in-house (product = Kevin Su; customer success = Bernard); outsource non-core work (contract content writers, onboarding guides).
 - Key lesson (Jobs-to-Be-Done): consulting clients ≠ software customers, "people hire a consultant because they want *you* to do the work; software requires *them* to do the work."
 - Bernard's advice for founders today: tap your network with honest personalized outreach; create quality content to differentiate; invest heavily in social proof for expensive products; win over recognized experts for credibility.
-
-## → Skill conversion note
-Becomes a `warm-network-gtm` prompt: input a founder's LinkedIn export + product, output a tiered outreach sequence, an advice-first validation email, and a customer-success check-in cadence with a case-study capture plan.
 
 ### How ClickUp wins switchers with a "one app replaces all" consolidation wedge (what you can copy)
 
@@ -220,9 +208,6 @@ ClickUp frames every choice as "one app vs. an assortment of inferior apps." It 
 - The consolidation wedge only works if you genuinely span the jobs of the tools you name, otherwise the switch reverses fast.
 - Naming competitors is aggressive; it works here because ClickUp is confidently broader, not marginally different.
 
-## → Skill conversion note
-Becomes a "consolidation-wedge positioning" skill: input your category + the 2-4 tools you replace, output header/subheader copy, a switching-cost-reduction section, and the social-proof mix (scale + breadth) needed to make the wedge credible.
-
 ### How Customer.io self-qualifies buyers and closes on trust for a data-savvy audience (what you can copy)
 
 ## The strategy
@@ -248,9 +233,6 @@ Customer.io deliberately narrows its funnel: it names its buyer bluntly ("tech-s
 - Key principle: "no amount of painkilling features will win a user over without establishing trust", hence trust blocks sit next to the closing CTA.
 - The transferable core is **self-qualifying headline + outcome-led copy + end-of-page trust stack** for a sophisticated audience.
 
-## → Skill conversion note
-Becomes a "self-qualifying funnel" skill: input product + a narrow ICP, output a naming-the-buyer headline, outcome-led value prop, and an end-of-page trust stack (privacy, deliverability, support) mapped to the ICP's specific fears.
-
 ### Garmin teardown, how raising R&D during a downturn plus vertical integration outran a collapsing core market (what you can copy)
 
 ## The strategy
@@ -272,9 +254,6 @@ Facing a structural threat to your core market, or deciding whether to cut or in
 ## Notes / caveats / examples
 - Pairs with the strategy-fundamentals "expansion-and-s-curves" card, Garmin's adjacent-niche pivots (Forerunner, Approach S1, fēnix) are the product side of the same story.
 
-## → Skill conversion note
-Lower skill value (a strategic case study); illustrates the "invest-through-downturn + vertical-integration" pattern for a resilience playbook.
-
 ### Hack distribution" teardown, how Airbnb and TikTok piggybacked on bigger platforms' audiences (what you can copy)
 
 ## The strategy
@@ -294,9 +273,6 @@ Early-stage distribution when a much larger platform already aggregates your aud
 
 ## Notes / caveats / examples
 - These moves live in a gray area of platform terms, Craigslist eventually shut Airbnb's integration down. Use the borrowed audience to build your own before the door closes.
-
-## → Skill conversion note
-Lower skill value (a distribution pattern); could become a "piggyback finder" that lists larger platforms aggregating a product's audience and the integration/listing tactic to borrow them.
 
 ### Lovable teardown, how a viral coefficient above 1 and heavy marketing spend produced $17M ARR in three months (benchmarks you can copy)
 
@@ -320,9 +296,6 @@ Benchmarking your own launch trajectory, setting viral-coefficient and spend exp
 ## Notes / caveats / examples
 - The lesson is sequencing: virality (K>1) earns the right to spend; spending on a K<1 product just buys a temporary spike.
 
-## → Skill conversion note
-Lower skill value (a benchmark case study); could feed a "viral growth benchmark" reference that compares a product's K-factor and spend to Lovable's figures.
-
 ### Oatly teardown, how turning regulatory opposition into marketing fuel amplified the brand (what you can copy)
 
 ## The strategy
@@ -343,9 +316,6 @@ When a powerful incumbent or regulator opposes you, and the fight itself is news
 
 ## Notes / caveats / examples
 - Only works with a genuine challenger narrative and a real, sympathetic conflict, manufactured outrage reads as cynical.
-
-## → Skill conversion note
-Lower skill value (a brand-campaign case study); illustrates the "turn opposition into fuel" pattern for challenger-brand positioning.
 
 ### How Segment sells one platform to three buyers with persona mini-landing-pages (what you can copy)
 
@@ -372,9 +342,6 @@ Segment's product serves marketing, product, and engineering teams, so the page 
 - Caveat: diagram angles/perspective must communicate value at a glance, a confusing hub visualization kills the whole abstract pitch.
 - The reusable core is the **per-persona mini-page → dedicated URL** structure and the before/after transformation device.
 
-## → Skill conversion note
-Becomes a "multi-persona landing architecture" skill: input product + list of buyer personas, output a section plan with a mini-pitch + role-specific proof + dedicated-URL handoff per persona, plus a before/after transformation concept.
-
 ### Long-form video ad teardown, open with a strong question hook and plant a secondary re-hook halfway through to survive the scroll
 
 ## The strategy
@@ -392,9 +359,6 @@ Scripting long-form video ads (YouTube, connected TV, long social video) where w
 ## Notes / caveats / examples
 - The question format works because it triggers involuntary self-reflection, the viewer answers in their head before deciding to scroll.
 - Two hooks (open + mid) is the structural insight: most ads plan only the opener and lose the middle.
-
-## → Skill conversion note
-Strong skill candidate: a "video ad structurer" that generates an opening question hook and a mid-point re-hook for a given product/audience, placed against expected attention drop-off points.
 
 ### How Zapier sells automation to non-technical users with benefit-first copy and staged objection handling (what you can copy)
 
@@ -420,9 +384,6 @@ Zapier's whole page is built to make a technical product feel effortless to a no
 - Real numbers cited: "3 million people already using Zapier," 14-day free trial.
 - Assessment: a mature, multi-layered funnel with systematic objection handling at every stage. No channels or partnership tactics, this is pure landing-page persuasion architecture.
 - The transferable core is the **objection-handling sequence** (compatibility → skepticism → payment) and the terminology-ownership move.
-
-## → Skill conversion note
-Becomes an "objection-sequencing page builder" skill: input product + buyer persona + top 3 objections, output a page section order that neutralizes each objection before the CTA, plus a coined term for the core mechanism.
 
 ---
 

@@ -156,9 +156,6 @@ Creative testing when rational variants have plateaued; direct mail and physical
 - This is a *testing philosophy*, not a license to be random, you still measure everything; you just widen the idea set past what logic pre-approves.
 - Emotional creative that "stops the scroll" (dog ears on a $10K computer) works because attention is the scarce resource, not rational persuasion.
 
-## → Skill conversion note
-Weak skill candidate, it's a creative-testing mindset, not an automatable output. Best as a prompt/guide that pushes a team to add 2-3 deliberately "illogical" emotional variants to every test batch.
-
 ### Sell identity, not action, nouns-not-verbs and the MICE motivation framework
 
 ## The strategy
@@ -181,9 +178,6 @@ CTAs, membership/community messaging, cause and donation appeals, and any campai
 - MICE is a fast lens for "what's really driving this purchase?", most B2C copy defaults to Money and ignores Ideology and Ego, which often convert harder.
 - Pairs with the copywriting `benefit-of-the-benefit` card: identity is usually the top rung of the "so what?" ladder.
 
-## → Skill conversion note
-Skill: rewrite verb-based CTAs into identity nouns, and tag a piece of copy with its dominant MICE motive plus a suggested alternate-motive variant to test.
-
 ### Add a decoy tier to steer buyers toward your target option
 
 ## The strategy
@@ -203,9 +197,6 @@ Designing pricing pages and subscription tiers where you want to push buyers to 
 - Starbucks: Tall $3.75 / Grande $4.45 / Venti $4.75, Venti wins on cost per ounce ($0.23/oz vs $0.28 vs $0.31).
 - The Atlantic's Premium ($100/yr) makes "Print + Digital" ($90/yr) look better; Mailchimp's Essentials is a decoy that makes Standard (only $6/mo more) feel like a steal.
 
-## → Skill conversion note
-A "pricing-tier decoy designer" skill: given current tiers and the target plan, propose a decoy tier and per-unit-value framing that nudges selection.
-
 ### Direct the audience's attention, averted model gazes and withheld "puzzle" messaging
 
 ## The strategy
@@ -223,9 +214,6 @@ Ad and visual design, thumbnails, packaging, out-of-home, and any creative where
 - Gaze-cueing is nearly automatic, viewers follow a model's sightline before conscious thought, so a misdirected gaze wastes your most valuable pixels.
 - The "puzzle" effect only works if the reach is *slight*; too obscure and the audience gives up, too obvious and there's no reward.
 - Complements copywriting cards on tension/open loops (`narrative-tension`, `reframe-and-salience`), same principle applied to imagery.
-
-## → Skill conversion note
-Skill: audit an ad/creative for gaze direction (is the model looking at the product?) and message completeness (is there a slight puzzle, or is everything spelled out?), and suggest fixes.
 
 ### Give users a sense of ownership before they buy (endowment effect)
 
@@ -245,9 +233,6 @@ Signup CTAs, free-trial/freebie offers, cart-abandonment flows, and any "try it 
 - Livongo swapped "Join Livongo for Diabetes Today" for "Claim Your Livongo Welcome Kit Today" → 120% increase in registrations.
 - Fetch Rewards: "Don't let your 3,000 points expire!" frames rewards as already owned.
 
-## → Skill conversion note
-An "ownership-language rewriter" skill: rewrite CTAs and abandonment copy to possessive/claim framing and suggest try-on/visualization features by product type.
-
 ### Put a familiar UI in an unexpected ad context, texts, calendars, spreadsheets as the creative
 
 ## The strategy
@@ -266,9 +251,6 @@ Paid social and static ads, especially when you want a scroll-stopper that also 
 - Interface-matching is what separates a clever ad from a converting one, the wrong UI for the audience breaks the "this is for me" recognition.
 - Overlaps with the copywriting `fourth-wall-and-juxtaposition` card (juxtaposition), but the specific move here is *borrowing a real product UI* as the canvas.
 
-## → Skill conversion note
-Skill: given a product + audience, suggest which familiar interface to mock up (matched to the audience's daily tools) and draft the in-UI copy with a twist/punchline.
-
 ### Frame the same claim as a gain or a loss to match the product
 
 ## The strategy
@@ -285,9 +267,6 @@ Writing headlines, ad copy, and email subject lines, pick the frame that matches
 ## Notes / caveats / examples
 - DoorDash uses positive framing ("Everything delivered in 30 mins or less"); Postmates uses loss framing ("Don't miss out. Let Postmates make your life easier").
 
-## → Skill conversion note
-A "framing rewriter" skill: given a value prop, generate both gain-framed and loss-framed copy variants and recommend which fits the product category, with A/B test hypotheses.
-
 ### Show visible progress to pull users to the finish (goal gradient)
 
 ## The strategy
@@ -303,9 +282,6 @@ Complex signup/checkout flows (SaaS, meal kits, multi-step onboarding) with mid-
 
 ## Notes / caveats / examples
 - Adobe uses numbered step indicators during signup; Typeform's progress bar fills per question (used by Morning Brew); HelloFresh pins a fixed multi-step progress bar to prevent mid-checkout abandonment.
-
-## → Skill conversion note
-A "flow progress designer" skill: given a multi-step form, generate step labels, a progress-bar spec, and per-step encouragement copy.
 
 ### Choose high-arousal emotions and selfish-interest framing to drive action and sharing
 
@@ -325,9 +301,6 @@ Ad and social copy meant to be shared, headlines and hooks, content designed for
 - Sadness is the trap: it's emotional but *deactivating* (−16%), so a sad ad can lower action even while feeling "moving."
 - "Buy with emotion, justify with logic", lead with interest, then supply the rational reasons as backup.
 
-## → Skill conversion note
-Skill: score a piece of copy for its dominant emotion, flag low-arousal/contentment language, and suggest higher-arousal rewrites plus a reason-vs-interest split of the current benefits.
-
 ### Let customers co-create to boost attachment and price tolerance (IKEA effect)
 
 ## The strategy
@@ -346,9 +319,6 @@ Products that support customization, configuration, or user creation, and where 
 ## Notes / caveats / examples
 - Build-A-Bear charges $65 for a customer-made bear vs. $10-20 retail equivalents; HelloFresh has 261,000+ #HelloFreshPics posts; Nike By You offers free shoe customization; CustomInk runs design contests with store credit.
 
-## → Skill conversion note
-A "co-creation loop designer" skill: for a product, propose customization points, a template starter kit, and a user-generated-content sharing mechanic.
-
 ### Show the work so instant results feel more valuable (labor illusion)
 
 ## The strategy
@@ -363,9 +333,6 @@ Products that return results quickly but want them to feel considered and trustw
 
 ## Notes / caveats / examples
 - Canva shows a progress bar when downloading; Grammarly's plagiarism check says "We're checking your text against billions of web pages. It'll just take a moment", justifying the wait and building trust in accuracy.
-
-## → Skill conversion note
-A "processing-copy generator" skill: for a given feature, write step-by-step "here's what we're doing" microcopy and a progress-state sequence.
 
 ### Repeated, consistent exposure builds preference (mere exposure effect)
 
@@ -386,9 +353,6 @@ Any brand-building or retargeting effort; especially early-stage brands nobody r
 - Katelyn Bourgoin's "Why We Buy" newsletter added 4,000+ subscribers in 9 weeks using two weekly Twitter reminders.
 - Many newsletters use a numbered subject-line format ("Growth Newsletter #X") to stay recognizable in a crowded inbox.
 
-## → Skill conversion note
-A "brand-consistency checker" skill: given a set of campaign assets/subject lines, flag inconsistencies in format, voice, and visual identity that dilute recognition.
-
 ### Authentic, measurable social responsibility lifts brand preference
 
 ## The strategy
@@ -408,9 +372,6 @@ Brands with a genuine mission, especially DTC targeting younger buyers who scree
 - Who Gives A Crap ties sales to global sanitation; Everlane publishes an annual impact report; MOD Pizza integrates giving on its homepage (Trevor Project, Feeding America).
 - Authenticity is essential: inauthentic stances trigger backlash (CVS rainbow avatar during Pride despite conflicting donations; Pepsi/Kendall Jenner trivializing BLM).
 
-## → Skill conversion note
-Not a strong standalone skill, becomes a checklist item in a broader "brand positioning audit" that verifies claims are backed by published, measurable proof.
-
 ### Engineer emotional peaks and strong endings into the experience (peak-end rule)
 
 ## The strategy
@@ -426,9 +387,6 @@ Post-purchase, unboxing, onboarding completion, returns, and support, anywhere y
 ## Notes / caveats / examples
 - Chewy sends handwritten holiday cards, hand-painted pet portraits to loyal customers, and flowers when a customer loses a pet.
 - ParkMobile sends a virtual gift card after an app payment; Poshmark sellers include handwritten thank-you cards.
-
-## → Skill conversion note
-A "moment-designer" skill: map a customer journey and recommend one peak moment and one memorable ending per key touchpoint.
 
 ### Anchor prices with specific numbers, display order, and reverse-bundle framing
 
@@ -450,9 +408,6 @@ Pricing pages, product listings, sale/discount displays, bundles, and any offer 
 - Daily-price framing is strongest for subscriptions and higher-ticket annual plans.
 - Reverse-bundle framing inverts which item is "the purchase", powerful when the searched item and the anchor item are equal value.
 
-## → Skill conversion note
-Strong skill: input a price + plan structure and output anchored display variants, highest-first ordering, a daily-cost breakdown, a specific-quantity anchor, and a reverse-bundle framing option.
-
 ### Make information effortless to process to speed confident decisions
 
 ## The strategy
@@ -470,9 +425,6 @@ Auditing navigation, copy, popups, and checkout flows for anything that adds cog
 ## Notes / caveats / examples
 - Warby Parker's clean site ($249.3M revenue) contrasts with FramesDirect.com's cluttered layout ($46.2M revenue).
 - Apple's 1997 text-heavy site vs. its minimal 2022 site shows the industry-wide shift to simplicity.
-
-## → Skill conversion note
-A "friction/fluency auditor" skill: crawl a page/flow and flag nav-link count >7, reading level above grade 8, early popups, and excess checkout fields, with fixes.
 
 ### Lower resistance, not pressure, "but you are free to refuse" and avoiding the personalization creepiness ditch
 
@@ -494,9 +446,6 @@ CTAs and asks, donation/opt-in requests, retargeting cadence, and any personaliz
 - Retargeting frequency is a reactance problem in disguise: repetition past ~10 impressions converts curiosity into annoyance.
 - Relevance is the trust boundary, personalization that's helpful builds affinity; personalization that's judgmental burns it.
 
-## → Skill conversion note
-Skill: rewrite pressuring CTAs to include a freedom-affirming clause, and audit a retargeting/personalization setup against the creepiness-ditch rules (frequency cap, relevance, non-judgmental targeting).
-
 ### Match review type to product judgeability, and control the first review
 
 ## The strategy
@@ -514,9 +463,6 @@ Launching a product, choosing which review/testimonial types to feature, review-
 - The judgeability split is the insight: expert credibility resolves uncertainty for opaque products; peer credibility resolves it for experiential ones.
 - First-review anchoring is a primacy effect applied to social proof, a rough first review drags on perception long after the product improves.
 - Don't fake reviews; "control the first review" means *sequencing* who you invite to review, not fabricating them.
-
-## → Skill conversion note
-Weak skill candidate, a strategy checklist rather than an automatable tool. Best as a guide: classify a product as easy/hard-to-judge, recommend the review type to feature, and prescribe a seeded-first-review launch sequence.
 
 ### Change behavior with descriptive norms, "75% of guests reuse towels" beats an eco appeal
 
@@ -536,9 +482,6 @@ Driving adoption of a desired behavior (upgrades, add-ons, eco choices, referral
 - Dynamic norms are the fix for early-stage products where the static number is embarrassingly low, sell momentum, not the current count.
 - The backfire rule is critical: "70% of people don't recycle" *increases* non-recycling. Always phrase the norm around the target behavior.
 
-## → Skill conversion note
-Skill: given a behavior you want to grow and its current adoption rate, output a descriptive-norm line (if the behavior is majority) or a dynamic-norm "trend" line (if minority), with a check that it never spotlights the unwanted behavior.
-
 ### Use whitespace and spacing to make products feel more premium
 
 ## The strategy
@@ -554,9 +497,6 @@ Positioning a new or premium brand where perceived value drives price and conver
 ## Notes / caveats / examples
 - Contrast pairs: Apple / Hermès / Tiffany / Nordstrom (spacious, premium) vs. Nordstrom Rack / Shein (crowded, discount). Everlane vs. Shein product pages.
 - Weaker lever for brands that already read as luxury.
-
-## → Skill conversion note
-A "premium-positioning page auditor" skill: scan a product page's layout density and flag crowded grids, cramped imagery, and missing whitespace against a spacing rubric.
 
 ### Stack four foundational persuasion principles, halo, primacy, negativity bias, and priming
 
@@ -576,9 +516,6 @@ Landing pages, ads, and long-form copy where you control ordering, imagery, and 
 - These stack: a strong halo attribute *placed first* (primacy) *primed* by the right imagery, with a light negativity-bias nudge, all reinforce one impression.
 - Negativity bias is the sharpest tool, effective but easy to overuse into fear-mongering; keep it truthful and proportionate.
 - Distinct from the existing `framing-effect` card: framing is the gain/loss *phrasing* choice; this card is the broader stack of ordering, halo, and priming.
-
-## → Skill conversion note
-Skill: audit a landing page for the four levers, is the strongest attribute leading (halo/primacy), is there priming imagery/language before the CTA, and is there a proportionate loss-framing, and suggest reorderings.
 
 ### Engineer shareable content with Berger's STEPPS framework + a 7-step content-virality process
 
@@ -608,9 +545,6 @@ People share for predictable psychological reasons. Jonah Berger's STEPPS framew
 - **Ongoing loop:** monitor trending topics for newsjacking, do social listening for meme/pop-culture angles, study competitors' viral content, and iterate.
 - STEPPS is diagnostic too, if content flopped, check which of the six triggers it lacked.
 
-## → Skill conversion note
-Becomes a "shareable-content builder" prompt: input topic + audience → output a STEPPS-scored angle, a BuzzSumo-style competitor analysis checklist, headline variants (B2C/B2B), and a shareability formatting pass.
-
 ### Time messaging to trigger events, the external jolt that finally makes someone buy
 
 ## The strategy
@@ -632,9 +566,6 @@ Lifecycle and lifecycle-timing decisions, ad targeting, seasonal campaigns, and 
 - Seasonal triggers are the easiest to plan for; random triggers reward intent-based targeting; macro triggers reward fast repositioning.
 - Barnum copy is the language layer on top of trigger timing: it feels personal because it's aimed at people all sharing the same recent jolt.
 
-## → Skill conversion note
-Skill: given a product, enumerate likely seasonal/random/macro trigger events, then draft trigger-timed message angles (with Barnum-style "feels personal" openers) for each.
-
 ### Use unpredictable rewards to sustain engagement (variable rewards)
 
 ## The strategy
@@ -650,9 +581,6 @@ Loyalty programs, retention loops, and in-product engagement mechanics, carefull
 ## Notes / caveats / examples
 - Spirit Airlines "Lucky Seat" awards free miles to a random passenger per flight.
 - Yotta Bank runs a weekly lottery where ticket count tracks account balance, prizes $0.10, $10M, driving daily app check-ins.
-
-## → Skill conversion note
-A "reward-loop designer" skill: propose a variable-reward mechanic tied to a chosen engagement metric, with guardrails against dark-pattern/gambling risk.
 
 ---
 

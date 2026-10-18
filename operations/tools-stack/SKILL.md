@@ -97,9 +97,6 @@ Producing recurring on-brand content or ad copy with LLMs, and wanting output th
 - The JSON brand file is the reusable asset, build it once and every content/ad request inherits your positioning, voice, and constraints.
 - Loading real writing samples (not just "write in a friendly tone") is what removes the generic-AI smell.
 
-## → Skill conversion note
-Strong skill candidate: a "brand context builder" that generates a structured brand JSON + a voice-sample bundle for an LLM project, plus a parallel-routing routine for running multiple models without idle waiting.
-
 ### Map AI image/video tools to use cases (Sora / Midjourney / Veo 3) and lock brand-visual consistency with hero anchors and SREF codes
 
 ## The strategy
@@ -117,9 +114,6 @@ Producing AI-generated brand imagery and video at volume for ads, social, and we
 ## Notes / caveats / examples
 - The "80-90%, close enough" mindset is the unlock for volume, chasing perfection on each asset kills throughput.
 - SREF codes + a hero anchor are the practical fix for AI image inconsistency at brand scale.
-
-## → Skill conversion note
-Strong skill candidate: an "AI visual tool router" that recommends Sora/Midjourney/Veo3 per asset type and generates a consistency workflow (hero anchor + SREF) for a brand.
 
 ### Beginner marketing tool stack and adoption sequence
 
@@ -142,9 +136,6 @@ Choosing a first marketing stack, or auditing an existing one for gaps/over-spen
 - Ad management: AdEspresso (FB/IG/Google in one dashboard), Smartly (Snap/Pinterest automation + AI creative).
 - Supporting: Stripe/Braintree/Bill.com/Affirm (payments), Airtable/Notion/ClickUp (ops; "ClickUp is half the price of Asana"), Figma/Canva (design).
 
-## → Skill conversion note
-A "stack recommender" skill: given company type (B2B/D2C), stage, and budget, output a prioritized tool list per category in the correct adoption order.
-
 ### Build your own bespoke marketing tools with AI coding assistants in hours for $10-20/mo instead of paying $50-150/mo for SaaS
 
 ## The strategy
@@ -162,9 +153,6 @@ When an off-the-shelf marketing SaaS is expensive, bloated, or doesn't quite fit
 ## Notes / caveats / examples
 - A marketer built "Content Machine 2000" for daily engagement dashboards, trend tracking, content-pillar rotation, and warm-outreach lists from engagement signals, for a fraction of the equivalent SaaS bill.
 - Best for stable, well-understood needs; don't rebuild fast-moving tools where a vendor's ongoing updates matter.
-
-## → Skill conversion note
-Strong skill candidate: a "build-vs-buy advisor" that estimates the build effort + API cost of a bespoke marketing tool vs the SaaS alternative and scaffolds a spec for the AI coding assistant.
 
 ### Reference tool stacks for the solo/AI-native founder, GTM, build, ops, and design-care picks
 
@@ -190,9 +178,6 @@ Assembling the toolset for a solo founder or very lean team; deciding what to ad
 - Design-care tooling has the best ROI in low-design B2B verticals (HR tech, compliance, healthcare admin) where competitors look generic.
 - Treat these as a curated menu, not a mandate, adopt what maps to your actual bottleneck.
 
-## → Skill conversion note
-Lower skill value (a curated tool directory); could feed a "founder stack recommender" that suggests GTM/build/ops/design tools by stage and budget.
-
 ### Stand up a keyword-monitoring and community-research stack to catch warm entry points across Reddit, Twitter, Upwork, and Quora
 
 ## The strategy
@@ -214,9 +199,6 @@ Doing outbound/warm outreach, community-led growth, or content research where ti
 - The Twitter `min_faves:` operator filters to tweets with proven traction, not every mention, higher signal.
 - Map of Reddit / Subreddit Stats tell you *where* your audience is before you invest in a community.
 
-## → Skill conversion note
-Strong skill candidate: a "warm-signal monitor" config generator that sets up keyword alerts per platform (Slack/Syften/Twitter/Earlybrd) for a given product and surfaces high-intent posts to act on.
-
 ### Build an AI UGC/video-ad production stack, Arcads/Creatify/MakeUGC for creative, plus optimization and competitor-intel tools, and win on diversity, not volume
 
 ## The strategy
@@ -236,9 +218,6 @@ Scaling paid-social creative production (UGC-style video ads) on a lean team.
 ## Notes / caveats / examples
 - Benchmarks: Savannah Sanchez ships 200+ ads/week; Creative Milkshake 2,000+/mo. Lo-fi "ugly" ads get ~3x click rate and 3-5x conversions (Barry Hott, $600M+ spend). AI ads only win when they don't look like AI.
 - Cases: FULLBEAUTY +45% ROAS / +22% conv / +36% CTR via Advantage+; Lidl +24% CTR via AdSkate. **Diversity, not raw volume, is the performance variable**, measure with holdout/incremental attribution, not platform ROAS.
-
-## → Skill conversion note
-Strong skill candidate: a "UGC ad stack planner" that assembles a generation → optimization → analysis → competitor-intel toolset to a budget and enforces a diversity-over-volume production plan (including lo-fi variants).
 
 ---
 

@@ -128,9 +128,6 @@ When designing the on-page conversion experience of any blog/content property.
 - The gating rule is specific: gate roughly **50%** of posts, and within a gated post, gate the **back half**.
 - Funnel proof-point: a weekly newsletter distributed to 100,000+ operators is the owned retention layer that this funnel feeds.
 
-## → Skill conversion note
-Becomes a "blog conversion auditor" SKILL.md that checks a post against the four goals (hook, cross-links, back-half pitch, email gate) and flags friction/missing elements.
-
 ### Audit and prune content, update, keep, delete, or redirect each page, to raise your pages:clicks ratio and concentrate link equity
 
 ## The strategy
@@ -154,9 +151,6 @@ Once a content library reaches meaningful size, and on a recurring cadence there
 - Pages:clicks ratio math: 100 pages / 1,000 clicks = 1:10; prune to 10 pages / 1,000 clicks = 1:100 (better). Google favors the higher ratio.
 - Benefits: concentrates link equity (removes dilution), improves site speed and crawl efficiency.
 
-## → Skill conversion note
-Becomes a "content pruning" SKILL.md that ingests a page-level metrics export and auto-labels each URL Update/Keep/Delete/Redirect with the criteria above, plus a batching plan.
-
 ### Distribute content through internal + external channels and route eyeballs via the discovery → engagement → pitch funnel
 
 ## The strategy
@@ -176,9 +170,6 @@ Every time a piece of content ships, plan distribution before you hit publish.
 
 ## Notes / caveats / examples
 - The newsletter is framed as the owned retention layer, the thing you control after borrowed social/SEO reach.
-
-## → Skill conversion note
-Becomes a "content distribution planner" SKILL.md: given a post + product type, it outputs an ordered internal/external channel checklist mapped to the discovery→engagement→pitch funnel.
 
 ### Generate content ideas worth writing, pass the search vs sharing test, apply five idea tactics, and run every idea through the novelty framework
 
@@ -204,9 +195,6 @@ At the top of any content program, when deciding what to actually write.
 ## Notes / caveats / examples
 - Niche launch pattern: start with a small passionate niche (e.g., Canadian bicycling enthusiasts), then expand geography → adjacent audiences (hikers, runners) → broad category (all outdoor enthusiasts).
 
-## → Skill conversion note
-Becomes a "content idea generator" SKILL.md: given a product + audience, it runs the five tactics and returns ideas already scored on the search/sharing test and novelty framework.
-
 ### Choose content topics that make money, run the 9-criterion audience/topic/content test, pick a content center of gravity, and blend TOFU + BOFU
 
 ## The strategy
@@ -228,9 +216,6 @@ At the start of a content strategy, when adding a new pillar, or when existing c
 - Wirecutter tested 250+ wine glasses and recommends one, the opinionated single pick is what makes a list post trustworthy and monetizable.
 - The "infinite game" criterion is the sleeper: one-time-need topics cap your audience's lifetime value.
 
-## → Skill conversion note
-Becomes a "topic-money-test" SKILL.md: input candidate topics + business model, score each against the 9 criteria, recommend a content center of gravity, and flag which topics support a TOFU+BOFU blend vs. pure-reach or pure-conversion.
-
 ### Earn high-DA backlinks by writing content designed for news-outlet pickup, not press releases
 
 ## The strategy
@@ -250,9 +235,6 @@ When you need authoritative referring domains (not just volume), when you have o
 ## Notes / caveats / examples
 - The unlock is "linkable asset" thinking: reporters link to the primary source of a number or chart, which is how you earn editorial DA-heavy links rather than paid or low-quality ones.
 - Localization is the cheapest differentiator, the same dataset sliced by region becomes dozens of locally-relevant, individually-pitchable stories.
-
-## → Skill conversion note
-Becomes a "linkable-asset" SKILL.md: input a dataset or topic + a target publication, output a news-angle brief (hook, timeliness peg, localization cuts, chart specs) and a journalist pitch written from the audience's interest.
 
 ### Build a free-tool growth engine, watermark-gated mini-tools tied to your core product that capture rising search demand and feed revenue
 
@@ -275,9 +257,6 @@ When your core product solves a frequent, painful, searchable job that can be pa
 - **Perfect Keto:** a free keto calculator fed 8-figure revenue.
 - The watermark does double duty: it's free distribution *and* a persistent brand impression on every shared output.
 
-## → Skill conversion note
-Becomes a "free-tool-ideation" SKILL.md: input a product + audience, output a ranked shortlist of free-tool ideas (each with the target query cluster, search-demand signal, gating/watermark mechanic, and the supporting article to build).
-
 ### Build a siloed URL architecture and topic-cluster internal linking to distribute PageRank and build topical authority
 
 ## The strategy
@@ -298,9 +277,6 @@ When structuring a content site's URLs, when publishing a new cluster, and on a 
 ## Notes / caveats / examples
 - Viral Loops silo example: `/industries/newsletters`, `/industries/fintech`, plus a `/product-launch` hub with `/product-launch/marketing-plan`, `/strategy`, `/email`, `/press-release`, `/metrics`.
 - No consensus on optimal link count, link where it's genuinely useful, don't count arbitrarily.
-
-## → Skill conversion note
-Becomes an "internal linking planner" SKILL.md that takes a set of pages, groups them into hub/spoke silos, and generates a bidirectional link map with varied anchor-text suggestions.
 
 ### Speed up indexing and lift impressions 10-50% by internal-linking new posts from already-ranked pages, then auditing links with ICARE
 
@@ -324,9 +300,6 @@ Immediately after publishing a new post (to accelerate indexing/ranking) and on 
 - Fallback when you have no ranked donor pages yet: link from your highest-authority pages found in Ahrefs.
 - Contextual, in-body links beat footer/nav links for ranking signal.
 
-## → Skill conversion note
-Becomes an "internal-link-velocity" SKILL.md: input a new URL + sitemap, run `site:` queries to find donor pages, output the exact anchor-text placements to add, an ICARE audit of existing links, and a prune list of low-value link targets.
-
 ### Surface hidden keywords with the autocomplete "+" trick, PDF/error-message intent, and score every term 0-3 for business relevance
 
 ## The strategy
@@ -345,9 +318,6 @@ When your keyword list feels exhausted, when you want low-competition/high-inten
 - The Business Score is the discipline that ties keyword selection to revenue, high volume + low relevance is a trap.
 - PDF and error-message queries are classic "low volume, converts immediately" plays, small numbers, but the searcher has an acute, ready-to-solve problem.
 
-## → Skill conversion note
-Becomes a "keyword-discovery" SKILL.md: input a seed topic + product, run the autocomplete-"+", PDF, and error-message expansions, then return every candidate with volume, difficulty, and a 0-3 Business Score, sorted by relevance-weighted opportunity.
-
 ### Build off-page authority by converting unlinked mentions to backlinks, vetting targets with Traffic Authority, and defensively buying domain typos
 
 ## The strategy
@@ -365,9 +335,6 @@ When you have brand mentions in the wild, when you're prioritizing which sites t
 - Unlinked mentions are the cheapest links you'll ever get, the editorial decision to mention you is already made; you're only asking for the hyperlink.
 - Traffic Authority filters out high-DR pages that rank for nothing useful, a page with high traffic per keyword is a page whose link actually passes value.
 - Domain-typo buying is defense, not growth: it recovers traffic that was always meant for you.
-
-## → Skill conversion note
-Becomes a "link-building-ops" SKILL.md: input a brand + domain, output an unlinked-mention list with pre-drafted outreach, a Traffic-Authority-ranked target list, and a GSC-derived typo/TLD acquisition list.
 
 ### Do bottom-up "pain point" keyword research, mine customers, teams, and competitors, then cluster into topics and prioritize high-intent terms
 
@@ -390,9 +357,6 @@ Any time you're planning what content to write for a B2B SaaS or product site an
 - Example cluster: "Send money abroad" (590/mo, primary) → "How to send money abroad" (170, secondary) → "...without fees" (20, tertiary).
 - Core rule: **topics > keywords**, one topic (unique intent) per page.
 
-## → Skill conversion note
-Becomes a "Pain-point keyword research" SKILL.md that ingests a GSC export + competitor domains, runs the interview/forum prompt set, and outputs clustered topic tables ranked by intent.
-
 ### Refresh published SEO posts by their current ranking position, different fixes for pos 1-7, 8-25, 25+, and 50+, on a quarterly Search Console pass
 
 ## The strategy
@@ -413,9 +377,6 @@ On a recurring (quarterly) cadence once you have published content sitting at a 
 - The key discipline is *not* over-editing pos 1-7 pages, changing a winning page's core concept risks its ranking; only add monetization.
 - Follow-up intent (pos 8-25) is often the difference between page 2 and page 1: the query is answered, but the user's *next* question isn't.
 
-## → Skill conversion note
-Becomes a "position-refresh" SKILL.md: input a GSC export, output a per-URL action plan bucketed by position (monetize / on-page tune / expand / rewrite) plus a TF-IDF missing-terms list for the lagging pages.
-
 ### Rank for competitor-feature, use-case-adjacent, and manual-how-to keywords, then route that traffic into your product
 
 ## The strategy
@@ -434,9 +395,6 @@ When your head terms are too competitive or too low-volume, when you compete wit
 ## Notes / caveats / examples
 - ClientVenue's competitor-feature page: ~11% conversion, far above typical blog conversion, because the searcher already has the problem.
 - The manual-then-product structure works because you earn trust by genuinely teaching the manual method before pitching.
-
-## → Skill conversion note
-Becomes a "product-led-seo" SKILL.md: input a product + a competitor + core use cases, output three keyword lists (competitor-feature, use-case-adjacent, manual-how-to) and a page outline for each that ends in the right product CTA.
 
 ### Capture thousands of low-volume queries by generating a page per data/filter combination, dynamic long-tail, standalone template pages, and AI glossaries
 
@@ -459,9 +417,6 @@ When you have (or can generate) structured data, a large set of templates/tools,
 - **Hypercontext:** standalone pages for 60+ meeting templates → 51% organic traffic lift in 3 months.
 - **AI glossaries:** ~$1k for 300 items (×$3.33 each) vs. ~$18k human-written, cheap, but a short-term play as AI-content scrutiny rises.
 
-## → Skill conversion note
-Becomes a "programmatic-page-planner" SKILL.md: input a dataset or template/term list, output the URL pattern, per-page content template, an internal-linking hub map, and a thin-content safeguard checklist.
-
 ### Harvest the low-competition keywords Reddit already ranks for by feeding a subreddit into Ahrefs, then write better posts to outrank the threads
 
 ## The strategy
@@ -483,9 +438,6 @@ When you need a fast pipeline of proven, low-difficulty keyword targets in your 
 - Pair with pain-point keyword research (mining the thread text itself for exact-phrase queries) for a fuller list.
 - Works best where a community's culture generates lots of question-shaped posts (SaaS tools, health, finance, hobbies).
 
-## → Skill conversion note
-Becomes a "reddit-keyword-harvest" SKILL.md: input a subreddit or product niche, output a ranked list of low-difficulty keywords Reddit ranks for, each with the source thread, its gaps, and a suggested post angle to outrank it.
-
 ### Track SEO with four lenses, rank tracking, aggregate organic traffic, page-by-page performance, and GSC query drill-down, and act on each signal
 
 ## The strategy
@@ -502,9 +454,6 @@ On an ongoing basis after content is published, to decide what to refresh, re-op
 
 ## Notes / caveats / examples
 - The GSC query drill-down is the highest-leverage move for finding "you're already ranking, just re-optimize" opportunities (high impressions, low CTR → rewrite title/meta).
-
-## → Skill conversion note
-Becomes an "SEO monitoring" SKILL.md that pulls rank + GA + GSC data and returns a prioritized action list (refresh / defend / re-optimize) per the four triggers.
 
 ### Read the SERP to pick the right page type (product, comparison, resource, or hub) and match the hard + soft associations Google rewards
 
@@ -527,9 +476,6 @@ For every target keyword, right after keyword research and before drafting.
 ## Notes / caveats / examples
 - Buddy Punch ranks #1 for "best employee tracking software" via third-party reviews + in-app screenshots + honest comparison.
 - Jobscan ranks for "ATS friendly resume template" with 20 template options + an original above-the-fold explainer video; ranks #1 for "applicant tracking system" with a hub linking to 20 supporting pages (site search shows **584 pages** tied to that topic).
-
-## → Skill conversion note
-Becomes a "SERP-driven page-type picker" SKILL.md: input a keyword, it classifies intent, recommends one of the four page types, and outputs the hard/soft associations to include.
 
 ### Set up the three technical SEO layers (access, understanding, serving) so Google can crawl, parse, and rank your pages
 
@@ -556,9 +502,6 @@ Do this once at the start of any content-led SEO push, and re-audit after site m
 ## Notes / caveats / examples
 - Readability thresholds worth hitting: font size **18-22pt**; content column width **700-800px** (~8-10 words per line).
 
-## → Skill conversion note
-Becomes a "Technical SEO preflight" SKILL.md that walks a site through an access/understanding/serving checklist and flags missing sitemap, robots.txt, non-HTTPS, broken links, and CWV failures.
-
 ### Make video versions of your already-ranking articles and publish intent-matched free content, the YouTube-as-SEO-engine play
 
 ## The strategy
@@ -577,9 +520,6 @@ When you already have ranking articles or usage data revealing intent, and you w
 ## Notes / caveats / examples
 - **Shopify "Learn with Shopify":** 230k YouTube subs in 18 months by videoizing ranking articles. The "What is dropshipping" article = 70k monthly visitors; its video = 677k views (tool: Claspo popups).
 - **Calm:** found peak usage 9-11PM, made "sleep / rain noise / white noise / ocean / deep sleep meditation" videos; ~50% of social traffic comes from a handful of 7+ year-old videos still doing thousands of views/hour.
-
-## → Skill conversion note
-Becomes a "video-for-seo" SKILL.md: input a list of ranking URLs (or usage-intent data), output a prioritized videoization plan, script beats per article, YouTube title/description, embed placement, and a subtle-CTA spec.
 
 ### Beat ranking pages by fulfilling SERP requirements then adding "originality nuggets", contrarian takes, first-person opinion, expert interviews, original research
 
@@ -607,9 +547,6 @@ When drafting any SEO page after you've done SERP analysis and know the required
 - Three core truths to hold onto: **think niche**, **topics > keywords**, **context is king** (fit the page to context via video/images/widgets/social proof).
 - "Mirage content" = surface-level fluff that looks useful but lacks substance, avoid it.
 - Optional finishing tool: Clearscope scrapes the top 30 results and grades word count, readability, and related terms.
-
-## → Skill conversion note
-Becomes a "SEO draft enhancer" SKILL.md: given the required SERP sections, it proposes one originality nugget at each effort tier plus a premium-experience checklist for the draft.
 
 ---
 

@@ -89,9 +89,6 @@ Hiring your first or next marketer and deciding between candidates (or between a
 - Test projects surface fit that résumés hide, pay for them and keep them scoped.
 - Candidates review your social presence first, so make sure it reflects the brand before you recruit.
 
-## → Skill conversion note
-Becomes an `interview-test-project` prompt: input the role + business context, output a paid take-home brief with a clear rubric for scoring the deliverable.
-
 ### Make your first growth hire a "Gen Marketer", an AI-fluent generalist strategist who executes across functions solo, a third path between senior exec and junior specialist
 
 ## The strategy
@@ -109,9 +106,6 @@ Making your first (or early) growth/marketing hire at a startup, especially a le
 ## Notes / caveats / examples
 - This is the hiring counterpart to the strategy-fundamentals "solo/AI-native operating model", the Gen Marketer is how a lean team gets full-funnel coverage from one person.
 - Guardrail: AI fluency is the differentiator, and it's easy to fake on paper, verify it in a live, cross-functional task.
-
-## → Skill conversion note
-Lower skill value (a hiring-archetype guide); could become a "Gen Marketer scorecard" that defines the cross-functional test project and the AI-fluency signals to verify vs. resume claims.
 
 ### Source marketing candidates by matching the job board and sourcing trick to the candidate type
 
@@ -137,9 +131,6 @@ Once you know the marketer type you need and are ready to source candidates cost
 ## Notes / caveats / examples
 - LinkedIn Ads are pricey, always cap the daily budget.
 - Sister card `evaluate-marketing-candidates.md` covers the paid test-project screening once candidates apply.
-
-## → Skill conversion note
-Becomes a `source-marketing-hire` prompt: input the marketer type + budget, output the ranked board list with costs, a sourcing-trick checklist, and a job-description skeleton.
 
 ---
 

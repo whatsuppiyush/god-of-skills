@@ -152,9 +152,6 @@ Solo operators, founders, and marketers building a personal audience from a smal
 - She applied classic direct-response copywriting principles to every social post.
 - Reframe: audience building = networking at scale, not status-seeking.
 
-## → Skill conversion note
-Becomes an `audience-growth-plan` prompt: input niche + current following, output the 80/20 content ratio, a direct-response post template with hook formula, an FAQ-mining loop, and an off-platform (podcast/blog↔thread) repurposing schedule.
-
 ### Three breakout 0-to-mass playbooks, gamified escalating stakes, raw daily authenticity, and SEO-style niche ideation
 
 ## The strategy
@@ -173,9 +170,6 @@ When you want a proven, high-variance growth model to commit to, not incremental
 - The common thread: a single, legible mechanic executed relentlessly, stakes, authenticity, or niche-keyword ideation, not a mix of everything.
 - Sulek's case is the counter to over-production: chasing polish can actively hurt when the audience wants realness.
 
-## → Skill conversion note
-Becomes a "breakout-playbook-picker" SKILL.md: input creator personality + product + platform, recommend which of the three models fits, and generate the first month's plan (stakes ladder, vlog cadence, or niche-keyword content calendar).
-
 ### Get from zero to first followers, warm targets before connecting, work follower thresholds, and buy cheap followers with a follow-to-enter giveaway
 
 ## The strategy
@@ -193,9 +187,6 @@ A brand-new or stalled account (roughly under 100k followers) that needs to manu
 ## Notes / caveats / examples
 - The giveaway CPA gap is enormous, $0.004 vs ~$2, but giveaway followers are lower-intent, so pair with value content to retain them.
 - The 20-connects/day cap on LinkedIn is a hard safety rail; exceeding it risks account suspension.
-
-## → Skill conversion note
-Becomes a "cold-start-growth" SKILL.md: input current follower count + platform, output the threshold-appropriate playbook (warm-up targets, engagement quotas, giveaway mechanics with CPA math) and daily action limits to stay within platform rules.
 
 ### Maximize algorithmic reach with zero-click content and comment-gating, deliver full value in-post, keep links out, and DM the URL
 
@@ -216,9 +207,6 @@ Any organic post where you'd instinctively drop a link, lead magnets, launches, 
 - The mechanism behind comment-gating is double: it avoids the off-platform link penalty *and* the flood of replies is itself a strong engagement signal.
 - "Intention over attention" reframes the goal, a post with 50 DMs beats a post with 5,000 likes and no leads.
 
-## → Skill conversion note
-Becomes a "native-reach" SKILL.md: input a piece of content + its link/CTA, output a zero-click rewrite that carries full value in-post plus a comment-gating mechanic (trigger phrase + DM flow) and an intention-based metric to track.
-
 ### Decide whether to invest in content creation, run a 6-month test with a kill metric, a fixed time split, and a wait-and-see rule for new platforms
 
 ## The strategy
@@ -237,9 +225,6 @@ Before committing to organic content as a channel, when justifying content ROI a
 ## Notes / caveats / examples
 - The 40/30/20/10 split is the corrective to "just post more", creating without distributing/analyzing wastes the effort.
 - The DePopas vs polished-video comparison is the core lesson: engagement and outcomes matter, not budget or polish.
-
-## → Skill conversion note
-Becomes a "content-investment-planner" SKILL.md: input available hours + goal, output a 6-month test plan (kill metric, time-split schedule, platform choice) and a new-platform triage checklist (claim-and-watch vs invest).
 
 ### Match Instagram video length to format, 15s Story cards, sub-30s Reels/ads, 60s feed previews
 
@@ -271,9 +256,6 @@ Producing or repurposing video for Instagram and deciding how to cut it per plac
 - Cross-platform Story limits for reference: Facebook 20s, Snapchat 60s, WhatsApp Status 30s.
 - Post timing: evenings/nights, strongest Sat, Sun, Mon; use "Most Active Times" in Insights for your account.
 
-## → Skill conversion note
-Becomes an `instagram-cut-planner` prompt: input a raw video length + goal (awareness vs. followers vs. ad), output the target placement, exact cut length, hook plan, and caption/Highlight steps.
-
 ### LinkedIn network growth, profile setup, and email capture
 
 ## The strategy
@@ -291,9 +273,6 @@ Grow reach by concentrating connections in tight persona clusters (the algorithm
 ## Notes / caveats / examples
 - Posting discipline: go 28 days without posting and your next post gets "heavily demoted."
 - Email-capture benchmark: a top creator with 100k+ followers converted only 5% to newsletter subscribers.
-
-## → Skill conversion note
-A "LinkedIn growth planner" skill: given a target persona, output cluster segments, a connection cadence, profile-copy rewrites, and a 5-post gated-content schedule.
 
 ### Grow a LinkedIn presence by optimizing the profile and engineering comments (not likes) for organic reach
 
@@ -321,9 +300,6 @@ B2B founders/marketers building a personal brand or thought-leadership channel. 
 - Hard numbers: organic reach <10% of followers; 500+ word posts favored; 500+ connections for the badge.
 - Comments are "THE way to get organic virality on LinkedIn", design posts to provoke replies, not just likes.
 
-## → Skill conversion note
-Becomes a `linkedin-growth-audit` prompt: input a profile URL + niche, output profile fixes (header/headline/about), a comment-bait post template at 500+ words, and an idea-sourcing checklist.
-
 ### LinkedIn post formula, hooks, formats, and comment-driven virality
 
 ## The strategy
@@ -342,9 +318,6 @@ Any founder/operator building B2B audience and email pipeline via organic Linked
 ## Notes / caveats / examples
 - Posts stay visible 48-96 hours before peaking and can sustain engagement up to a month.
 - Links no longer penalized (changed May 2020), but linking away reduces on-platform engagement, which reduces reach, only link if the post will still engage strongly.
-
-## → Skill conversion note
-A "LinkedIn post drafter" skill: take a raw idea and output a hook + context + zinger draft in the chosen format, mobile-formatted, with a comment-baiting CTA.
 
 ### Place the CTA mid-video at peak action (not the end) and re-hook continuously so mid-scroll arrivals stay
 
@@ -365,9 +338,6 @@ Any short-form video where you need an action (follow, comment, click), and any 
 - Case: Jenny Hoyos's YouTube Shorts, 1.6B views across 124 videos (~13M average).
 - The mechanism: a post-payoff CTA competes with the viewer's urge to swipe; a peak-action CTA rides the engagement wave instead of fighting it.
 
-## → Skill conversion note
-Becomes a "video-cta-placement" SKILL.md: input a script or shot list, output the recommended mid-video CTA insertion point (at peak action), re-hook recap lines, and an abrupt-cut ending.
-
 ### Farm earned media reactively, social listening, trend/drama remixing ("cult hopping"), and community outreach as outbound
 
 ## The strategy
@@ -385,9 +355,6 @@ Ongoing, as an always-on layer alongside planned content, especially when a comp
 ## Notes / caveats / examples
 - The follower-to-reach asymmetry is the point: joefromyoutube got 16.4M reach at 94.6K followers by riding an existing wave.
 - Community outreach works because you lead with consumption/value (free accounts, real engagement), not a cold pitch, the leader's audience trusts them.
-
-## → Skill conversion note
-Becomes a "reactive-social" SKILL.md: input a brand + competitors, output a listening watchlist (competitors, trend sources), trend-remix angle templates, and a community-leader outreach sequence that leads with value.
 
 ### Win on Reddit with the Karma Ladder, earn trust for 90 days before posting anything promotional, then run threads, mod contact, and AMAs
 
@@ -408,9 +375,6 @@ When Reddit is a real audience for your product and you want durable, defensible
 - One AMA ranked #1 for "Sprout Labs Reviews" on Google within 48 hours, Reddit threads earn SEO real estate too.
 - Don't skip steps: the value-only comments in Step 2 are the foundation that makes Step 3 threads survive; a cold account posting threads gets removed.
 
-## → Skill conversion note
-Becomes a "reddit-karma-ladder" SKILL.md: input a niche + target subs, output a 90-day schedule (karma targets, comment quotas, thread ideas per stage), impression targets by sub type, and a mod-outreach template gated behind completing the earlier steps.
-
 ### Turn one recording, a podcast, an event, or a routine Zoom call, into a multi-channel content engine
 
 ## The strategy
@@ -429,9 +393,6 @@ When you produce any long-form recorded content (or hold recorded calls) and wan
 - The platform-size gap is the case for videoizing audio: publishing podcasts on YouTube reaches ~6× Spotify's monthly audience.
 - Transcripts are the unlock across all three, they turn "watch the whole thing" into "search for the quotable 20 seconds."
 
-## → Skill conversion note
-Becomes a "repurpose-pipeline" SKILL.md: input a transcript/recording, output the atomized asset set (Shorts timestamps, carousel slides, blog outline, soundbite quotes) mapped to each channel with titles/thumbnails.
-
 ### Structure short-form video with a 5-second value hook, a 5-part retention skeleton, and a seamless loop
 
 ## The strategy
@@ -449,9 +410,6 @@ Any Reels / Shorts / TikTok you're scripting for reach, especially early, when y
 ## Notes / caveats / examples
 - The "BUT-SO" body structure keeps causal momentum ("he tried X, BUT Y happened, SO he did Z"), it's what prevents the mid-video sag.
 - Looping is a free retention multiplier: a 15-second video watched 1.3× reports 130%+ retention, which the algorithm rewards.
-
-## → Skill conversion note
-Becomes a "short-video-scripter" SKILL.md: input a topic + payoff, output a timestamped script following the 5-part skeleton with a 5-second value hook and a loop-closing final line.
 
 ### Expand one core idea into 10+ posts using 10 fixed post types, and stack case studies to reach 100+
 
@@ -481,9 +439,6 @@ When you have a proven idea or content pillar and need consistent volume, or whe
 - The worked example produced 10 posts all about writing strong hooks, same insight, ten framings.
 - Contrarian and Personal-story types tend to travel furthest on X/LinkedIn; Actionable and Listicle bank saves/bookmarks.
 
-## → Skill conversion note
-Becomes a "content-multiplier" SKILL.md: input one core idea, output 10 drafts (one per post type) and a plan to scale to 100+ by cross-applying the types to specific creators/case studies.
-
 ### Validate TikTok content organically before you spend on ads
 
 ## The strategy
@@ -501,9 +456,6 @@ When you're not yet ready (or funded) for paid, or want to de-risk a TikTok ad l
 ## Notes / caveats / examples
 - Growth depends on content quality, not popularity, a new account can still go big.
 - Example: Morning Brew tested video concepts organically first, then partnered with creators to turn the winners into ads.
-
-## → Skill conversion note
-Becomes an "organic-first TikTok test plan" SKILL.md: user describes their product; skill proposes 5-10 organic content concepts to post, the metrics to watch, and a promotion rule for graduating winners into paid creative.
 
 ### Sustain "why am I still watching?" with micro-surprises, emotional arcs, and curiosity-loop thumbnails
 
@@ -524,9 +476,6 @@ Longer short-form and YouTube videos where a strong hook isn't enough to hold vi
 - Peak-end rule: viewers judge the whole video by its peak moment and its ending, so the last 30 seconds are disproportionately important.
 - Thumbnail numbers work better *non-rounded* ("$1,247" beats "$1,000"), specificity reads as real.
 
-## → Skill conversion note
-Becomes a "video-retention" SKILL.md: input a video concept, output a beat-by-beat micro-surprise map, an emotional arc (who-it's-for → rollercoaster → peak-end), and three thumbnail directions using the number/reaction/question levers.
-
 ### Manufacture virality with a distinctive creative concept, repeatable templates, and over-the-top formats where the product is the story
 
 ## The strategy
@@ -544,9 +493,6 @@ When flat "5 tips" content isn't breaking through, when you want a sustainable p
 ## Notes / caveats / examples
 - The Hot Ones insight: the *format* (celebrity + increasingly spicy wings) is the moat, not the topic, a distinctive creative concept is defensible in a way generic advice isn't.
 - Repeatable templates are the sustainability layer, MrBeast's recurring formats are why the channel scales without burning out on novelty.
-
-## → Skill conversion note
-Becomes a "viral-concept" SKILL.md: input a topic + product, output several Topic+Format+Creative-Concept combinations with distinctive hooks, propose 3-5 repeatable templates, and flag one over-the-top "product-is-the-story" swing.
 
 ### Win the X/Twitter algorithm, exploit the boost/penalty multipliers, engineer retweets by motive, use relatability, and time by content type
 
@@ -566,9 +512,6 @@ Any organic X/Twitter growth effort where you want maximum reach per post rather
 ## Notes / caveats / examples
 - The −95% misspelling and −90% language-mismatch penalties are brutal and easy to trip accidentally, proofread and keep one language per post.
 - Retweet-motive framing is the practical core: don't ask "is this good?", ask "which of kudos/signaling/bookmarking does this trigger?"
-
-## → Skill conversion note
-Becomes an "x-algorithm-optimizer" SKILL.md: input a draft tweet/thread, flag penalty triggers (hashtags, links, misspellings), suggest boosts (media, self-reply, question), classify its retweet motive, and recommend a post time by content type.
 
 ---
 

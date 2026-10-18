@@ -96,6 +96,38 @@ A red fox sitting, full body, centered, plain neutral background, in a cyberpunk
 - **Gold foil**: Metallic accents catching light.
 - **Screen print**: Flat spot colours, slight registration offset.
 
+### How to pick a style for the job
+
+**By what you are making**
+- **A book or album cover**: Pick styles with bold shapes and few colours: Art Deco, Bauhaus, Pop Art, screen print, ukiyo-e. They survive being shrunk to a thumbnail. Delicate styles like watercolour and charcoal look lovely large and turn to mush small.
+- **A product or brand image**: Keep it close to photography or clean illustration. Flat vector, isometric and a restrained gouache look all read as deliberate. Heavy painterly styles make a product look like a different product.
+- **A poster or event flyer**: Graphic and print styles do the work for you: Art Nouveau for something ornate, Bauhaus for something modern, Pop Art for something loud. Leave empty space where the lettering will go, and add the text yourself afterwards.
+- **A portrait or avatar**: Oil painting, charcoal and comic ink all carry a face well. Cubism and heavy abstraction fight the likeness, so use them only when the likeness does not matter.
+- **A story or game world**: Choose one style and hold it for every image. Consistency matters more than which style you pick. Go for something with a clear palette, such as gouache or ukiyo-e, so new images look like they belong beside the old ones.
+
+**By mood**
+- **Calm and soft**: Watercolour, impressionism and pastel. Low contrast, gentle edges, muted colour.
+- **Loud and energetic**: Pop Art, graffiti and risograph. Flat saturated colour and hard edges.
+- **Nostalgic**: Name a decade and a printing process together: 1950s advertising illustration, 1980s airbrush, 1990s CD-ROM render. The process is what makes the era convincing.
+- **Serious and weighty**: Oil painting, chiaroscuro and charcoal. Strong light and dark, restrained colour.
+
+### Mixing styles without getting mud
+
+**Rules that hold up**
+- **One main style, one modifier**: Write the main style first and a single modifier after it: an art nouveau poster with a risograph finish. A third or fourth style almost always weakens the first.
+- **Pair a movement with a medium**: A movement tells the model how to compose and what to draw. A medium tells it how the surface looks. Cubism in gouache works because the two answer different questions.
+- **Keep the era consistent**: Mixing styles from very different periods works when it is a choice and fails when it is an accident. If you want 1920s geometry with modern neon, say so explicitly instead of hoping the model finds it.
+- **Say what to leave out**: If a style keeps dragging in something you do not want, such as heavy grain, a frame or a signature, name it as something to avoid. Most image models respond to this well enough to be worth the extra words.
+
+### What to do when the style does not show up
+
+**Common problems**
+- **The style is too weak**: Name the medium and a specific trait, not only the movement. Impressionism alone is vague. Loose visible brushstrokes and dappled light are something the model can draw.
+- **Every image looks the same**: You are probably describing the subject in more detail than the style. Shorten the subject and lengthen the style, and change one style word at a time so you can see what each one does.
+- **The text in the image is garbled**: Do not rely on the model for lettering. Generate the image with the space left clear and add the text in a design tool afterwards. Nothing else fixes this as reliably.
+- **Artist names behave differently in different tools**: Some tools respond strongly to a named artist and some are built to avoid it. A movement name plus two descriptive traits travels between tools better than a person's name, and it is easier to defend as your own work.
+- **It looks like a filter over a photo**: Add the physical properties of the medium: visible brushstrokes, paper texture, ink bleed, registration offset. Real art has a surface, and naming it is the difference between an imitation of the medium and something that looks filtered.
+
 
 ---
 

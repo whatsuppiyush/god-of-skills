@@ -125,9 +125,6 @@ Choosing acquisition channels for a new product, or when current channels feel l
 - The core discipline: brainstorm → rank → cheap-test → focus. The failure mode is testing everything at 20% and killing channels that would have worked at 100%.
 - Build a secondary channel engine before your primary one saturates so you're not caught flat when CAC rises.
 
-## → Skill conversion note
-Strong skill candidate: a "channel picker" that scores candidate channels on the 2×2 (audience specificity × intent), suggests a cheap validation test per finalist, and enforces focus on 1-2 winners.
-
 ### Reverse-engineer competitors' growth tactics, ads, content, and funnels
 
 ## The strategy
@@ -145,9 +142,6 @@ Planning a growth roadmap, entering a market, or hunting for tested tactics to A
 
 ## Notes / caveats / examples
 - Purpose: establish baseline growth patterns, uncover overlooked tactics, and learn industry norms so you can deliberately break them to stand out.
-
-## → Skill conversion note
-A "competitor teardown" skill: given a competitor URL, produce a structured teardown (A/B variants, ad library findings, content gaps, funnel touchpoints, tech stack) with prioritized test ideas.
 
 ### Prove your differentiation is real, pass the Opposites Game, build PMF by subtraction, and demonstrate value instead of stating it
 
@@ -167,9 +161,6 @@ Positioning a product, writing a value prop, or deciding what to build/cut to st
 - The Opposites Game is the fastest filter for whether a positioning statement is a genuine strategic choice.
 - Subtraction is a differentiation lever most teams ignore because instinct is to add features.
 
-## → Skill conversion note
-Strong skill candidate: a "differentiation tester" that runs a value prop through the Opposites Game, suggests subtraction candidates from a competitor feature map, and brainstorms physical demonstrations of the core benefit.
-
 ### Sequence a business the low-risk way, build the audience or a productized service first, and validate with cash (not opinions) before quitting your job
 
 ## The strategy
@@ -187,9 +178,6 @@ Deciding whether/when to start or quit for a startup; sequencing product vs dist
 ## Notes / caveats / examples
 - The exit metric on a service-first bridge is what prevents you from getting stuck running an agency forever.
 - "Cash, LOIs, or design partnerships" is the validation bar, enthusiasm in interviews is the thing that fools founders.
-
-## → Skill conversion note
-Strong skill candidate: a "startup sequencing advisor" that recommends audience-first vs service-first based on the founder's existing distribution, sets an exit metric, and defines cash-based validation milestones before a quit decision.
 
 ### Layer a second S-curve before the first saturates, run dual (sustaining + disruptive) innovation, pivot into adjacent niches, and flip your core-user attributes to find new segments
 
@@ -210,9 +198,6 @@ Planning the next phase of growth, or when your core product/market shows early 
 - Timing is the hard part: launch the second curve during hypergrowth, not after the first curve has already stalled.
 - Attribute-flipping is a cheap, concrete way to generate adjacent-segment hypotheses.
 
-## → Skill conversion note
-Strong skill candidate: an "S-curve planner" that identifies expansion vectors (product/market/channel), runs the attribute-flip exercise for adjacent segments, and checks whether a disruptive bet is being funded alongside sustaining work.
-
 ### Diagnose growth with the Five Fits (Foundational Five), PMF is just one of ten pairings, and the lowest-scoring fit is your real bottleneck
 
 ## The strategy
@@ -231,9 +216,6 @@ When growth stalls, before killing a channel, before scaling with paid or AI, or
 ## Notes / caveats / examples
 - Only ~34% of startup failures are actually product-market fit; the other ~66% are the other four fits. Foundational Five reframes PMF as one pairing (Market↔Product) among ten.
 - Channel-model mismatch examples: senior healthcare on Snapchat, luxury on Groupon. Failure examples: a premium watch under an untrusted brand, a $10k/mo toy subscription, LinkedIn ads for fidget spinners.
-
-## → Skill conversion note
-Strong skill candidate: a "Five Fits diagnostic" that walks a founder through scoring all five fits and ten pairings, runs the CAC-vs-ACV math, flags the bottleneck fit, and warns about false negatives from early self-selected users.
 
 ### Turn growth knowledge into action by choosing an execution path, DIY, hire full-time, or outsource, and climbing the resource-escalation ladder
 
@@ -254,9 +236,6 @@ When you've learned the fundamentals and need to decide who does the growth work
 ## Notes / caveats / examples
 - Primary directive verbatim in spirit: take action on what you've learned first, application beats more reading.
 - Subscriber benchmark cited: newsletter targets "110,000+ operators."
-
-## → Skill conversion note
-Lower skill-value (mostly a decision aid); could become a short "growth execution path chooser" that recommends DIY vs hire vs outsource based on stage and budget inputs.
 
 ### Treat growth as the intersection of marketing, sales, and product, and fix the funnel in order: don't scale paid until onboarding stops the bucket leaking
 
@@ -279,9 +258,6 @@ Work the funnel in this order:
 ## Notes / caveats / examples
 - Organizational requirement: growth must be a "core focus and principle" led by founders, it can't succeed in silos.
 - Credibility marker: **$1B+** in cumulative revenue has been generated across dozens of ad clients using this sequencing (evidence paid scales when the funnel underneath is fixed).
-
-## → Skill conversion note
-Becomes a "growth funnel diagnostic" SKILL.md that asks about each stage (landing page, onboarding, paid, content) and tells the user which blocker to fix next before scaling acquisition.
 
 ### Growth hacking as a process, PMF prerequisites, the AARRR funnel, and scientific experimentation
 
@@ -308,9 +284,6 @@ Growth hacking isn't a bag of tricks, it's a disciplined process: confirm produc
 - **High-velocity incrementalism:** Booking.com, Spotify, Meta, Duolingo win via many small changes at scale, requires a large experimentation program.
 - **Viral coefficient** > 2 signals runaway-growth potential. Niche/expensive products are unlikely to go viral, don't force it.
 
-## → Skill conversion note
-Becomes a "growth-audit" prompt: input product + funnel metrics → output PMF check (CPV + North Star + counter metric), the leakiest AARRR stage, and a prioritized experiment backlog with hypotheses.
-
 ### Build compounding growth loops and flywheels instead of one-off hacks, and know which of the four flywheel types (if any) you actually have
 
 ## The strategy
@@ -329,9 +302,6 @@ Planning a durable growth engine, or auditing whether your growth compounds or n
 ## Notes / caveats / examples
 - The test for a real loop: does this month's output feed next month's input? If not, it's a booster, not an engine.
 - Brand flywheels can be built deliberately (own one idea, break a taboo, make the community the product).
-
-## → Skill conversion note
-Strong skill candidate: a "growth loop designer" that classifies a business's current flywheel type, flags fake network effects, and proposes a compounding loop (referral, paid-reinvest, or free-wedge) matched to stage.
 
 ### Define a hyper-specific core persona around jobs-to-be-done, test the market for "starving crowd" demand, and expand TAM by selling to non-users
 
@@ -352,9 +322,6 @@ Early positioning, GTM targeting, or when the team keeps chasing every possible 
 - Order matters: find the starving crowd before perfecting the offer. A great offer to an indifferent market fails.
 - JTBD interviewing surfaces the emotional triggers demographics miss.
 
-## → Skill conversion note
-Strong skill candidate: a "core persona builder" that runs the 5 JTBD questions, scores the market on the 4 starving-crowd factors, and suggests a non-user TAM reframe.
-
 ### Systematically find business and growth opportunities, whitespace research, dead-product gaps, a pain-point journal, and problem-solution mapping
 
 ## The strategy
@@ -373,9 +340,6 @@ Idea generation for a new product or feature line; finding a wedge or an underse
 - Auggie (issue #250): a silicone breast-implant sizer rental (7-14 days) replacing rice-in-pantyhose hit $20K/mo within 10 months, 1,000+ units, 100+ 5-star reviews, incumbents ignored a solution that cannibalized their model.
 - Problem-Solution Mapping converts friction points directly into offer ideas.
 
-## → Skill conversion note
-Strong skill candidate: an "opportunity scanner" that runs the whitespace types, a killedbygoogle-style orphaned-market check, and a Problem-Solution Mapping pass over a stated customer goal.
-
 ### Run an AI-native, often solo, operating model, position AI to defensible advantage, and gate AI use so you parallelize real work, not busywork
 
 ## The strategy
@@ -392,9 +356,6 @@ Deciding team structure and where to apply AI as a founder or lean operator; set
 ## Notes / caveats / examples
 - Solo/AI-native case studies: Base44 ($1M ARR in 3 weeks, $80M Wix exit in <500 days), HeadshotPro ($3.6M/yr, 40K users, no employees), Marc Lou ($1M+ in 2025, TrustMRR built in 24h), Pieter Levels ($3M+/yr, 40+ products).
 - The strategic warning: AI cost savings that everyone gets aren't a moat, protect the defensible lever underneath.
-
-## → Skill conversion note
-Lower skill value (a strategic-posture guide); could become an "AI leverage auditor" that classifies tasks as defensible-lever vs busywork and flags where AI is being used for volume instead of advantage.
 
 ### Write a real strategy doc, Rumelt's kernel (diagnosis → guiding policy → coherent actions) distilled into a 4-section argument and one-sentence statement
 
@@ -414,9 +375,6 @@ Setting or communicating company/product/growth strategy; aligning a team; befor
 ## Notes / caveats / examples
 - The one-sentence statement is the test of whether the strategy is actually coherent, vague companies can't produce one.
 - Pairs with the differentiation-and-positioning card (the Opposites Game is another test of whether a statement is real strategy).
-
-## → Skill conversion note
-Strong skill candidate: a "strategy doc builder" that prompts for diagnosis/guiding-policy/actions, drafts the 4 sections, forces a one-sentence statement, and generates the opposite-strategy pressure test.
 
 ### Audit your unfair advantages, personal (assets, knowledge, timing, connections) and company (product, ecosystem, marketing fuel, marketing engine), then over-invest in the ones you hold
 
@@ -438,9 +396,6 @@ GTM planning, positioning, fundraising/recruiting readiness, or deciding where t
 ## Notes / caveats / examples
 - The move is asymmetric: identify the advantage you have that rivals lack, then over-invest there rather than matching them feature-for-feature.
 - The Ladder of Proof turns "are we ready to raise/recruit?" into a concrete rung-by-rung audit.
-
-## → Skill conversion note
-Strong skill candidate: an "unfair advantage auditor" that inventories personal + company advantages, maps each to the four classes, and flags the red rungs on the Ladder of Proof.
 
 ---
 

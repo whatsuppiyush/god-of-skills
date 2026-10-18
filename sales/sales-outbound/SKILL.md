@@ -154,9 +154,6 @@ Any outbound program large enough that manual per-prospect research doesn't scal
 - AI qualification fields cut the target list 60%, focusing effort on real fits.
 - The rule of thumb: AI fills blanks and researches; humans write the template and set the bar.
 
-## → Skill conversion note
-A "variable-fill outreach engine": takes a human template with marked variables + a prospect list, runs research to populate each variable per prospect, and outputs personalized sends, never generating the full email from scratch.
-
 ### Build B2B sales assets that do the selling, a buyer's guide instead of a demo, a webinar series, easy case-study collection, and a bonus-stacked offer
 
 ## The strategy
@@ -175,9 +172,6 @@ B2B / higher-ticket sales with a considered buying process, limited sales headco
 - The buyer's guide does the demo's job asynchronously and scales without reps.
 - Webinar series > single webinar because repeat attendance is the SQL signal.
 - Bonus stacking anchors on quantity of value, not on discounting the core price.
-
-## → Skill conversion note
-A "B2B asset builder": given {product, objections, customers} it drafts the 8-step buyer's guide, a webinar-series plan, a case-study request using the deadline/spotlight framing, and a bonus-stacked offer sheet.
 
 ### Structure a cold email so it reads as researched, human, and worth one low-friction reply
 
@@ -212,9 +206,6 @@ First-touch B2B outreach to a stranger you have some legitimate reason to contac
 - Open rate is increasingly unreliable (Apple Mail Privacy), optimize for replies/conversions, not opens.
 - Proof it works: Dr. Alex Oshmyansky cold-emailed Mark Cuban → Mark Cuban Cost Plus Drugs (2022).
 
-## → Skill conversion note
-Becomes a "draft-my-cold-email" prompt that takes {recipient research, ICP, product, one CTA} and outputs a ≤120-word email following the sender→hook→body→CTA→sign-off skeleton with objection + proof slotted in.
-
 ### Follow up cold emails twice, spaced 3 then 7 days, each adding new value and ending in a question
 
 ## The strategy
@@ -234,9 +225,6 @@ After any first-touch cold email that got no reply. Cadence assumes a legitimate
 - **Avoid redundant phrasing:** never "just wanted to follow up." Say something new.
 - Follow-ups can drop the fully-self-evident subject line to preserve curiosity, and can include an emoji even when non-personalized to feel human.
 - Example follow-up (from the template library): "I haven't heard back, so I thought I'd check back in. Our product keeps food deliveries warm up to an hour in transit. Restaurants like [name] and [name] got an immediate boost to reviews. Do you have time Wednesday afternoon? I can share our research on delivery efficiency."
-
-## → Skill conversion note
-Becomes a sequence-builder prompt: input {first email, one new asset per step} → outputs a 2-step follow-up sequence with day +3 / +7 send offsets and question-based closers.
 
 ### Set up cold-outbound infrastructure (dedicated subdomain, cold-only tools, compliance) and know when cold email is worth it
 
@@ -262,9 +250,6 @@ Before launching any cold campaign. Use the "when to prioritize" filter to decid
 - **Proof:** a SaaS/WordPress-plugin switch template ("concierge service to transfer users, you don't do anything") generated **$500,000 in sales at a 40%+ response rate**.
 - **When to prioritize cold email:** high-margin products (>$500 profit/deal), payback <2 months, early-stage startups needing traction, B2B SaaS, products without active search demand, agencies charging thousands/month, expensive physical goods.
 - **Pretargeting bonus:** run Facebook/LinkedIn ads to your prospect list *before* the cold email to raise perceived legitimacy and lift open/response rates, especially for enterprise/legacy targets.
-
-## → Skill conversion note
-Becomes a pre-flight checklist skill: given {domain, tool, offer economics}, it validates channel fit (the "when to prioritize" filter), flags ESP/tool violations, and outputs a CAN-SPAM/GDPR compliance checklist.
 
 ### Write cold-email subject lines that are short, personal, self-evident, and honest
 
@@ -292,9 +277,6 @@ Every cold outreach email and its follow-ups. Note the exception: follow-ups can
 - **Avoid, ALL CAPS / multiple !!!** and overly formal/salesy: "Dearest Madam", "Super Sale! Today Only!!"
 - **Outlier that worked:** Jon Buchan's "Sorry for the ferret in the post" → 80%+ open rate, meetings with Red Bull & Pepsi (humor/eccentricity as a differentiator).
 - If you can't fit it in 60 chars, spill into the preview text as a continuation.
-
-## → Skill conversion note
-Becomes a subject-line generator prompt: input {recipient signal, product benefit, one CTA} → output 5 candidate lines ≤60 chars, each flagged for angle (personal / curiosity / connection / self-evident) and auto-rejecting spam-trigger patterns.
 
 ### A 12-template cold-email swipe file mapped to specific goals (call, trial, feedback, backlink, invest, partner)
 
@@ -325,9 +307,6 @@ Choose by goal, then personalize the bracketed fields:
 - Higher-friction asks (incentives, longer meetings) are acceptable in *follow-ups*, not the first email.
 - Name 3+ recognizable companies max for social proof.
 
-## → Skill conversion note
-Becomes a template-selector skill: input {goal, product, recipient research} → picks the matching skeleton and outputs a filled draft plus a checklist pass/fail.
-
 ### The deep-research cold email, scrape prospects by tool used, map their objections, offer free migration → ~80% reply
 
 ## The strategy
@@ -347,9 +326,6 @@ B2B where prospects already use an identifiable competitor/incumbent, switching 
 - Issue #130: deep-research per-tool cold email → 80% response with free migration offer.
 - Issue #244: a WordPress membership tool scraped competitor users, mapped objections per competitor, offered free migration → "nearly 80%" reply.
 - The lift comes from specificity + removing switching cost, not from volume or subject-line tricks.
-
-## → Skill conversion note
-A "competitor-poaching outreach builder": input {competitors, your product, migration offer} → outputs a per-competitor objection matrix and a tailored cold email for each segment that names the specific headache and offers the switch.
 
 ### Find and verify a prospect's email from their LinkedIn profile (free extensions, pattern-guessing, bulk export)
 
@@ -373,9 +349,6 @@ Building a cold-outbound prospect list or finding one specific decision-maker's 
 - Free stack for most needs: ContactOut (20 credits/mo) + Hunter.io (25 searches/mo) + pattern-guessing.
 - Always verify before a real send to protect bounce rate / sender reputation.
 
-## → Skill conversion note
-Becomes an email-finder workflow prompt: input {name, company, LinkedIn URL} → outputs candidate addresses from the three common patterns, the recommended free tool per step, and a verify-before-send reminder.
-
 ### Sell as the founder and lead with curiosity, the "advice approach" and a problem-first validation loop
 
 ## The strategy
@@ -394,9 +367,6 @@ Founder-led sales, early-stage validation, and any high-value B2B outreach where
 - Founder-signed emails: 54% reply vs 18% from a secretary (issue #167).
 - The advice approach converts outreach into a conversation, lowering the sales guard.
 - Five-minute favor makes the first touch feel non-transactional before any ask.
-
-## → Skill conversion note
-A "founder-outreach kit": given {founder, ICP, problem statement} it drafts an advice-approach opener (from the founder), a five-minute-favor suggestion per prospect, and a 50-contact LinkedIn validation plan.
 
 ### Source outbound leads the unconventional way, Google operators, visitor de-anonymization, and public custom samples
 
@@ -420,9 +390,6 @@ Building or expanding a prospect list, especially when you want intent signals (
 - Clearbit Weekly Visitor Report: free tier, 50+ attributes per company visiting your site.
 - Outway's tagged custom-sample post generated an inbound wholesale conversation, sampling as prospecting.
 
-## → Skill conversion note
-A "lead-sourcing toolkit": given {ICP, product} it generates Google-operator query strings, a visitor-de-anon setup checklist, and a custom-sample outreach plan for 3-5 named target accounts.
-
 ### Break the cold-outreach pattern, anti-cliché subject lines, a "forgotten attachment" follow-up, and no-note LinkedIn requests
 
 ## The strategy
@@ -445,9 +412,6 @@ Saturated inboxes where standard cold email is ignored, and audiences that have 
 - The forgotten-attachment follow-up is a format interrupt, not a copy one.
 - Bare LinkedIn requests (issue #026) are the connection-request version of the same idea.
 
-## → Skill conversion note
-A "pattern-interrupt generator": given {product, audience sophistication} outputs 3-5 anti-cliché subject lines, a disarming-humor close, and a two-touch format variant, each flagged for A/B testing against a control.
-
 ### Warm cold-email lists with cheap awareness ads before you send, pre-targeting to lift reply and conversion
 
 ## The strategy
@@ -466,9 +430,6 @@ B2B outbound to a defined list (uploaded to LinkedIn/Meta as a custom "Direct Au
 - Awareness placements are cheap because advertiser competition there is low.
 - The control-group split is the whole point, measure incremental reply/conversion lift, not vanity ad metrics.
 - Pairs well with deep-research or founder-sent emails: recognition + relevance compound.
-
-## → Skill conversion note
-A "pre-targeting campaign planner": takes {list, platforms, budget} and outputs the audience-upload steps, an awareness-ad spec, and the split-test design (treated vs control) to measure reply/conversion lift.
 
 ---
 

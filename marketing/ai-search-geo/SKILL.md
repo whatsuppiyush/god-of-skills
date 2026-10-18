@@ -140,9 +140,6 @@ When buyers in your category are asking AI tools (ChatGPT, Perplexity, Google AI
 - Core insight to internalize: **85% of what AI says about you is off-site** → prioritize third-party reviews, community presence, and citations over on-page tweaks.
 - Comparison pages, category explainers, and proof content are the content formats that get cited most.
 
-## → Skill conversion note
-Becomes a "GEO / AI-search visibility" SKILL.md: runs prompt-set diagnostics across LLMs, maps buying prompts, and outputs a Position/Build/Scale action list weighted toward off-site authority sources.
-
 ### Run an AI-visibility audit across every model, then diagnose your gaps as coverage, consistency, or specificity
 
 ## The strategy
@@ -168,9 +165,6 @@ Before you can improve AI-answer visibility you have to *measure* it, per-model,
 - "Ghost citations" are the most actionable finding, the content already ranks well enough to be cited; the fix is positioning/recommendation, not more content.
 - Feeds directly into the fix cards: `content-structure-for-ai-citations`, `off-site-and-listicle-citations`, `entity-consistency-and-ecosystem`.
 
-## → Skill conversion note
-Becomes an `ai-visibility-auditor`: input = brand + top pages + competitor set; output = a filled query×model grid with brand-appearance/ghost-citation flags, a gap classified per query (coverage/consistency/specificity), and a ranked fix list weighted to high-intent queries.
-
 ### Structure on-page content to get cited by LLMs, 120-180-word sections, self-contained answers, tables, and stats
 
 ## The strategy
@@ -193,9 +187,6 @@ LLMs extract and cite *passages*, not pages. So the on-page work in GEO is forma
 - These are formatting rules layered on genuinely useful content, a well-structured thin page still won't be trusted (see `entity-consistency-and-ecosystem`).
 - The 40-60-word lead-answer pattern doubles as featured-snippet/AI-Overview optimization for classic search.
 
-## → Skill conversion note
-Becomes a `citability-formatter`: input = a draft/page; output = the page re-chunked into 120-180-word sections, each opening with a 40-60-word self-contained answer, comparisons converted to tables, and a flag on missing statistics.
-
 ### Build AI's confidence in you, one consistent entity narrative across every profile, plus ecosystem presence on YouTube/Reddit
 
 ## The strategy
@@ -217,9 +208,6 @@ Models recommend brands they're *confident* about, and confidence comes from a s
 - **Supporting stats:** AI-referred leads convert **3-4x better**; **60% of Google searches are zero-click**; AI search is projected to eclipse traditional search by **2028**, and citation rate is **53.1% when you're in the consideration set vs 10.6% when not.**
 - Entity consistency is unglamorous but compounding, every profile you align raises model confidence for every future query.
 - Complements `off-site-and-listicle-citations` (earn the mentions), this card makes sure those mentions all tell the *same* story.
-
-## → Skill conversion note
-Becomes an `entity-consistency-auditor`: input = your profiles (site/LinkedIn/G2/Crunchbase/Wikidata/Reddit) + positioning; output = an AEO baseline score, a diff of inconsistent descriptions to fix, and a ranked ecosystem-seeding plan weighted to YouTube/Reddit/newsletters.
 
 ### Run GEO as an operating cadence, monthly recon, biweekly answer pages, multi-channel distribution, and GA4 attribution
 
@@ -244,9 +232,6 @@ GEO isn't a project, it's a recurring loop: monitor how the models describe you,
 - The comparison → use-case → topical-authority publishing order builds citation surface fastest (comparisons and use-cases are the most-cited formats).
 - Conversion stat to defend the program internally: **11x organic conversion** on AI-referred visitors, most invisible in default GA4.
 
-## → Skill conversion note
-Becomes a `geo-cadence-runner`: input = buyer question set + content backlog; output = a monthly recon checklist (queries × models × tool), a biweekly publishing calendar in the right format order, a GA4 custom-channel regex, and a distribution plan hitting 4+ channels.
-
 ### Earn AI citations off-site, get into listicles, comparison roundups, and the consideration set, because 85% of AI mentions come from third parties
 
 ## The strategy
@@ -268,9 +253,6 @@ The single biggest GEO lever is off your own site: models mostly repeat what *th
 - **Conversion proof:** organic AI mentions now convert **7.1%** (vs 7.8% paid search); ChatGPT referral traffic is up **~60-65%** and B2B SaaS referrals **+200%.** Case studies: Bluepeak Fiber 0% → 40% in 90 days; Home Nation 3.2x AI-referred traffic in 60 days.
 - The neutral-third-party finding (80.9% for pro services) means earned placements beat self-published comparisons for credibility with models.
 - Pairs with `entity-consistency-and-ecosystem` (be consistent across those third-party surfaces) and `content-structure-for-ai-citations` (make what you publish extractable).
-
-## → Skill conversion note
-Becomes an `off-site-citation-planner`: input = category + target queries; output = a target list of listicles/roundups/communities to get into, a vs-page build plan, and a consideration-set checklist ranked by citation-share potential.
 
 ---
 

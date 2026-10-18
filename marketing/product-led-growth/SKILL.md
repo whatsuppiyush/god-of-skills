@@ -160,9 +160,6 @@ Any product with a signup → value gap and measurable early drop-off. Use when 
 - 40-60% never activate + Bowling Alley; 10%-first-win-beats-50%-more-signups + reverse-engineering + empty-state fixes; do>show>explain; forced goal-setting; trial-day rewards.
 - Caveat: forced steps only work if they accelerate the first win, a mandatory step that delays value makes the gap worse.
 
-## → Skill conversion note
-Strong skill candidate: "Diagnose my activation gap." Input = onboarding steps + retention cohort data. Output = the activation metric, a backward-designed step list (green/yellow/red), a bumper plan, and 1-2 gamification hooks.
-
 ### Embed community into the product, showcase power users, run a Discord product-dev lab, and let users become the brand
 
 ## The strategy
@@ -180,9 +177,6 @@ Products with creation/extensibility (plugins, templates, integrations), an enga
 ## Notes / caveats / examples
 - FX Replay's Discord-driven curve + ~90% WOM, no VC; Figma plugin showcase, Optimizely dev community, "users are the brands," community acquisition.
 - Caveat: community requires real, visible responsiveness, shipping user-voted features is what converts a chat room into a growth loop; an ignored forum does the opposite.
-
-## → Skill conversion note
-Skill candidate: "Stand up a community growth loop." Input = product + where users gather. Output = a power-user showcase plan, a Discord feature-voting → ship-visibly loop, and a join-then-own community sequence.
 
 ### Grow revenue with opinionated defaults and invite-now-bill-later, set the 90% choice, keep the override easy
 
@@ -203,9 +197,6 @@ Any product with configurable pricing, tiers, seat counts, or setup choices, and
 - Airbnb/Patreon/Figma/Uber/Canva defaults; invite-now-bill-later Figma; commit-phase defaults + micro-steps.
 - Caveat: "loosely held" is the ethical line, a default that's hard to escape is a dark pattern and erodes trust.
 
-## → Skill conversion note
-Skill candidate: "Set my opinionated defaults." Input = the config/tier/seat choices in the product. Output = a recommended default per choice (the 90% option), which ones to make opt-out, an invite-now-bill-later flow, and an override-visibility check.
-
 ### Before copying a competitor's feature, run the three-question adaptation test, why it works there, why it might fail for you, what to change
 
 ## The strategy
@@ -224,9 +215,6 @@ Any product/growth decision to add a gamification, retention, or engagement feat
 - Duolingo's failed Gardenscapes moves-counter → successful leaderboards/streaks rework ("Feature adaptation & rule of 3").
 - The lesson generalizes: the transferable asset is the *mechanism and the motivation it serves*, never the UI.
 
-## → Skill conversion note
-Skill candidate: "Adapt a competitor feature." Input = the feature + its source product + your audience. Output = the underlying mechanism, a fit/fail assessment for your context, and a concrete adapted version to build and test.
-
 ### Win a saturated market with free standalone on-ramps, ship independent, zero-switching-cost products that funnel to the core
 
 ## The strategy
@@ -244,9 +232,6 @@ An established product in a saturated category, or any platform that could own a
 ## Notes / caveats / examples
 - Notion acquiring Cron/Skiff, rebranding to Calendar/Mail, shipping them free and independent as zero-switching-cost entry points ("Notion Mail: winning saturated markets").
 - Why it beats feature-bloat: separate on-ramps expand top-of-funnel and reach users who'd never sign up for the core product first, whereas cramming features into the flagship raises its adoption cost.
-
-## → Skill conversion note
-Skill candidate: "Map my on-ramp products." Input = core product + adjacent user workflows. Output = candidate standalone tools (build vs acquire), how each stays zero-switching-cost, and the funnel path from on-ramp to core.
 
 ### Choose freemium vs free-trial with the data, and convert trials with onboarding, check-ins, gating, and end-of-trial offers
 
@@ -267,9 +252,6 @@ Designing or revisiting a SaaS monetization model, or when a free tier / trial i
 - Freemium vs trial stats; trial-conversion tactics + Funnel CRM 5→9%; buying-cycle-aligned freemium + Doopoll, whose Notion-gallery LP rebuild also lifted conversion 4%→14% and drove MRR +800% over 6 months.
 - Caveat: freemium's lower CAC is offset by the cost of serving free users, it only pays off with a large market and strong free→paid triggers.
 
-## → Skill conversion note
-Skill candidate: "Pick + tune my free model." Input = friction/stickiness/virality/market answers. Output = a freemium-vs-trial recommendation, where to draw the free line against the buying cycle, and a trial-conversion tactic stack (onboarding, check-in, gating, end-of-trial offer).
-
 ### Friction as a Service, use deliberate friction to qualify users, gate features, and manufacture commitment
 
 ## The strategy
@@ -289,9 +271,6 @@ Pre-product (validating demand, gating a waitlist) and post-product (deciding wh
 - All examples ("FaaS: Friction as a Service"): Airbnb hand-photography, HN karma gating, MidJourney 10,000-image gate, Dropbox referral storage, Arc screenshot-with-bug-report.
 - Caveat: friction-as-filter trades volume for quality, right for high-intent/premium products, wrong when you need broad top-of-funnel reach.
 
-## → Skill conversion note
-Skill candidate: "Design qualifying friction." Input = funnel + activation problem. Output = where to add pre-product gates vs open access, which features to usage-gate, and a focus-vs-frustrate test for each added step.
-
 ### Build retention with the Hook Model, trigger → action → variable reward → investment, applied ethically
 
 ## The strategy
@@ -310,9 +289,6 @@ Any product that needs repeat usage to deliver value or monetize (content, tools
 ## Notes / caveats / examples
 - Hook Model framing + Instagram/TikTok exemplars, "use ethically" caveat.
 - Caveat: the same loop that builds a helpful habit can build a harmful one, the investment and reward should serve the user's own goals.
-
-## → Skill conversion note
-Skill candidate: "Map my habit loop." Input = the core repeat action + current triggers. Output = a filled Hook Model (external + internal triggers, simplified action, a variable-reward idea, an investment step) plus an ethics check on the loop.
 
 ### Design onboarding that activates users to their "aha" moment using a 4-step map and four onboarding principles
 
@@ -337,9 +313,6 @@ Any product with a signup-to-value gap: SaaS, apps, tools. Especially urgent whe
 - **Build virality into onboarding.** Three modalities: **inherent** (product needs others, PayPal, Dropbox, Zoom, Slack, or creates shareable content; just get out of users' way); **word-of-mouth** (needs an elegant pain solution + enough volume; under ~10 customers/month there's too little kindling); **artificial** (incentivized referrals presented right after a delight moment, reward with core product value like Dropbox's extra GB, not cash; for non-incrementable products the reward must be big: free product after 5 referrals, or 3 months free for expensive subscriptions).
 - **Viral coefficient** = referrals per user × % of invited users who accept; **>1.0** signals viral potential. Also minimize lag between signup and referral.
 
-## → Skill conversion note
-Becomes an "onboarding teardown" SKILL.md: given a product's core value + signup flow, it maps the value journey, flags friction against the four principles, and proposes an educational/enticing/low-friction/productive redesign plus a referral hook.
-
 ### Deliver value before signup, one familiar input, instant output, and a video demo ladder that defers the account
 
 ## The strategy
@@ -358,9 +331,6 @@ Any tool where the core value can be demonstrated in one action, and any SaaS cu
 - Single-familiar-input + free-sample stats (Replit/Creati/MidJourney); two-stage TTV (Airbnb/SimilarWeb/Loom); video demo ladder / Otter.ai.
 - Complements the activation-frameworks card, this one is specifically about pushing value *before* the signup gate.
 
-## → Skill conversion note
-Skill candidate: "Design my pre-signup value moment." Input = the product's core action. Output = a single-input homepage concept, the instant/shareable first output, the exact feature to gate behind signup, and (for sales products) a 4-rung video demo ladder.
-
 ### Validate a niche with real deposits, not opinions, pre-sell against a build threshold before you write code
 
 ## The strategy
@@ -378,9 +348,6 @@ Pre-build validation for a new product or vertical, and picking *which* niche to
 ## Notes / caveats / examples
 - Pre-sell-with-deposits + build-threshold ("Audience-First Companies"); vertical micro-SaaS thesis, 200-2,000 customers at $50-500/mo, domain-expert-plus-AI ("The Solo Founder Era").
 - Related to the CRO refundable-deposit tripwire (issue #273), same commitment mechanic, applied here to *validate* demand rather than convert existing traffic.
-
-## → Skill conversion note
-Skill candidate: "Pre-sell to validate." Input = niche + rough offer. Output = a landing-page + mocked-UI spec, a refundable-deposit pre-order flow, and a build-threshold with a public commitment plan.
 
 ### Build a referral program that converts, incentive structures, timing, friction-removal, and a 3-phase rollout
 
@@ -409,9 +376,6 @@ Skill candidate: "Pre-sell to validate." Input = niche + rough offer. Output = a
 - **Fraud control** for tiered/leaderboard: track conversion by referrer, flag suspicious patterns, require verified emails.
 - **Tools:** Viral Loops + KickoffLabs (landing pages/templates); Rewardful, GrowSurf, Referral Rock (referral software).
 
-## → Skill conversion note
-Becomes a "referral-program builder" prompt: input product + CAC target + sale channel → output the incentive structure + amounts, the ask-timing triggers, swipe-copy variants, a per-persona landing-page brief, and the 3-phase rollout checklist.
-
 ### Engineer the invitation itself, model Slack's invite email, gate signup behind friend invites, and manufacture word-of-mouth
 
 ## The strategy
@@ -429,9 +393,6 @@ Any product with network effects or a referral/invite motion, especially early o
 ## Notes / caveats / examples
 - Gate-behind-4-invites + dual Rec/Friend Score (Beli); Slack invite-email structure per Elena Verna's analysis; Chewy pet-portrait WOM.
 - Distinct from the viral-loop-types card (theory + metrics) and the referral-program card (incentive design), this is specifically the invitation asset and its priming.
-
-## → Skill conversion note
-Skill candidate: "Write my invite mechanics." Input = product + network-effect logic. Output = a Slack-style invite email, an optional invite-gate spec (how many, auto-generated copy), and 1-2 unscalable WOM stunts to seed the loop.
 
 ### The four types of virality (pull, content, word-of-mouth, push) and the metrics that govern them
 
@@ -459,9 +420,6 @@ Virality is a business-design problem, not a marketing stunt. There are four dis
 - **Three non-negotiables:** don't chase silver bullets (one meme = short-term win, long-term loss); retention over acquisition (early "address-book spam" failed for lack of stickiness); respect K-factor's limits (use David Skok's viral formula/spreadsheet for rigor).
 - Track **active use**, not likes/forwards, "virality is vanity, engagement and product value win."
 - Frameworks cited: Andrew Chen ("virality is a business design problem"), Josh Elman (reach the right people → align with product value → drive the right actions).
-
-## → Skill conversion note
-Becomes a "viral-loop designer" prompt: input product type → output which virality type fits, the loop mechanics + invite-timing, and the K-factor/VCT targets needed to outpace churn.
 
 ---
 

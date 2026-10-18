@@ -17,8 +17,9 @@ Plan and run a Product Hunt launch the way the launches that actually rank do it
 ## How to use it
 
 **Claude Code**
-1. Save the SKILL.md into .claude/skills/product-hunt-launch/
-2. Run: “build my Product Hunt launch plan for <date>”
+1. Install the full skill, with its data and reference files: npx skills add whatsuppiyush/product-hunt-claude-skill
+2. Or clone https://github.com/whatsuppiyush/product-hunt-claude-skill into .claude/skills/product-hunt-launch/ (the SKILL.md on this page alone is missing those files)
+3. Run: “build my Product Hunt launch plan for <date>”
 
 ## SKILL.md
 

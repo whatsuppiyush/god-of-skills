@@ -256,9 +256,6 @@ Ad copy is engineered, not improvised. Start from real customer language (survey
 - Benchmark: "Just a 25% difference in clickthrough can make or break paid acquisition for many companies."
 - CTA verb examples map to the offer: "Watch" (product in action), "Browse" (inventory), "Play" (first level of a game).
 
-## → Skill conversion note
-Becomes a `write-ad-copy` skill: input = product + survey answers/value props + framework choice; output = 3-5 ad variants (primary text, headline, CTA) each front-loaded and hook-closed, with a specificity/emotion self-check.
-
 ### Design paid-ad creative that literally shows the product in action and belongs in the feed
 
 ## The strategy
@@ -286,9 +283,6 @@ Scrolling users decode nothing, they skim. So the creative has to make what you'
 - The through-line is anti-abstraction: concrete depiction beats mood/lifestyle imagery for performance ads.
 - "Matching aesthetics" is per-platform, the same static can win on one feed and vanish in another.
 
-## → Skill conversion note
-Becomes a `brief-ad-creative` skill: input = product type + channel; output = a creative brief enforcing the 4 rules (depict-in-use shot list, overlay text, asset-purpose checklist, channel-native styling notes) ready for a designer or image model.
-
 ### Optimize live ads by reading CPA over CTR, cutting weak siblings, and managing ad fatigue
 
 ## The strategy
@@ -311,9 +305,6 @@ Once ads are running, optimization is a disciplined loop: wait for a real sample
 ## Notes / caveats / examples
 - Rule of thumb: "Always try beating your best ads."
 - The 30-40%-below-siblings CTR cut and the ~5-week fatigue pause are the two most concrete thresholds here.
-
-## → Skill conversion note
-Becomes an `audit-live-ads` skill: input = an Ads Manager export; output = per-ad verdicts (keep/pause/scale) applying the 3k-Reach floor, CPA-first logic, 30-40% sibling-CTR cut, and fatigue-pause recommendations.
 
 ### Build an ad swipe-file stack and produce ads with a JSON brand file + AI-video workflow
 
@@ -341,9 +332,6 @@ Good creative starts as *research* (a swipe file of what already works) and ends
 - The JSON brand file is reusable across every future generation, build it once.
 - AI-video credit costs (~$2K/Kalshi ad) scale with length/quality; it's cheap vs a shoot, not free.
 
-## → Skill conversion note
-Becomes an `ad-research-to-draft` pipeline: input = brand URL + competitor list; output = a scraped swipe file (with live/dead flags), a generated JSON brand file, and a rough ad draft + designer/AI-video brief.
-
 ### Retarget on the Engagement objective, widen your intent signals, and arbitrage warm audiences across cheap channels
 
 ## The strategy
@@ -365,9 +353,6 @@ Standard retargeting optimizes to Conversions and targets product-page visitors,
 - The Engagement-objective move trades some conversion-optimization signal for cheaper reach, measure downstream CPA, not just CPM.
 - Channel arbitrage depends on clean UTM tagging and cross-platform pixels firing on the same user.
 - Complements, doesn't replace, the 4-custom-audience + fresh-creative structure in `retargeting-campaign-setup`.
-
-## → Skill conversion note
-Becomes a `retargeting-signal-mapper`: input = site event taxonomy + channel list; output = an audience matrix (signal → objective → channel to re-serve on) plus short-copy variants for each warm segment.
 
 ### Run an AI-accelerated creative pipeline, research, storyboard, produce, test, with 20% of spend always on fresh ads
 
@@ -393,9 +378,6 @@ Creative is the biggest performance lever, and AI collapses the cost of testing 
 - Economics of the approach: "days, not weeks," "a flop only costs a few hours of work," test dozens of concepts "for the price of one."
 - This is a standalone/service page, the tactic (AI-directed creative volume + outcome-based culling + 20% fresh) is real, but the specific "Signal" tool is one vendor's proprietary product.
 
-## → Skill conversion note
-Becomes a `creative-testing-pipeline` skill: input = product + past winners; output = a storyboard set (angle/story/mood + hypothesis per concept), a hook list to test, and a test plan that culls on ROAS/CPA and reserves 20% spend for fresh creative.
-
 ### Run Amazon PPC with the "Inch Up Method", budget by revenue, start bids low, and set target bids from a CVR formula
 
 ## The strategy
@@ -418,9 +400,6 @@ Amazon PPC is its own channel with its own math. The "Inch Up Method" is a disci
 - The 100-clicks-per-keyword threshold is what makes the CVR in the formula trustworthy, don't compute a target bid off 10 clicks.
 - Amazon-specific; the logic (data threshold → formula-driven target bid → inch toward it) transfers to other bid-driven marketplaces.
 
-## → Skill conversion note
-Becomes an `amazon-ppc-bid-calculator`: input = AOV, CVR, target ACOS, current revenue; output = the budget envelope, per-keyword click threshold, and the calculated target bid with a low-start ramp schedule.
-
 ### Fix broken attribution and pick the right measurement/creative-test stack for scaled paid
 
 ## The strategy
@@ -442,9 +421,6 @@ Post-iOS, the algorithms only optimize as well as the signal you feed them, and 
 ## Notes / caveats / examples
 - The Shopify CAPI fix is often the single highest-ROI change on an ecom account, missing click/browser IDs silently throttle every campaign's optimization.
 - This is a *shortlist to evaluate*, not an endorsement, match tools to account size; incrementality platforms need meaningful spend to be worth it.
-
-## → Skill conversion note
-Becomes a `measurement-stack-selector`: input = platform (Shopify/other) + spend + B2B/DTC; output = the attribution fix (CAPI path), a shortlisted tool stack per job (incrementality / creative / pricing / LP / B2B), and a signal-quality checklist.
 
 ### Win attention and trust with "ugly" native ads, competitor praise, the Pratfall effect, and neutral third-party pages
 
@@ -469,9 +445,6 @@ Polished, self-promotional ads read as ads and get scrolled past or distrusted. 
 - Comparative CTR data: competitor-praise 5.4% > self-promo 3.3% > third-party 1.8%; Pratfall ad 4x CTR / 4x cheaper CPC.
 - "Ugly" and "flaw-flagging" still need the product obvious in-frame (see `ad-creative-design-rules`), authenticity is a wrapper, not an excuse for unclear creative.
 - Competitor praise / neutral pages must stay truthful and comply with platform + ad-disclosure rules.
-
-## → Skill conversion note
-Becomes an `authentic-ad-angle-generator`: input = product + top competitor + real drawbacks/reviews; output = a batch of ugly-ad concepts, a Pratfall angle, a competitor-praise script, and a neutral-page name idea.
 
 ### Apply study-backed behavioral-science rules to ad creative, metaphor, first-person POV, gaze, pacing, and price placement
 
@@ -503,9 +476,6 @@ Beyond "show the product" (see `ad-creative-design-rules`), a body of research a
 - These are priors, not laws, the pacing/gaze/price rules depend on whether the ad is a *pleasure* (hedonic) or *serious/utilitarian* pitch. Match the rule to the product's emotional register.
 - Lifts come from individual studies; treat them as ranked hypotheses to test on your own account, strongest-first.
 
-## → Skill conversion note
-Becomes a `creative-science-checklist`: input = product type (hedonic vs utilitarian) + ad goal (benefit vs price); output = the exact rule set (pacing, gaze, price placement, font, format, claim count) to apply, each tagged with its expected lift.
-
 ### Structure paid-social accounts as Campaign → Ad Set → Ad and budget for statistically valid tests
 
 ## The strategy
@@ -529,9 +499,6 @@ A clean three-tier account structure (campaign per product, ad set per value-pro
 - Keep ≥5 high-performing ads live per ad set to avoid overexposing the audience.
 - Because Facebook can't break down results by interest/job-title/behavior, put each of those into its *own* ad set rather than mixing them.
 
-## → Skill conversion note
-Becomes a `plan-ad-account-structure` skill: input = product list + audiences + total budget; output = a campaign/ad-set/ad map with per-ad-set budgets hitting the 3-5k impression floor and the 15%/20% experiment/retargeting reserves pre-allocated.
-
 ### Max out your best channel before adding another, test channels sequentially, and stop chasing cheap CPMs
 
 ## The strategy
@@ -553,9 +520,6 @@ Channel *sprawl* is a common failure: teams spread thin across many platforms an
 - "Max out first" depends on honest unit economics, the $60-vs-$80-CAC example is the whole point: know your sustainable CAC before deciding a channel is tapped.
 - This is the tactical companion to `paid-growth-engine-methodology` (the finance-first strategy layer).
 
-## → Skill conversion note
-Becomes a `channel-sequencing-advisor`: input = current channel performance + margins/payback; output = a "saturate vs expand" verdict, a sequential test plan with per-channel budgets, and a placement/destination audit.
-
 ### Treat ads inside ChatGPT as an early, low-competition paid channel where you can be the only recommendation
 
 ## The strategy
@@ -574,9 +538,6 @@ Advertising inside ChatGPT is a new paid surface with a structural advantage: be
 ## Notes / caveats / examples
 - The original write-up was a service/sales page, so it omits exact targeting parameters, bid strategies, budget splits, creative formats, and conversion benchmarks. The durable takeaways are the *channel thesis* (single-recommendation, intent-at-moment, early-mover) and *prompt-mapping* as the targeting model. For the concrete self-serve setup and numbers, see `chatgpt-ads-execution-playbook`.
 - Vertical note: filed under `paid-acquisition` because it's a paid channel. A dedicated `ai-search-geo` vertical would fit better if we later add *organic* AI-answer visibility (GEO) content, keep this card paid, put GEO there.
-
-## → Skill conversion note
-Becomes a `chatgpt-ads-intent-map` skill: input = product + buyer problems; output = a ranked list of buyer prompts to target, single-recommendation positioning angles, and a landing/measurement checklist, flagged as an early-stage channel with unknown benchmarks.
 
 ### Launch ChatGPT Ads for real, Context Hints as buyer scenarios, a minimum-viable 30-day test, and pixel/Conversions API from day one
 
@@ -599,9 +560,6 @@ Becomes a `chatgpt-ads-intent-map` skill: input = product + buyer problems; outp
 - The **$5 start bid** matters, bidding the $3 floor fails delivery, so the "cheapest" bid wastes the test.
 - Early-channel benchmarks are unstable; the 30-day, learning-first framing protects you from killing it on week-one ROAS.
 - Bonus: strong-delivering Context Hints double as *organic content research*, they reveal high-volume buyer problem-states (see the ai-search-geo cadence card).
-
-## → Skill conversion note
-Becomes a `chatgpt-ads-launcher`: input = product + buyer personas; output = Persona+Intent+Scope Context Hints (by conversation stage), ≤48-char headlines, a $50-100/day 30-day test plan, and a pixel/Conversions-API setup checklist.
 
 ### Pick the right creative with "one ad, one job", diagnose the bottleneck, then choose hook + format by funnel temperature
 
@@ -631,9 +589,6 @@ Most creative fails because it tries to do everything for everyone. The framewor
 - The category shortcuts are *priors*, not rules, they tell you where to start testing, not what will win.
 - "One ad, one job" pairs with `creative-supply-chain-and-volume` (how many to make) and `video-ad-diagnostics-and-timing` (how to read the result).
 
-## → Skill conversion note
-Becomes a `creative-brief-planner`: input = category + funnel stage + diagnosed bottleneck; output = the ad's single job, 3-4 hook+format combos, the platform-specific attention beat, and a 5-question QA gate.
-
 ### Run creative as an operational supply chain, commit to volume, count distinct ideas not variants, and feed organic winners into paid
 
 ## The strategy
@@ -656,9 +611,6 @@ At scale, creative is the constraint and the answer is *throughput*, not clevern
 ## Notes / caveats / examples
 - Volume without *distinct ideas* is waste, the "count ideas not variants" rule prevents 50-variant churn.
 - The math (50-100 variations, $10K+/mo, 30+ concepts/mo) is for scaling accounts; smaller accounts scale the ratios down.
-
-## → Skill conversion note
-Becomes a `creative-ops-planner`: input = monthly spend + creator/asset capacity; output = a volume target, a Stage-1/Stage-2 split, a Feeder-Strategy workflow, and a scripting prompt seeded with your customer-language sources.
 
 ### How to layer Facebook ad targeting, demographics, interests, behaviors, custom + lookalike audiences
 
@@ -688,9 +640,6 @@ Facebook targeting has three built-in layers (demographics, interests, behaviors
 - **Ad-fatigue trick:** "transitional" audiences (life events, birthdays, newly engaged) naturally refresh their membership, so they fatigue slower without new creative.
 - Targeting is set at the **ad-set** level; a campaign can hold multiple ad sets each with a different audience.
 
-## → Skill conversion note
-Becomes a "Meta targeting builder" prompt: input product + ACR data → output a layered ad-set plan (broad-vs-narrow decision from conversion count, seed-audience list for lookalikes, and an exclusion list to cut CAC).
-
 ### Build Facebook prospecting audiences with geo tiers, niche interests, lookalikes, and exclusions
 
 ## The strategy
@@ -719,9 +668,6 @@ Prospecting targeting is a set of concrete defaults: start in Tier-1 geos, targe
 - Interests are the highest-leverage lever: the niche-vs-broad rule is the single biggest signal-quality fix.
 - Facebook won't let you break results down by interest/job/behavior, isolate each in its own ad set to learn.
 
-## → Skill conversion note
-Becomes a `configure-fb-targeting` skill: input = product + ICP + market; output = a targeting spec (geo tier list, age 22-50 default, niche interest list, lookalike seed+size+% recommendation, exclusion audiences).
-
 ### Micro-target Facebook audiences with auto-synced behavioral personas (Segment-style)
 
 ## The strategy
@@ -746,9 +692,6 @@ Instead of manually exporting CSVs into Facebook Custom/Lookalike audiences, pip
 - Core rationale: "Building a giant lookalike off of all your users isn't helpful if your users have very different behaviors."
 - The old CSV-upload method doesn't scale, ignores differentiation, and needs constant manual refresh; the auto-sync method fixes all three.
 
-## → Skill conversion note
-Becomes a "behavioral audience planner" prompt: input your tracked events + customer traits → output the segment definitions (event/trait/computed), which to retarget vs. seed as lookalikes, and the per-segment ad message.
-
 ### Scale Google Ads with bid-strategy switching, brand/non-brand splits, competitor keywords, and geo-tiers
 
 ## The strategy
@@ -772,9 +715,6 @@ Scaling Google Ads spend without wrecking CAC is a specific set of moves, not ju
 - **Result:** this playbook drove **8x spend growth ($62K → $493K/mo)** while holding **CPAs within ~20% of baseline** and adding **6,000 new paying users.**
 - Competitor-keyword bidding invites the same back at you and can be expensive on trademarked terms, watch quality score and CPCs.
 - The 15-20% step rule matters: bigger jumps reset the learning phase and spike CPA.
-
-## → Skill conversion note
-Becomes a `google-scaling-planner`: input = current campaign map + LTV-by-geo; output = a bid-strategy switch plan, brand/non-brand split, competitor keyword list, geo-tier structure, and a stepped budget-ramp schedule.
 
 ### Which Google Ads campaign type to use, Search, Display, Shopping, Video, App, Local, Smart, Performance Max, Discovery
 
@@ -803,9 +743,6 @@ Google Ads has a campaign type for each intent + placement. Pick by goal: captur
 - Model to keep straight: **goal** (sales/leads/traffic/awareness) → **type** (Search/Display/…) → **ad format** (text/responsive/carousel).
 - Search ads convert directly; Display/Video/Discovery often convert via a later brand search (view-through).
 
-## → Skill conversion note
-Becomes a "Google campaign-type recommender" prompt: input business model + goal + conversion history → output the recommended campaign type(s), whether to go manual vs. Smart/PMax, and the setup prerequisites (GMC, GBP, conversion thresholds).
-
 ### Run Google Display ads that actually convert, formats, targeting, creative rules, and how to measure them
 
 ## The strategy
@@ -833,9 +770,6 @@ Google Display ads reach ~2M sites/apps/videos (incl. YouTube + Gmail) but conve
 - Outsource HTML5/animated builds to Fiverr; use Canva templates as a design reference.
 - Bid strategies available: CPA, ROAS, CPC, CPM (vs. Search which is primarily CPC).
 
-## → Skill conversion note
-Becomes a "Display campaign builder" prompt: input product + audience temperature → output format choice, the size set to produce, a layered targeting plan, budget split, and the two creative briefs (prospecting vs. retargeting) with landing-page requirements.
-
 ### Match ad messaging to the audience's awareness level using the Ladder of Product Awareness
 
 ## The strategy
@@ -862,9 +796,6 @@ How much you explain in an ad should depend on how aware the audience already is
 - Search intent is a strong LPA signal; social profile data is a weak proxy, which is why social copy must carry more context.
 - Rising audience awareness is one of the standard triggers for creating fresh ads.
 
-## → Skill conversion note
-Becomes an `awareness-matched-ad-copy` skill: input = channel + targeting signal (keyword or profile) + product; output = LPA-placed messaging that either leads with details (high LPA) or sells the problem first (low LPA).
-
 ### Squeeze more from lookalikes with negative lookalikes, high-intent-only seeds, and partner pixel data
 
 ## The strategy
@@ -884,9 +815,6 @@ The default lookalike (seed = all buyers, target the 1% lookalike, ship it) leav
 - These stack on top of the standard prospecting setup (see `facebook-audience-targeting`), this card is the *advanced seed/exclusion* layer, not a replacement.
 - Negative lookalikes need enough "bad customer" volume to build a valid source audience; on tiny accounts the exclusion may be noise.
 - Partner-data marketplaces (Repixel) carry the usual data-provenance/privacy caveats, validate consent/quality before importing a pixel audience.
-
-## → Skill conversion note
-Becomes a `lookalike-seed-optimizer` recipe: input = CRM/LTV export + UTM taxonomy; output = three source-audience definitions (worst-customer exclusion, high-intent seed, expansion plan) ready to paste into Ads Manager.
 
 ### Restructure Meta creative-first, collapse to a 2-campaign architecture, respect GEM's ad-dedup, and enforce placement safe-space discipline
 
@@ -908,9 +836,6 @@ Meta's machine-learning delivery (GEM / Advantage+ era) has changed what a good 
 - Aimed at **$50K+/mo** advertisers; small accounts don't have the volume to justify 4 placement cuts per concept, but the consolidation principle still applies.
 - This *supersedes* the granular structure in `campaign-structure-and-budgets` for GEM/Advantage+ delivery, keep the older card for the fundamentals, use this for scaled accounts.
 - Feeding organic winners in ties directly to the Feeder Strategy in `creative-supply-chain-and-volume`.
-
-## → Skill conversion note
-Becomes a `meta-account-restructurer`: input = current campaign/ad-set map + monthly spend; output = a consolidated 2-campaign plan, a per-concept variation cap, and a 4-placement asset checklist with manual-preview gate.
 
 ### Run paid acquisition finance-first, model unit economics, architect the engine, then scale to pipeline not clicks
 
@@ -935,9 +860,6 @@ The "Growth Engine" model treats paid as a system built on top of finance, not a
 - **WorkOS:** 9x qualified leads from Google via structured experimentation.
 - The 4-phase model and the case benchmarks are the executable takeaways; the original write-up was an agency service page.
 
-## → Skill conversion note
-Becomes a `paid-acquisition-strategy` skill: input = unit economics (CAC/LTV/margin/payback) + product + channels; output = a phased plan, economic model + break-point, channel mix mapped to P&L, LTV-tier campaign structure, and a pipeline-based measurement spec.
-
 ### Set up Facebook retargeting with four custom audiences and fresh, complementary creative
 
 ## The strategy
@@ -960,9 +882,6 @@ Retargeting recaptures people who already engaged. Build four custom audiences, 
 ## Notes / caveats / examples
 - The 90-day window (or top-25%-by-time for high-traffic sites) sizes the pool; the 3-day exclusion prevents hammering people who *just* left.
 - Complementary value props matter: retargeting is a second, different pitch, not a louder repeat of the first.
-
-## → Skill conversion note
-Becomes a `build-retargeting-campaign` skill: input = traffic volume + whether video ads exist; output = the four audience definitions, the include/exclude ad-set config, and a brief for complementary retargeting creative.
 
 ### Stop the scroll with UI-mimicry, phone-ception/text-interrupt/fake-podcast devices, and format-violating novelty
 
@@ -987,9 +906,6 @@ The first 1-3 seconds decide whether an ad is watched. This card is a concrete t
 ## Notes / caveats / examples
 - These devices are hooks, not whole ads, pair with a clear product payoff (see `ad-creative-design-rules`) and the 1/3/5 timing (see `video-ad-diagnostics-and-timing`).
 - Novelty is the point: a device that's now everywhere (fake texts, fake podcasts) loses its interrupt value, rotate as they saturate.
-
-## → Skill conversion note
-Becomes a `scroll-stop-device-picker`: input = placement + product; output = 3-4 hook devices to storyboard (with the 1-3s beat) and a Keynote-based production plan for fast animated variants.
 
 ### TikTok ad creative, hook rules, UGC, and 8 swipeable ad formulas that convert
 
@@ -1035,9 +951,6 @@ Whenever you're briefing, scripting, or producing TikTok ad creative, especially
 - Discount example code: "TIKTOK15". Unboxing timeline example is a full 20-second beat sheet.
 - Inspiration/monitoring: TikTok Creative Center (ads.tiktok.com/business/creativecenter), Business Creative Hub (Profile > Settings > Business Suite), Ad Experience Specialist Mode, and just browsing the For You Page (ads appear every 3-4 swipes).
 - Low buyer intent on-platform means discounts reliably lift conversion.
-
-## → Skill conversion note
-Becomes a "Script a TikTok ad" SKILL.md: user picks one of the 8 formulas + their product, and the skill outputs a beat-by-beat script with hook options, on-screen text, and a matched CTA following the 8 rules.
 
 ### Set up a TikTok Ads Manager account from scratch, pixel, audiences, campaign, ad group, ads
 
@@ -1089,9 +1002,6 @@ First time launching TikTok paid, or setting up a fresh ad account for a DTC eco
 - $20/day is the floor; $100-200/day is the realistic learning-phase commitment.
 - The Add to Cart → Place an Order optimization swap avoids starving a fresh pixel of signal before it has 50 purchase events.
 
-## → Skill conversion note
-Becomes a step-checklist SKILL.md ("Launch a TikTok Ads account") that walks a user through each numbered stage and outputs their filled-in campaign structure, pixel/event plan, and ad-group settings.
-
 ### TikTok ads, 3-campaign structure, creative testing, scaling, and retargeting
 
 ## The strategy
@@ -1137,9 +1047,6 @@ Once your account is set up and you're managing ongoing spend, structuring campa
 - KPIs to track: impressions, eCPM, eCPV, average watch time, completions (25/50/75/100%), CPA, add-to-cart, initiate-checkout, ROAS, spend, installs/install-rate/eCPI.
 - Collection ads and dynamic product ads (DPAs) are agency-partner only, not available to self-serve accounts.
 
-## → Skill conversion note
-Becomes a "TikTok ad manager coach" SKILL.md: user pastes 3-day test results (CPA per ad vs. target); skill classifies each ad Excellent/Average/Bad, outputs kill/scale actions, next scaling step (+20% or +25%/wk), and recommends which retargeting tactic to build next.
-
 ### TikTok targeting, bidding, and budget math, go broad, let creative do the work
 
 ## The strategy
@@ -1175,9 +1082,6 @@ Planning a TikTok media buy: setting budgets, choosing bid strategy, deciding wh
 - **Best categories:** DTC ecommerce under $150 AOV (beauty, fashion, CPG, e.g. Jones Road, True Classic, Athletic Greens) and mobile apps/games (Coinbase, Beatstar, Hopper).
 - **Premium formats:** TopView (60-sec, $65k/day minimum); Sponsored Hashtag Challenge (up to $500k), not for most self-serve budgets.
 
-## → Skill conversion note
-Becomes a "TikTok budget & fit calculator" SKILL.md: user inputs target CPA, AOV, and total paid budget; skill returns the daily budget (CPA×50÷7), the prospecting/retargeting split, a go/no-go on the 4-point fit checklist, and expected CPM/CPC/CAC ranges.
-
 ### Diagnose and re-edit video ads with thumb-stop rate, dropoff-cliff editing, and the 1/3/5-second timing framework
 
 ## The strategy
@@ -1200,9 +1104,6 @@ Becomes a "TikTok budget & fit calculator" SKILL.md: user inputs target CPA, AOV
 - 70% of feed video is watched muted, the 1-second visual and on-screen text carry the hook.
 - Thresholds (10% thumb-stop, ⅓-of-LTV cost per result) are rules of thumb; calibrate to your account's baselines.
 
-## → Skill conversion note
-Becomes a `video-ad-doctor`: input = Ads Manager export + the per-second play data; output = a hook-vs-hold verdict, the exact timestamps to re-edit, and a pass/fail against the thumb-stop and cost-per-result thresholds.
-
 ### What YouTube ads cost and how to lower it, CPV ranges, bidding models, and cost levers
 
 ## The strategy
@@ -1224,9 +1125,6 @@ YouTube ads run about $0.03, $0.30 per view, but the effective cost swings on fo
 - **CPV range:** ~$0.03, $0.30 per view.
 - **Cost goes up** with: competitive placements, premium demographics/interests, non-skippable format (pay for all viewers), and in-market audiences.
 - **Cost goes down** with: higher quality score, narrower targeting, skippable formats, and remarketing.
-
-## → Skill conversion note
-Becomes a lookup/estimator note that feeds the YouTube ad planner skill, maps format → bidding model and lists the four cost-down levers to apply when CPV is too high.
 
 ### Run YouTube ads, pick the right format, target by audience + content, and make videos built for YouTube
 
@@ -1260,9 +1158,6 @@ YouTube is a cheap awareness + remarketing channel ($0.10, $0.30 per view/click)
 - **Attribution gap:** YouTube's conversion window misses users who skip then search later. Add a post-purchase "How did you hear about us?" survey; more customers often pick YouTube than Google Analytics reports, because the impression lingers.
 - Measure with YouTube Studio (views, watch time) + Google Ads (view rate, CPV, CTR, spend).
 - Expect slower conversions than search/display; the value is long-term brand building.
-
-## → Skill conversion note
-Becomes a "YouTube ad planner" prompt: input goal + budget + creative capacity → output the format choice, an audience/content targeting matrix, the parallel prospecting-campaign set, and a scripted hook-first video outline with CTA.
 
 ---
 
